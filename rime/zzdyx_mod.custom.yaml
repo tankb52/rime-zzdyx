@@ -30,7 +30,7 @@
 
   "style/horizontal": true      #候选词显示方式，true为横排，false竖排
   menu:
-    page_size: 3                #候选词数量
+    page_size: 5                #候选词数量
   engine/translators/+:
     - "history_translator@history"      #重复输入
     - "lua_translator@helper"
