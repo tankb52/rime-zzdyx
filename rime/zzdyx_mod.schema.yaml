@@ -2,17 +2,18 @@
 # encoding: utf-8
 
 schema:
-  schema_id: zzdyx_mofast
-  name: "哲哲豆音形·快版"
+  schema_id: zzdyx_mod
+  name: "哲哲豆音形·MOD版"
   version: "1.0"
   author:
     - 哲哲豆音形发明人：哲哲豆
   description: |
     哲哲豆音形快版
-    按`键临时拼音或者用拼音反查编码
+    “Ub”笔画反查编码，“Up”拼音反查编码
   dependencies:
-    # 反查功能需要 pinyin_simp 方案
-    - pinyin_simp
+    # 反查功能需要的方案
+    - pinyin_simp       #拼音词库
+    - stroke            #笔画词库
 
 switches:
   - name: ascii_mode
@@ -37,11 +38,14 @@ engine:
     - ascii_segmentor
     - matcher
     - abc_segmentor
+    - affix_segmentor@pinyin_lookup         #指向用户自定义tag，引入反查
+    - affix_segmentor@stroke_lookup
     - punct_segmentor
     - fallback_segmentor
   translators:
     - punct_translator
-    - reverse_lookup_translator
+    - reverse_lookup_translator@pinyin_lookup       #反查翻译器
+    - reverse_lookup_translator@stroke_lookup
     - table_translator
     - table_translator@custom_userdict
 
@@ -59,9 +63,9 @@ speller:
   #max_code_length: 4  # 四碼頂字上屏
 
 translator:
-  dictionary: zzdyx_mofast
-  prism: zzdyx_mofast
-  enable_charset_filter: true
+  dictionary: zzdyx_mod
+  prism: zzdyx_mod
+  enable_charset_filter: false
   enable_encoder: false
   enable_completion: true
   enable_sentence: false
@@ -72,19 +76,32 @@ translator:
 #拼音混输
 abc_segmentor:
   extra_tags:
-    - reverse_lookup
+    - pinyin_lookup 
 
-#拼音反查
-reverse_lookup:
+#配置反查
+#拼音反查：输入Up开始拼音反查
+pinyin_lookup:
+  tag: pinyin_lookup
   dictionary: pinyin_simp
-  prefix: "`"
+  prefix: "Up"
   suffix: "'"
-  tips: 〔拼音〕
+  tips: 〔拼音反查〕
   preedit_format:
     - xform/([nl])v/$1ü/
     - xform/([nl])ue/$1üe/
     - xform/([jqxy])v/$1u/
 
+# 笔画反查：输入Ub开始笔画反查
+stroke_lookup:
+  tag: stroke_lookup
+  dictionary: stroke
+  enable_completion: true
+  prefix: "Ub"
+  tips: 〔笔画反查〕
+  preedit_format:
+    - xlit/hspnz/一丨丿丶乙/
+
+  
 # 控制全角模式下的符号和半角模式下的符号，并自定义符号
 punctuator:
   import_preset: symbols
@@ -108,4 +125,5 @@ recognizer:
   import_preset: default
   patterns:
     punct: "^/([0-9]+[a-z]*|[a-z]+)$"
-    reverse_lookup: "`[a-z]*'?$"
+    stroke_lookup: "Ub[a-z]*'?$"
+    pinyin_lookup: "Up[a-z]*'?$"

@@ -1,0 +1,22 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.15.0.0
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Wed May  1 02:18:30 2024"
+  rime_version: 1.8.5
+patch:
+  schema_list:
+    - {schema: pinyin_simp}
+    - {schema: zzdyx_mod}
+    - {schema: zzdyx_perfect}
+    - {schema: zzdyx_single}
+  switcher:
+    abbreviate_options: true
+    caption: "【设置菜单】"
+    fold_options: true
+    hotkeys:
+      - "Control+grave"
+      - "Control+Shift+grave"
+      - "F4"
+  menu:
+    alternative_select_labels: [⒈,⒉,⒊,⒋,⒌,⒍,⒎,⒏,⒐,⒑]  # 修改候选标签
