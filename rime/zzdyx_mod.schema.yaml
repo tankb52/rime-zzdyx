@@ -109,7 +109,18 @@ punctuator:
     "@" : "@"
     "#" : "#"
   half_shape:
-    "@" : "@"
+    '@':
+      - '@'
+      - '@foxmail.com'
+      - '@outlook.com'
+      - '@hotmail.com'
+      - '@gmail.com'
+      - '@126.com'
+      - '@qq.com'
+      - '@sina.com'
+      - '@163.com'
+      - '@139.com'
+      - '@sohu.com'
     "#" : "#"
 
 # 快捷键

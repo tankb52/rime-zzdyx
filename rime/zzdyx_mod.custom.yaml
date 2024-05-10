@@ -17,7 +17,7 @@
       states: [ 。, ． ]
         #见源码 https://github.com/fcitx/fcitx5-rime/blob/a5b5bf9f3928c1e9aebd95ed35f6be43d496f3e7/src/rimeengine.cpp#L696
         #如果想要获得通知，可以使用"!simplification"这个名字
-    - name: simplification
+    - name: "!simplification"
       reset: 0
       states: [ 汉, 漢 ]
     - name: full_shape
@@ -49,7 +49,7 @@
 #opencc功能：简繁转换
   simplifier:
     opencc_config: s2t.json
-    option_name: simplification
+    option_name: "!simplification"
 
 #z键历史输入重复上屏
   history:
@@ -65,5 +65,6 @@
       - {accept: ".", send: 2, when: has_menu} #手机上句号第二重碼
       #- {accept: ",", send: 3, when: has_menu} #手机上逗号第三重碼
       - {accept: "Shift+space", toggle: noop, when: always}
-      - {accept: "Control+Shift+4", toggle: simplification, when: always}
+      - {accept: "Control+Shift+4", toggle: "!simplification", when: always}
       - {accept: "Control+Shift+dollar", toggle: "!simplification", when: always}
+      - {accept: "Control+Shift+F", toggle: "!simplification", when: always}
