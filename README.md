@@ -45,7 +45,7 @@ F4 呼出的菜单中可开关。
 可在`/rime/opencc/emoji_word.txt`中自己进行添加和修改。
 
 ### 2.4 可自行添加用户词库
-将 rime 目录下`zzdyx_userdict_temp.txt`文件重命名为`zzdyx_userdict.txt`，并在此文件中添加用户自己的词库。
+打开 rime 目录下的`zzdyx_userdict.txt`，并根据此文件的格式说明，添加用户自己的词库。
 
 用户添加的词库居后，并已通过`〈方案〉.custom.yaml`中的`uniquifier`功能自动过滤重码。
 
