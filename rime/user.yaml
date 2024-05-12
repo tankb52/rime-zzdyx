@@ -1,5 +1,5 @@
 var:
-  last_build_time: 1715530194
+  last_build_time: 1715539909
   option:
     ascii_punct: false
     full_shape: false
@@ -8,7 +8,7 @@ var:
   schema_access_time:
     double_pinyin_flypy: 1714512916
     pinyin_simp: 1714660943
-    zzdyx_mod: 1715533275
+    zzdyx_mod: 1715544275
     zzdyx_mofast: 1715064968
     zzdyx_perfect: 1715319850
     zzdyx_single: 1715275939
