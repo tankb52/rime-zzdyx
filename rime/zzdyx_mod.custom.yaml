@@ -1,10 +1,4 @@
 ﻿patch:
-  # "style/layout/hilite_spacing": 10
-  # "style/layout/round_corner": 2
-  # "style/layout/margin_y": 0
-  # "style/layout/min_width": 0
-  # "style/layout/margin_x": 0
-  # "style/layout/candidate_spacing": 10
   switches:
     - name: show_emoji
       reset: 1
@@ -30,7 +24,8 @@
 
   "style/horizontal": true      #候选词显示方式，true为横排，false竖排
   menu:
-    page_size: 5                #候选词数量
+    page_size: 4                #候选词数量
+
   engine/translators/+:
     - "history_translator@history"      #重复输入
     - "lua_translator@helper"
@@ -57,6 +52,7 @@
     size: 1 #重复前几次上屏
     initial_quality: 1 #为0时重码居后
 
+#自定义热键
   key_binder:
     import_preset: default
     bindings:
@@ -68,3 +64,9 @@
       - {accept: "Control+Shift+4", toggle: "!simplification", when: always}
       - {accept: "Control+Shift+dollar", toggle: "!simplification", when: always}
       - {accept: "Control+Shift+F", toggle: "!simplification", when: always}
+      #横排时上下翻页左右选择
+      - {accept: Left, send: Up, when: composing}
+      - {accept: Right, send: Down, when: composing}
+      - {accept: Up, send: Page_Up, when: composing}
+      - {accept: Down, send: Page_Down, when: composing}
+
