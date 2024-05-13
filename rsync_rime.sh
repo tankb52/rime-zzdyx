@@ -4,7 +4,7 @@
 # * File         : rsync_rime.sh
 # * Version      : 0.2
 # * CreateTime   : 2024-05-13 02:30:40
-# * LastEdit     : 2024-05-14 03:04:21
+# * LastEdit     : 2024-05-14 03:10:39
 # * Author       : Knat
 # * Licence      : Copyright © 2024 Knat All Rights Reserved.
 # * Desc         : 用 rsync 工具备份 rime 目录。
@@ -14,7 +14,7 @@
 exclude_list={"'build/'","'pinyin_simp.userdb/'","'sync/'","'zzdyx_userdict.txt'"}
 
 # 同步命令
-cmd="rsync -av --exclude=$exclude_list ~/.local/share/fcitx5/rime/  ~/Public/rime-zzdyx.githup/rime-zzdyx/rime"
+cmd="rsync -avP --exclude=$exclude_list ~/.local/share/fcitx5/rime/  ~/Public/rime-zzdyx.githup/rime-zzdyx/rime"
 
 # 用exec命令会切换路径
 eval $cmd
