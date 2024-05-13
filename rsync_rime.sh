@@ -4,9 +4,9 @@
 # * File         : rsync_rime.sh
 # * Version      : 0.2
 # * CreateTime   : 2024-05-13 02:30:40
-# * LastEdit     : 2024-05-14 03:10:39
+# * LastEdit     : 2024-05-14 03:23:03
 # * Author       : Knat
-# * Licence      : Copyright © 2024 Knat All Rights Reserved.
+# * Licence      : Copyright © 2024 Knat. All Rights Reserved.
 # * Desc         : 用 rsync 工具备份 rime 目录。
 # * 
 
