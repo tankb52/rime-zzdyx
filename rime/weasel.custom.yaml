@@ -53,6 +53,13 @@ patch:
   # 显示托盘图标
   "style/display_tray_icon": false
   "style/layout/spacing": 10
+  #全局阴影模糊半径，如果为0则全局禁用阴影
+  "style/layout/shadow_radius": 5
+  # 阴影x偏置，正向右负向左
+  "style/layout/shadow_offset_x": 4
+  # 阴影y偏置，如果x，y都是0,而shadow_radius不为0，则四周绘制阴影；否则drowshadow阴影
+  "style/layout/shadow_offset_y": 4
+
   "style/color_scheme": mysetting
   preset_color_schemes:
     morning:
@@ -84,6 +91,11 @@ patch:
       hilited_candidate_back_color: 0x825C1A
       candidate_text_color: 0x825C1A
       comment_text_color: 0x000000
+      shadow_color: 0x00000000              #候选框阴影颜色+末尾两位透明度
+      hilited_candidate_shadow_color: 0x40000000        #高亮词阴影颜色+末尾两位透明度
+      candidate_shadow_color: 0x90000000                    #非高亮词边框阴影颜色+末尾两位透明度
+      candidate_back_color: 0xFFFFFF                          # #非高亮词阴影颜色
+ 
 
     github:
       name: Github
