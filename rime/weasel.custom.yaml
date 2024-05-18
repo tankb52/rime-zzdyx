@@ -99,7 +99,6 @@ patch:
       candidate_shadow_color: 0x90000000                    #非高亮词边框阴影颜色+末尾两位透明度
       candidate_back_color: 0xFFFFFF                          # #非高亮词阴影颜色
  
-
     github:
       name: Github
       author: Khan
