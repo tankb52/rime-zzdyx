@@ -1593,6 +1593,7 @@ ATP	atp
 碑帖	bat
 不同意	bat
 不谈	bat
+不太	bata
 不退	batb
 不听话	bath
 不听	bati
@@ -27079,6 +27080,7 @@ bilibili	blbl
 飞雪	fnxh
 发现者	fnxi
 发信	fnxj
+飞侠	fnxj
 飞行	fnxk
 发祥	fnxl
 发行量	fnxl
@@ -32578,6 +32580,7 @@ GIS	gis
 挂旗	gkqh
 顾客群体	gkqt
 挂起	gkqu
+搞钱	gkqy
 工矿企业	gkqy
 拐入	gkrm
 感慨人生	gkrs
@@ -32609,6 +32612,7 @@ GIS	gis
 挂旗	gkuh
 顾客群体	gkut
 挂起	gkuu
+搞钱	gkuy
 工矿企业	gkuy
 拐弯	gkwh
 感慨万千	gkwq
@@ -35474,7 +35478,7 @@ GTP	gtp
 纲纪	gxjx
 共享宽带	gxkd
 纲领	gxlj
-贡献力量	gxll
+光鲜亮丽	gxll
 给料	gxlm
 给力	gxln
 高下立判	gxlp
@@ -36645,6 +36649,7 @@ GTP	gtp
 汉化版	hdhb
 沪杭	hdhc
 浩瀚	hdhd
+混混	hdhd
 淮河	hdhd
 洪荒	hdhe
 濠	hdhi
@@ -45674,6 +45679,7 @@ GTP	gtp
 嘴碎	iisa
 政治审查	iisc
 置之死地	iisd
+追涨杀跌	iisd
 祖宗十八代	iisd
 增长速度	iisd
 志在四方	iisf
@@ -46444,8 +46450,9 @@ GTP	gtp
 拄	ikhd
 抓获	ikhe
 摘	ikhf
-招魂	ikhg
 指挥官	ikhg
+指环	ikhg
+招魂	ikhg
 指痕	ikhh
 招呼	ikhi
 折合	ikhj
@@ -48853,10 +48860,10 @@ GTP	gtp
 自治州	irii
 自然增长	irii
 自传	irij
-重任在肩	irij
-责人之心责己	irij
-追债	irij
 自住	irij
+自制剧	irij
+追债	irij
+重任在肩	irij
 自找	irik
 自然增长率	iril
 自尊	irim
@@ -48869,6 +48876,7 @@ GTP	gtp
 真人真事	iris
 做人做事	iris
 自知	irit
+自制	irit
 自治区	iriu
 自主权	iriu
 早中晚	iriw
@@ -67022,6 +67030,7 @@ GTP	gtp
 两季	lfjt
 勒紧	lfju
 两脚	lfjv
+两句	lfjw
 老几	lfjw
 联结	lfjx
 两	lfk
@@ -73827,6 +73836,7 @@ GTP	gtp
 咪咪	mimi
 咪	mimk
 没着没落	miml
+喵喵喵	mimm
 买这买那	mimn
 骂名	mimw
 美则美矣	mimy
@@ -117236,6 +117246,9 @@ QQ密码	qqmm
 蹂躏	rili
 热胀冷缩	rils
 如振落叶	rily
+鼠须管	rime
+小狼毫	rime
+中州韵	rime
 日子难熬	rina
 日子难过	ring
 认证培训	ripx
@@ -119848,6 +119861,7 @@ QQ密码	qqmm
 死神	sasl
 厮杀	sasm
 厮守	sasn
+碎碎念	sasn
 硕鼠	sasr
 硕士生	sass
 石笋	sast
@@ -121996,6 +122010,7 @@ QQ密码	qqmm
 三姐	sgjs
 三居室	sgjs
 三级跳	sgjt
+三巨头	sgjt
 时过境迁	sgju
 事过境迁	sgju
 三角	sgjw
@@ -126080,7 +126095,7 @@ QQ密码	qqmm
 山亭区	sotq
 山塘	sotu
 山亭区	sotu
-四条	sotw
+四天王	sotw
 嵊	soty
 墅	sou
 申请书	sou
@@ -126138,6 +126153,7 @@ QQ密码	qqmm
 四下里	soxl
 史学	soxn
 蛇蝎	soxo
+四小	soxp
 瞬息	soxr
 山西省	soxs
 思想上	soxs
@@ -127737,6 +127753,7 @@ QQ密码	qqmm
 失恋	stlh
 生路	stli
 生力军	stlj
+算老几	stlj
 失礼	stll
 生料	stlm
 识途老马	stlm
@@ -167986,6 +168003,7 @@ u̇	vpug
 吱声	zis
 咋舌	zis
 嘴碎	zisa
+追涨杀跌	zisd
 啭	zisg
 只售	zisj
 嘴损	zisk
@@ -168658,8 +168676,9 @@ u̇	vpug
 拄	zkhd
 抓获	zkhe
 摘	zkhf
-招魂	zkhg
+指环	zkhg
 指挥官	zkhg
+招魂	zkhg
 指痕	zkhh
 招呼	zkhi
 折合	zkhj
