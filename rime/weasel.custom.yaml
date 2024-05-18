@@ -8,6 +8,9 @@ patch:
   "app_options/cmd.exe":
     ascii_mode: true
     vim_mode: true
+  "app_options/conhost.exe":
+    ascii_mode: true
+    vim_mode: true
   "app_options/windowsterminal.exe":
     ascii_mode: true
     vim_mode: true
