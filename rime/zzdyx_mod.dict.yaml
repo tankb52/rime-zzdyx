@@ -11,9 +11,6 @@ columns:
 ...
 #下面这行后的“井号符号”就不是注释了
 # no comment
-app	app
-ChatGPT	chat
-hello！	hell
 http://	http
 UP主	upi
 UP主	upig
@@ -292,7 +289,6 @@ ADP	adp
 挨着	akim
 挨宰	akin
 按照	akir
-按件	akjj
 按揭	akjk
 按键	akjy
 挨剋	akkf
@@ -35912,6 +35908,7 @@ GTP	gtp
 汉尼拔	hdnb
 海南岛	hdnd
 海南	hdnf
+淮南	hdnf
 浣	hdng
 沪宁杭	hdnh
 淮南子	hdni
@@ -47301,8 +47298,7 @@ GTP	gtp
 赒	iowu
 中卫	iowv
 中外	ioww
-中外文	ioww
-中文网	ioww
+账务	ioww
 中文系	iowx
 助兴	iox
 助学	iox
@@ -48731,6 +48727,7 @@ GTP	gtp
 乍	itd
 乍得	itd
 重低音	itd
+重大	itda
 长大	itda
 制导	itdb
 专题调查	itdc
@@ -124872,6 +124869,7 @@ QQ密码	qqmm
 杀人偿命	srcm
 身穿	srcn
 顺畅	srco
+时长	srct
 射程	srct
 晒场	srcu
 射出	srcv
@@ -182418,3 +182416,9 @@ zł	eqzl
 ㆗	epzo
 ⃡	epzy
 ′	epp
+q
+A
+ljwo
+南淮	nfhd
+天门	tgmj
+张港	ibgd
