@@ -292,7 +292,6 @@ ADP	adp
 挨着	akim
 挨宰	akin
 按照	akir
-按件	akjj
 按揭	akjk
 按键	akjy
 挨剋	akkf
@@ -35912,6 +35911,7 @@ GTP	gtp
 汉尼拔	hdnb
 海南岛	hdnd
 海南	hdnf
+淮南	hdnf
 浣	hdng
 沪宁杭	hdnh
 淮南子	hdni
@@ -41775,11 +41775,13 @@ GTP	gtp
 质壁分离	ibfl
 张飞	ibfn
 张飞	ibfz
+张港	ibg
 抓捕归案	ibga
 张弓	ibgb
 张榜公布	ibgb
 展柜	ibgc
 资本构成	ibgc
+张港	ibgd
 振臂高呼	ibgh
 周边国家	ibgj
 张挂	ibgk
@@ -47301,7 +47303,7 @@ GTP	gtp
 赒	iowu
 中卫	iowv
 中外	ioww
-中外文	ioww
+账务	ioww
 中文网	ioww
 中文系	iowx
 助兴	iox
@@ -48731,6 +48733,7 @@ GTP	gtp
 乍	itd
 乍得	itd
 重低音	itd
+重大	itda
 长大	itda
 制导	itdb
 专题调查	itdc
@@ -76214,6 +76217,7 @@ NFC	nfc
 南湖	nfh
 南汇	nfh
 南海	nfhd
+南淮	nfhd
 南韩	nfhf
 南华	nfhj
 酿祸	nfhl
@@ -124872,6 +124876,7 @@ QQ密码	qqmm
 杀人偿命	srcm
 身穿	srcn
 顺畅	srco
+时长	srct
 射程	srct
 晒场	srcu
 射出	srcv
@@ -129207,6 +129212,7 @@ QQ密码	qqmm
 天门冬	tgmd
 天幕	tgme
 天麻	tgmh
+天门	tgmj
 天命	tgmj
 焘	tgmm
 天目	tgmo
@@ -162993,11 +162999,13 @@ u̇	vpug
 质壁分离	zbfl
 张飞	zbfn
 张飞	zbfz
+张港	zbg
 抓捕归案	zbga
 张弓	zbgb
 张榜公布	zbgb
 展柜	zbgc
 资本构成	zbgc
+张港	zbgd
 振臂高呼	zbgh
 周边国家	zbgj
 张挂	zbgk
@@ -168312,7 +168320,7 @@ u̇	vpug
 赒	zowu
 中卫	zowv
 中外	zoww
-中外文	zoww
+账务	zoww
 中文网	zoww
 中文系	zowx
 助兴	zox
@@ -169723,6 +169731,7 @@ u̇	vpug
 乍	ztd
 乍得	ztd
 重低音	ztd
+重大	ztda
 长大	ztda
 制导	ztdb
 专题调查	ztdc
