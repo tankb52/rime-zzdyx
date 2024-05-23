@@ -1538,13 +1538,11 @@ ATP	atp
 不辞而别	bceb
 欂	bced
 柄	bcf
-本次发布	bcfb
 柄	bcfk
 板房	bcfl
 板斧	bcfm
 不曾放弃	bcfq
 不曾放弃	bcfu
-本次发行	bcfx
 不成方圆	bcfy
 不测风云	bcfy
 棒	bcg
@@ -1630,10 +1628,8 @@ ATP	atp
 槟	bcn
 槟	bcnr
 标配	bcpf
-本次评估	bcpg
 杯盘	bcpq
 标牌	bcpr
-本次评选	bcpx
 板	bcq
 板桥	bcq
 板球	bcq
@@ -12929,6 +12925,7 @@ bilibili	blbl
 重	ctdd
 策动	ctdg
 程度	ctdh
+长度	ctdh
 长途电话	ctdh
 重蹈	ctdi
 从头到脚	ctdj
@@ -14103,7 +14100,6 @@ bilibili	blbl
 猜	cwg
 触感	cwga
 错误观点	cwgd
-财务公开	cwgk
 财务管理	cwgl
 错误观念	cwgn
 䲠	cwgr
@@ -20198,6 +20194,7 @@ bilibili	blbl
 顿然	dsrv
 顿然	dsrw
 东施	dss
+东三省	dss
 顿失	dss
 到死	dssa
 到时候	dssh
@@ -20206,6 +20203,7 @@ bilibili	blbl
 东山	dsso
 大势所趋	dssq
 顿时	dssr
+东三省	dsss
 顿生	dsst
 大势所趋	dssu
 嫡孙	dssv
@@ -30780,7 +30778,6 @@ GIS	gis
 搞成	gkca
 高考成绩	gkcj
 挂彩	gkcm
-公开承认	gkcr
 挂车	gkcs
 搞出	gkcv
 搞错	gkcy
@@ -30834,7 +30831,6 @@ GIS	gis
 拐	gki
 拐枣	gki
 挂在	gkia
-公开招标	gkib
 拐杖	gkic
 挂职	gkif
 挂住	gkij
@@ -30842,7 +30838,6 @@ GIS	gis
 挂着	gkim
 拐	gkin
 搁置	gkio
-公开招聘	gkip
 挂轴	gkis
 擀毡	gkit
 拐走	gkiu
@@ -30886,7 +30881,6 @@ GIS	gis
 擀面杖	gkmi
 拱门	gkmj
 广开门路	gkml
-公开秘密	gkmm
 挂名	gkmw
 挂马	gkmx
 擀面杖	gkmz
@@ -30900,7 +30894,6 @@ GIS	gis
 挂牌子	gkpi
 挂拍	gkpk
 擀皮	gkpn
-公开批评	gkpp
 挂牌	gkpr
 拐骗	gkpx
 擀皮	gkpz
@@ -30952,7 +30945,6 @@ GIS	gis
 感慨万千	gkwu
 拱卫	gkwv
 掼	gkx
-公开选拔	gkxb
 搞宣传	gkxc
 挂靴	gkxf
 拱形	gkxg
@@ -30967,14 +30959,12 @@ GIS	gis
 挂羊头	gkyt
 拐枣	gkz
 挂在	gkza
-公开招标	gkzb
 拐杖	gkzc
 挂职	gkzf
 挂住	gkzj
 管窥之见	gkzj
 挂着	gkzm
 搁置	gkzo
-公开招聘	gkzp
 挂轴	gkzs
 擀毡	gkzt
 拐走	gkzu
@@ -31419,7 +31409,6 @@ GIS	gis
 关键字	gmjz
 公交站	gmjz
 公开	gmkg
-公开化	gmkh
 关口	gmki
 公开课	gmkk
 公开赛	gmks
@@ -37670,14 +37659,8 @@ GTP	gtp
 海纳百川，有容乃大	hnbd
 怀表	hnbg
 寒冰	hnbh
-很难保证	hnbi
-很难比较	hnbj
 怀抱	hnbk
-很难避免	hnbm
 恨不能	hnbn
-很难辨认	hnbr
-很难把握	hnbw
-很难保证	hnbz
 恒常	hnc
 寒碜	hnca
 宏村	hncc
@@ -37692,7 +37675,6 @@ GTP	gtp
 寒窗	hncn
 害虫	hnco
 豁出去	hncq
-很难承受	hncs
 贺辞	hnct
 豁出去	hncu
 豁出	hncv
@@ -37701,7 +37683,6 @@ GTP	gtp
 恒	hnd
 豁达	hnda
 寒带	hndf
-很难对付	hndf
 恒动	hndg
 害得	hndk
 恒定	hndn
@@ -37719,17 +37700,14 @@ GTP	gtp
 宦	hnfc
 恢复到	hnfd
 怙	hnfi
-很难发觉	hnfj
 黉	hnfo
 患难夫妻	hnfq
 悍匪	hnfs
 恢复	hnft
 患难夫妻	hnfu
 寒风	hnfw
-很难发现	hnfx
 害	hng
 悔改	hngb
-很难改变	hngb
 悔过	hngf
 害	hngi
 寒光	hngj
@@ -37756,7 +37734,6 @@ GTP	gtp
 怀着	hnim
 怀中	hnio
 豁子	hniv
-很难掌握	hniw
 寒战	hniy
 恍	hnj
 寒厥	hnja
@@ -37772,17 +37749,13 @@ GTP	gtp
 惶恐	hnkf
 豁开	hnkg
 豁口	hnki
-很难控制	hnki
-很难开口	hnkk
 贺卡	hnky
-很难控制	hnkz
 寒露	hnl
 寒凉	hnl
 怀恋	hnl
 贺龙	hnla
 寒流	hnld
 寒冷	hnlh
-很难理解	hnlj
 贺礼	hnll
 火奴鲁鲁	hnll
 贺兰	hnlm
@@ -37821,11 +37794,8 @@ GTP	gtp
 寰	hnod
 贺	hnoj
 贺	hnok
-很难判断	hnpd
 害怕	hnpn
-很难区别	hnqb
 悔棋	hnqc
-很难区分	hnqf
 寰球	hnqg
 寒气	hnqt
 悍	hnr
@@ -37863,17 +37833,12 @@ GTP	gtp
 华南师范大学	hnsx
 怀上	hnsy
 悔	hnt
-很难听到	hntd
 宏替换	hnth
 宏图	hnto
-很难突破	hntp
 恨透	hntt
 怀胎	hntv
 悔	hntx
-很难统一	hnty
-很难区别	hnub
 悔棋	hnuc
-很难区分	hnuf
 寰球	hnug
 寒气	hnut
 惚	hnw
@@ -37899,15 +37864,12 @@ GTP	gtp
 贺喜	hnxu
 寒象	hnxw
 怀乡	hnxx
-很难想象	hnxx
-很难想像	hnxx
 恨意	hny
 寒夜	hny
 寒衣	hny
 宏愿	hnya
 花鸟鱼虫	hnyc
 宦游	hnyd
-很难应付	hnyf
 患难与共	hnyg
 怀疑过	hnyg
 寒意	hnyh
@@ -37933,7 +37895,6 @@ GTP	gtp
 怀中	hnzo
 豁子	hnzv
 宏旨	hnzw
-很难掌握	hnzw
 寒战	hnzy
 回	ho
 黑	ho
@@ -48504,7 +48465,6 @@ GTP	gtp
 争高	iwgh
 自我感觉良好	iwgh
 争光	iwgj
-政务公开	iwgk
 争冠	iwgl
 周公	iwgm
 争购	iwgo
@@ -48793,7 +48753,6 @@ GTP	gtp
 组胺	ixav
 纸包装	ixb
 织布	ixba
-最新版本	ixbb
 纸板	ixbc
 驻波	ixbd
 纸币	ixbe
@@ -52912,7 +52871,6 @@ GTP	gtp
 今次	jjch
 假唱	jjci
 仅从	jjcj
-积极参加	jjcj
 间操	jjck
 介词	jjcl
 仅差	jjcm
@@ -53072,7 +53030,6 @@ GTP	gtp
 仅占	jjiy
 集中营	jjiy
 借助于	jjiy
-积极作用	jjiy
 激进主义	jjiy
 仅仅在于	jjiy
 集镇	jjiy
@@ -53106,7 +53063,6 @@ GTP	gtp
 俭	jjjn
 仅见	jjjo
 剑尖	jjjp
-积极进取	jjjq
 佳景	jjjr
 仅仅是	jjjs
 借鉴	jjju
@@ -53124,7 +53080,6 @@ GTP	gtp
 集刊	jjkg
 健康	jjkh
 借口	jjki
-积极开展	jjki
 健健康康	jjkk
 剑客	jjkn
 解决困难	jjkn
@@ -53135,7 +53090,6 @@ GTP	gtp
 岌岌可危	jjkw
 健康险	jjkx
 久经考验	jjky
-积极开展	jjkz
 仅	jjl
 伽利略	jjl
 价廉	jjl
@@ -53209,7 +53163,6 @@ GTP	gtp
 假票	jjpf
 经济评估	jjpg
 家境贫寒	jjph
-积极配合	jjph
 佳品	jjpi
 仅凭	jjpj
 竞价拍卖	jjpm
@@ -53298,7 +53251,6 @@ GTP	gtp
 集体舞	jjt
 件套	jjta
 即将推出	jjtc
-积极态度	jjtd
 今天	jjtg
 经济体制改革	jjtg
 牮	jjti
@@ -53314,7 +53266,6 @@ GTP	gtp
 集团	jjto
 经济特区	jjtq
 借题	jjtr
-积极探索	jjts
 经济特区	jjtu
 假腿	jjtv
 借条	jjtw
@@ -53360,7 +53311,6 @@ GTP	gtp
 假想	jjxc
 借酒消愁	jjxc
 假想敌	jjxd
-积极行动	jjxd
 今昔	jjxf
 假小子	jjxi
 剑侠	jjxj
@@ -53368,10 +53318,8 @@ GTP	gtp
 今宵	jjxn
 间歇	jjxr
 见机行事	jjxs
-积极向上	jjxs
 经济形势	jjxs
 俊秀	jjxt
-积极协调	jjxt
 侥幸	jjxu
 仅限	jjxv
 假象	jjxw
@@ -53384,7 +53332,6 @@ GTP	gtp
 倦意	jjy
 僵硬	jjya
 焦油	jjyd
-积极应对	jjyd
 假药	jjye
 介于	jjyg
 介意	jjyh
@@ -53415,7 +53362,6 @@ GTP	gtp
 精简整编	jjzb
 经济指标	jjzb
 集注	jjzd
-积极主动	jjzd
 经济制度	jjzd
 今朝	jjzf
 价值观	jjzg
@@ -53454,7 +53400,6 @@ GTP	gtp
 集中营	jjzy
 激进主义	jjzy
 借助于	jjzy
-积极作用	jjzy
 仅仅在于	jjzy
 集镇	jjzy
 隽	jjzz
@@ -74754,7 +74699,6 @@ NFC	nfc
 闹哄哄	njhh
 闹	njhi
 拿回家	njhj
-那就很难	njhn
 拿回	njho
 拿回去	njhq
 你好	njhs
@@ -112024,7 +111968,6 @@ QQ密码	qqmm
 绮	qx
 绮	qxa
 清心安神	qxas
-全新版本	qxbb
 气血不足	qxbi
 去向不明	qxbm
 逡巡不前	qxbq
@@ -112057,7 +112000,6 @@ QQ密码	qqmm
 权限分配	qxfp
 骑缝	qxfx
 祛邪扶正	qxfz
-全新改版	qxgb
 奇形怪状	qxgi
 驱鬼	qxgr
 全线贯通	qxgt
@@ -112099,7 +112041,6 @@ QQ密码	qqmm
 气血两燔	qxlf
 驱离	qxlh
 气血两亏	qxlk
-全新理念	qxln
 绮罗	qxlo
 骑驴	qxlx
 清心凉营	qxly
@@ -115994,7 +115935,6 @@ QQ密码	qqmm
 梢	scjv
 树胶	scjv
 松解	scjw
-生产积极性	scjx
 省吃俭用	scjy
 松节油	scjy
 上层建筑	scjz
@@ -118301,7 +118241,6 @@ QQ密码	qqmm
 十字花科	sihk
 失之毫厘，谬以千里	sihl
 失之毫厘	sihl
-实在很难	sihn
 嗣后	sihq
 嗜好	sihs
 嗾	siht
@@ -125029,7 +124968,6 @@ QQ密码	qqmm
 十字花科	szhk
 失之毫厘，谬以千里	szhl
 失之毫厘	szhl
-实在很难	szhn
 山珍海味	szhw
 召	szi
 召	szii
@@ -135515,7 +135453,6 @@ QQ密码	uumm
 绮	ux
 绮	uxa
 清心安神	uxas
-全新版本	uxbb
 气血不足	uxbi
 去向不明	uxbm
 骑兵	uxbr
@@ -135550,7 +135487,6 @@ QQ密码	uumm
 权限分配	uxfp
 骑缝	uxfx
 祛邪扶正	uxfz
-全新改版	uxgb
 奇形怪状	uxgi
 驱鬼	uxgr
 全线贯通	uxgt
@@ -135592,7 +135528,6 @@ QQ密码	uumm
 气血两燔	uxlf
 驱离	uxlh
 气血两亏	uxlk
-全新理念	uxln
 绮罗	uxlo
 骑驴	uxlx
 清心凉营	uxly
@@ -136753,7 +136688,6 @@ u̇	vpug
 沩	wdm
 污蔑	wdme
 沩	wdmk
-我的命好苦	wdmk
 危地马拉	wdml
 我的梦想	wdmx
 我的妈呀	wdmy
@@ -136836,13 +136770,11 @@ u̇	vpug
 洈	wdwx
 误打误撞	wdwz
 潍	wdx
-我的小伙伴	wdxb
 涡旋	wdxh
 潍	wdxj
 温习	wdxl
 我的心里	wdxl
 味道鲜美	wdxm
-我的小伙伴们	wdxm
 温性	wdxn
 我的心里只有你	wdxn
 温煦	wdxr
@@ -137978,15 +137910,12 @@ u̇	vpug
 雾	whw
 文武	whw
 望望	whw
-我和我的小伙伴	whwb
 我和我的	whwd
 文玩	whwg
 文武	whwg
 弯弯	whwh
 望望	whwh
-我和我的小伙伴们都惊呆了	whwl
 妄为	whwm
-我和我的小伙伴们	whwm
 问寒问暖	whwn
 完好无损	whws
 文物	whwt
@@ -138807,7 +138736,6 @@ u̇	vpug
 外来打工	wldg
 网络电话	wldh
 误打	wldk
-网络带宽	wldk
 误读	wldl
 物理定律	wldl
 网络电视	wlds
@@ -138816,16 +138744,13 @@ u̇	vpug
 乌拉尔山	wles
 诬	wlf
 无理方程	wlfc
-网络覆盖	wlfg
 诬	wlfj
-网络服务	wlfw
 袜	wlg
 误工费	wlg
 误工	wlgf
 误工费	wlgf
 袜跟	wlgi
 袜	wlgk
-网络管理	wlgl
 误国	wlgo
 我嘞个去	wlgq
 温良恭俭让	wlgr
@@ -138835,7 +138760,6 @@ u̇	vpug
 五雷轰顶	wlhd
 五狼嚎风	wlhf
 误会	wlhj
-网络环境	wlhj
 往来寒热	wlhr
 乌兰浩特	wlht
 无力回天	wlht
@@ -138854,9 +138778,7 @@ u̇	vpug
 未来主义	wliy
 无论怎样	wliy
 误将	wljh
-网络机顶盒	wljh
 万籁俱寂	wljj
-网络技术	wljs
 误解	wljw
 物理降温	wljw
 雾里看花	wlkh
@@ -138881,7 +138803,6 @@ u̇	vpug
 谓	wlov
 误判	wlpm
 维拉帕米	wlpm
-网络培训	wlpx
 屋漏偏逢连夜雨	wlpy
 屋漏偏逢连阴雨	wlpy
 误期	wlqf
@@ -138891,7 +138812,6 @@ u̇	vpug
 五劳七伤	wlqs
 万缕千丝	wlqs
 位列其中	wlqz
-网络人才	wlrc
 无论如何	wlrh
 误人	wlrj
 外来人口	wlrk
@@ -138903,15 +138823,12 @@ u̇	vpug
 无量寿佛	wlsf
 误伤	wlsj
 误杀	wlsm
-网络实名	wlsm
 伪劣商品	wlsp
-网络适配器	wlsq
 误时	wlsr
 未来收入	wlsr
 婺	wlss
 唯利是图	wlst
 惟利是图	wlst
-网络适配器	wlsu
 误删	wlsw
 诿	wlt
 误听	wlti
@@ -138927,7 +138844,6 @@ u̇	vpug
 诬枉	wlwc
 鹜	wlwd
 外来务工	wlwg
-网络维护	wlwh
 物力维艰	wlwj
 误为	wlwm
 万籁无声	wlws
@@ -138941,14 +138857,10 @@ u̇	vpug
 未老先衰	wlxs
 歪理邪说	wlxs
 网络小说	wlxs
-网络系统	wlxt
 诬陷	wlxv
-网络信息	wlxx
-网络协议	wlxy
 物理性质	wlxz
 婺源	wlyd
 谓语	wlyl
-网络硬盘	wlyp
 微量元素	wlys
 袜业	wlyu
 误以为	wlyw
@@ -139431,20 +139343,14 @@ u̇	vpug
 围困	woko
 网卡	woky
 胃溃疡	woky
-网络化	wol
-网络上	wol
-网络版	wolb
 围栏	wolc
 网聊	wolf
-网络股	wolg
 网恋	wolh
-网络化	wolh
 网路	woli
 围拢	wolk
 围炉	wolm
 网罗	wolo
 蜗轮	wols
-网络上	wols
 围猎	wolw
 网络	wolx
 网龄	woly
@@ -139849,13 +139755,10 @@ u̇	vpug
 王孙公子	wsgi
 万个	wsgj
 无所顾忌	wsgj
-网上公开	wsgk
-网上购买	wsgm
 瓦格纳	wsgn
 万国	wsgo
 瓦罐	wsgt
 万股	wsgv
-网上购物	wsgw
 万贯	wsgx
 务实高效	wsgx
 为时过早	wsgz
@@ -139878,7 +139781,6 @@ u̇	vpug
 为数众多	wsid
 万载	wsif
 万字符	wsif
-网上支付	wsif
 万状	wsih
 万只	wsii
 万众	wsij
@@ -139983,7 +139885,6 @@ u̇	vpug
 万死	wssa
 万世师表	wssb
 无所适从	wssc
-网上书店	wssd
 万事	wssf
 瓦斯	wssf
 万世	wssf
@@ -140039,7 +139940,6 @@ u̇	vpug
 为时晚矣	wswy
 无始无终	wswz
 晚上下班	wsxb
-网上宣传	wsxc
 婉谢	wsxl
 无事献殷勤	wsxq
 万向	wsxr
@@ -140063,7 +139963,6 @@ u̇	vpug
 万元	wsyg
 婉言	wsyh
 握手言和	wsyh
-网上银行	wsyh
 握手言欢	wsyh
 万言	wsyh
 万亿	wsyj
@@ -140088,7 +139987,6 @@ u̇	vpug
 为数众多	wszd
 万载	wszf
 万字符	wszf
-网上支付	wszf
 万状	wszh
 万只	wszi
 万众	wszj
@@ -140424,7 +140322,6 @@ u̇	vpug
 物语	wty
 稳压	wtya
 我也得	wtyd
-我有点	wtyd
 舞艺	wtye
 物业费	wtyf
 我要	wtyf
@@ -141094,7 +140991,6 @@ u̇	vpug
 纹	wxh
 乌须黑发	wxhf
 维护	wxhk
-我想和你聊聊	wxhl
 纹	wxhm
 五星红旗	wxhq
 维和	wxht
@@ -141132,8 +141028,6 @@ u̇	vpug
 无心恋战	wxli
 文学理论	wxll
 我心里只有你	wxln
-我想来想去	wxlq
-我想来想去	wxlu
 威胁利诱	wxly
 无心恋战	wxlz
 无限美好	wxmh
@@ -141141,7 +141035,6 @@ u̇	vpug
 绾	wxn
 毋宁死	wxn
 蜗行牛步	wxnb
-我想你了	wxnl
 毋宁	wxnn
 绾	wxno
 维纳斯	wxns
@@ -141231,7 +141124,6 @@ u̇	vpug
 文艺出版社	wycs
 龌龊	wycy
 文艺创作	wycz
-我有点儿	wyde
 汪洋大海	wydh
 微言大义	wydy
 勿以恶小而为之	wyei
@@ -141240,7 +141132,6 @@ u̇	vpug
 无以复加	wyfj
 唯一方式	wyfs
 文艺复兴	wyfx
-我有感觉	wygj
 物业管理	wygl
 鿏	wygw
 钨钢	wygy
@@ -141266,7 +141157,6 @@ u̇	vpug
 无言可对	wykd
 无药可治	wyki
 无药可救	wykj
-我有可能	wykn
 唯一可行	wykx
 无药可治	wykz
 无与伦比	wylb
@@ -144266,9 +144156,11 @@ u̇	vpug
 闲着	xjim
 先见之明	xjim
 闲置	xjio
+新疆自治区	xjiq
 小家子气	xjiq
 斜照	xjir
 修筑	xjit
+新疆自治区	xjiu
 小家子气	xjiu
 仙子	xjiv
 闲杂	xjiw
@@ -144473,8 +144365,10 @@ u̇	vpug
 歙	xjwk
 翛	xjwl
 修为	xjwm
+新疆维吾尔族自治区	xjwq
 相继问世	xjws
 信物	xjwt
+新疆维吾尔族自治区	xjwu
 斜纹	xjwx
 休息	xjx
 肖像	xjx
@@ -144553,9 +144447,11 @@ u̇	vpug
 闲着	xjzm
 先见之明	xjzm
 闲置	xjzo
+新疆自治区	xjzq
 小家子气	xjzq
 斜照	xjzr
 修筑	xjzt
+新疆自治区	xjzu
 小家子气	xjzu
 仙子	xjzv
 闲杂	xjzw
@@ -146075,7 +145971,6 @@ u̇	vpug
 小儿	xpew
 小范围	xpf
 小费	xpfb
-新品发布	xpfb
 小分队	xpfd
 小芳	xpfe
 小房	xpfl
@@ -146311,7 +146206,6 @@ u̇	vpug
 小提琴	xpt
 小图标	xptb
 小桶	xptc
-新品推出	xptc
 小天鹅	xpte
 橡皮图章	xpti
 小偷	xptj
@@ -146617,7 +146511,6 @@ u̇	vpug
 星火	xrhm
 陷入昏迷	xrhm
 显豁	xrhn
-显然很难	xrhn
 向后	xrhq
 血汗钱	xrhq
 向好	xrhs
@@ -148419,7 +148312,6 @@ u̇	vpug
 象形文字	xxwi
 细问	xxwj
 细微	xxwk
-信息网络	xxwl
 续完	xxwn
 绚	xxwr
 纤维素	xxws
@@ -154478,7 +154370,6 @@ u̇	vpug
 义兄	ymxi
 养心	ymxl
 养性	ymxn
-英美新批评	ymxp
 欲向	ymxr
 一门心思	ymxs
 烟熏	ymxt
@@ -166400,7 +166291,6 @@ u̇	vpug
 争高	zwgh
 自我感觉良好	zwgh
 争光	zwgj
-政务公开	zwgk
 争冠	zwgl
 周公	zwgm
 争购	zwgo
@@ -166690,7 +166580,6 @@ u̇	vpug
 组胺	zxav
 纸包装	zxb
 织布	zxba
-最新版本	zxbb
 纸板	zxbc
 驻波	zxbd
 纸币	zxbe
