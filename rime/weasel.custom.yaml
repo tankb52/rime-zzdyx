@@ -62,6 +62,12 @@ patch:
   "style/layout/shadow_offset_x": 4
   # 阴影y偏置，如果x，y都是0,而shadow_radius不为0，则四周绘制阴影；否则drowshadow阴影
   "style/layout/shadow_offset_y": 4
+  # 鼠标悬停行为：none(无动作)；hilite(选中鼠标下的候选)；semi_hilite(高亮鼠标下的候选)。
+  "style/hover_type": none
+  # 鼠标滚轮翻页候选栏
+  "style/paging_on_scroll": true
+  # 抗锯齿模式：default;force_dword;cleartype;grayscale;aliased.
+  "stype/antialias_mode": default
 
   "style/color_scheme": mysetting
   preset_color_schemes:
