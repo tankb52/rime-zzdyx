@@ -332,7 +332,6 @@ ADP	adp
 阿拉伯半岛	albd
 阿拉伯联合酋长国	albg
 阿拉伯数字	albi
-阿拉伯国家	albj
 爱理不理	albl
 阿拉伯人	albr
 奥林巴斯	albs
@@ -1585,6 +1584,7 @@ ATP	atp
 柏子仁	bcir
 标致	bcis
 标志	bciu
+棒子	bciv
 杯子	bciv
 标志物	bciw
 杯中物	bciw
@@ -1593,7 +1593,6 @@ ATP	atp
 标间	bcj
 棒极	bcjc
 杯酒	bcjd
-补偿金额	bcje
 标价	bcjj
 标记	bcjl
 杯架	bcjn
@@ -4443,7 +4442,6 @@ bilibili	blbl
 表里不一	blby
 补办	blbz
 补仓	blc
-补偿金	blc
 必成	blca
 步履匆匆	blcc
 补偿费	blcf
@@ -6402,7 +6400,6 @@ bilibili	blbl
 笨猪	btiw
 笔战	btiy
 笔记本	btjb
-补贴金额	btje
 笔迹	btjh
 本台记者	btji
 笔记	btjl
@@ -7006,7 +7003,6 @@ bilibili	blbl
 比学赶帮超	bxgc
 八仙过海	bxgh
 白雪公主	bxgi
-报效国家	bxgj
 八仙过海，各显其能	bxgn
 保险公司	bxgs
 八仙过海，各显神通	bxgt
@@ -7051,7 +7047,6 @@ bilibili	blbl
 编剧	bxjb
 编辑部	bxjb
 编校	bxjc
-保险金额	bxje
 缏	bxjf
 变形金刚	bxjg
 抱薪救火	bxjh
@@ -7937,7 +7932,6 @@ bilibili	blbl
 成长为	caiw
 成长性	caix
 蹙	caiy
-存在于	caiy
 成交	caj
 残局	cajb
 磁极	cajc
@@ -8130,7 +8124,6 @@ bilibili	blbl
 成长为	cazw
 成长性	cazx
 磁针	cazy
-存在于	cazy
 层	cb
 迟	cb
 除暴安良	cbal
@@ -8690,7 +8683,6 @@ bilibili	blbl
 澂	cdot
 测	cdou
 淳朴	cdpc
-承担赔偿	cdpc
 彻底破坏	cdph
 测评	cdpl
 成都平原	cdpy
@@ -10344,7 +10336,6 @@ bilibili	blbl
 创建	cjjb
 传家宝	cjjb
 初级阶段	cjjd
-成交金额	cjje
 传教	cjjf
 促进	cjjg
 促进会	cjjh
@@ -16750,9 +16741,7 @@ bilibili	blbl
 底肥	dhfv
 度过	dhgf
 冻干	dhgg
-党和国家	dhgj
 帝国	dhgo
-党和国家领导人	dhgr
 底稿	dhgt
 敦厚	dhha
 盗汗	dhhd
@@ -19475,7 +19464,6 @@ bilibili	blbl
 电棍	dogc
 典故	dogf
 电光	dogj
-东欧国家	dogj
 电挂	dogk
 电功率	dogl
 第欧根尼	dogn
@@ -22072,7 +22060,6 @@ bilibili	blbl
 而知	eait
 而走	eaiu
 而终	eaix
-而在于	eaiy
 而尽	eaj
 而居	eajb
 而进	eajg
@@ -22144,7 +22131,6 @@ bilibili	blbl
 而知	eazt
 而走	eazu
 而终	eazx
-而在于	eazy
 屙	eb
 耳鼻喉科	ebhk
 二八佳人	ebjr
@@ -27549,7 +27535,6 @@ bilibili	blbl
 风雨兼程	fyjc
 斐济	fyjd
 法医鉴定	fyjd
-费用金额	fyje
 风云际会	fyjh
 佛要金装	fyji
 风雨交加	fyjj
@@ -30005,8 +29990,8 @@ GDP	gdp
 高楼	ghlc
 高粱	ghld
 高利贷	ghld
-高冷	ghlh
 高亮	ghlh
+高冷	ghlh
 高领	ghlj
 戆	ghlk
 高论	ghll
@@ -30410,8 +30395,6 @@ GIS	gis
 国际奥委会	gjah
 国家安全局	gjaj
 个案	gjan
-国家安全	gjaq
-国家安全	gjau
 光标	gjbc
 光波	gjbd
 光脚不怕穿鞋的	gjbd
@@ -30427,7 +30410,6 @@ GIS	gis
 恭敬不如从命	gjbm
 光膀子	gjbz
 国际标准	gjbz
-国家财产	gjcc
 估测	gjcd
 国际采购	gjcg
 冠军称号	gjch
@@ -30453,13 +30435,11 @@ GIS	gis
 光电子	gjdi
 供电站	gjdi
 供电局	gjdj
-国家栋梁	gjdl
 供电	gjdo
 光电鼠	gjds
 供电所	gjds
 光腚	gjdv
 光点	gjdy
-国家大剧院	gjdy
 光电子	gjdz
 供电站	gjdz
 国际儿童节	gjej
@@ -30473,7 +30453,6 @@ GIS	gis
 闺房	gjfl
 供	gjfm
 光复	gjft
-国家副主席	gjfx
 孤军奋战	gjfz
 光棍汉	gjg
 光顾	gjga
@@ -30523,33 +30502,23 @@ GIS	gis
 感激之情	gjiu
 光子	gjiv
 古今中外	gjiw
-国家主席	gjix
 供桌	gjiy
 国际主义	gjiy
-关键在于	gjiy
-国家主义	gjiy
 光洁度	gjj
 供给量	gjj
 国际机场	gjjc
 光洁	gjjd
 光洁度	gjjd
-国家机关	gjjg
 个旧	gjji
 估价	gjjj
 估计	gjjl
 供给量	gjjl
-国家机密	gjjm
-国家机器	gjjq
 光景	gjjr
 国际金融	gjjr
-国家机器	gjju
 光脚	gjjv
-国家教委	gjjw
-国家计委	gjjw
 供给	gjjx
 光控	gjkk
 光靠	gjkt
-国家科委	gjkw
 个例	gjl
 佝偻	gjl
 佝偻病	gjlb
@@ -30562,14 +30531,12 @@ GIS	gis
 干净利落	gjll
 个里	gjlo
 估量	gjlr
-国家领导人	gjlr
 过街老鼠	gjls
 光临	gjlu
 光了	gjlv
 国际联网	gjlw
 光缆	gjlx
 工具理性	gjlx
-国家利益	gjly
 仡佬族	gjlz
 光面	gjma
 伽马刀	gjmd
@@ -30593,7 +30560,6 @@ GIS	gis
 闺女	gjns
 光年	gjnt
 光盘版	gjpb
-国家赔偿	gjpc
 鸽派	gjpd
 光屁股	gjpg
 供品	gjpi
@@ -30620,7 +30586,6 @@ GIS	gis
 国际认可	gjrk
 供认	gjrl
 个人史	gjrs
-关键人物	gjrw
 甘居人下	gjrx
 供述	gjsc
 供水	gjsd
@@ -30628,7 +30593,6 @@ GIS	gis
 鸽哨	gjsi
 干劲十足	gjsi
 赶尽杀绝	gjsj
-关键时刻	gjsk
 光说	gjsl
 个数	gjsm
 各尽所能	gjsn
@@ -30645,7 +30609,6 @@ GIS	gis
 钢筋铁骨	gjtg
 个体户	gjth
 个体	gjtj
-国家统计局	gjtj
 感激涕零	gjtl
 光头	gjtn
 光团	gjto
@@ -30654,8 +30617,6 @@ GIS	gis
 光秃	gjtt
 光秃秃	gjtt
 狗急跳墙	gjtu
-国家体委	gjtw
-国家统一	gjty
 闺	gju
 供求	gjuf
 光球	gjug
@@ -30670,7 +30631,6 @@ GIS	gis
 光武	gjwg
 佝	gjwi
 个位	gjwj
-国家外汇管理局	gjwj
 个位数	gjws
 高阶无穷小	gjwx
 光纤	gjx
@@ -30688,7 +30648,6 @@ GIS	gis
 闺秀	gjxt
 国际象棋	gjxu
 光鲜	gjxw
-国家兴亡	gjxw
 光线	gjxx
 供销	gjxy
 光晕	gjy
@@ -30709,7 +30668,6 @@ GIS	gis
 光影	gjyr
 供应商	gjys
 冠绝一时	gjys
-国家元首	gjys
 供氧	gjyt
 共聚一堂	gjyt
 光阴	gjyv
@@ -30737,11 +30695,8 @@ GIS	gis
 感激之情	gjzu
 光子	gjzv
 古今中外	gjzw
-国家主席	gjzx
 供桌	gjzy
 国际主义	gjzy
-关键在于	gjzy
-国家主义	gjzy
 孤军作战	gjzz
 国际政治	gjzz
 国际组织	gjzz
@@ -31384,13 +31339,11 @@ GIS	gis
 关节囊	gmjn
 公斤	gmjq
 关节腔	gmjq
-关键是	gmjs
 关节痛	gmjt
 关紧	gmju
 关节腔	gmju
 公祭	gmjv
 公祭	gmjw
-关键性	gmjx
 关键	gmjy
 关节炎	gmjy
 国民教育	gmjy
@@ -31961,14 +31914,12 @@ GIS	gis
 国家队	gojd
 骨节	goje
 国际法	gojf
-国家法	gojf
 购进	gojg
 国际歌	gojg
 果酱	gojh
 国际化	gojh
 蛤	goji
 刚健	gojj
-国家级	gojj
 刚劲	gojl
 固精	gojm
 国家	gojn
@@ -36553,6 +36504,7 @@ GTP	gtp
 盒子	hjiv
 合纵	hjix
 何止	hjiy
+会战	hjiy
 伙计	hjj
 合家欢	hjj
 含金量	hjj
@@ -38258,7 +38210,6 @@ GTP	gtp
 后排座位	hpiw
 和平主义	hpiy
 和平进程	hpjc
-汇票金额	hpje
 黄牌警告	hpjg
 徽派建筑	hpji
 鸿篇巨制	hpji
@@ -39268,7 +39219,6 @@ GTP	gtp
 和局	htjb
 花团锦簇	htjc
 花天酒地	htjd
-合同金额	htje
 合同纠纷	htjf
 和静	htjg
 和解	htjw
@@ -40639,7 +40589,6 @@ GTP	gtp
 资本构成	ibgc
 张港	ibgd
 振臂高呼	ibgh
-周边国家	ibgj
 张挂	ibgk
 资本管理	ibgl
 转变观念	ibgn
@@ -40668,7 +40617,6 @@ GTP	gtp
 站不住脚	ibij
 知彼知己	ibij
 张仲景	ibij
-资本主义国家	ibij
 咫	ibim
 自暴自弃	ibiq
 兹不赘述	ibis
@@ -40798,7 +40746,6 @@ GTP	gtp
 找不自在	ibzi
 站不住脚	ibzj
 知彼知己	ibzj
-资本主义国家	ibzj
 张仲景	ibzj
 自暴自弃	ibzq
 兹不赘述	ibzs
@@ -51026,7 +50973,6 @@ GTP	gtp
 节假	jej
 警局	jejb
 敬酒	jejd
-金额较大	jejd
 节节	jeje
 荆棘	jejf
 蒋经国	jejg
@@ -52132,7 +52078,6 @@ GTP	gtp
 竞	jhiw
 交织	jhix
 决战	jhiy
-就在于	jhiy
 机会主义	jhiy
 竞技	jhj
 疥	jhj
@@ -52490,7 +52435,6 @@ GTP	gtp
 交织	jhzx
 决战	jhzy
 机会主义	jhzy
-就在于	jhzy
 竞争者	jhzz
 叫	ji
 旧	ji
@@ -53017,7 +52961,6 @@ GTP	gtp
 集中营	jjiy
 借助于	jjiy
 激进主义	jjiy
-仅仅在于	jjiy
 集镇	jjiy
 价	jjj
 间距	jjj
@@ -53386,7 +53329,6 @@ GTP	gtp
 集中营	jjzy
 激进主义	jjzy
 借助于	jjzy
-仅仅在于	jjzy
 集镇	jjzy
 隽	jjzz
 叽叽喳喳	jjzz
@@ -53976,7 +53918,6 @@ GTP	gtp
 衿	jljc
 军机处	jljc
 军警	jlje
-奖励金额	jlje
 肩胛骨	jljg
 鸡叫	jlji
 讲价	jljj
@@ -66076,7 +66017,6 @@ GTP	gtp
 兰	lmg
 类固醇	lmgc
 兰	lmgd
-拉美国家	lmgj
 炉甘石	lmgs
 炼钢	lmgy
 粒	lmh
@@ -68014,6 +67954,7 @@ GTP	gtp
 乐业	lwyu
 留院	lwyv
 鲤鱼	lwyw
+鲢鱼	lwyw
 乐悠悠	lwyy
 来无影去无踪	lwyz
 留在	lwza
@@ -70504,7 +70445,6 @@ GTP	gtp
 呒	migc
 明知故犯	migf
 民主改革	migg
-民主国家	migj
 蒙在鼓里	migl
 民主管理	migl
 民族感情	migq
@@ -72239,7 +72179,6 @@ GTP	gtp
 劢	msnn
 妙手偶得	msod
 妙	msp
-民事赔偿	mspc
 媒婆	mspd
 妙	mspe
 妙品	mspi
@@ -73505,7 +73444,6 @@ GTP	gtp
 民主法制	mzfz
 明知故犯	mzgf
 民主改革	mzgg
-民主国家	mzgj
 蒙在鼓里	mzgl
 民主管理	mzgl
 民族感情	mzgq
@@ -75052,7 +74990,6 @@ NFC	nfc
 农工党	nlgd
 难过	nlgf
 能干	nlgg
-内陆国家	nlgj
 难搞	nlgk
 难关	nlgm
 难怪	nlgn
@@ -103462,22 +103399,16 @@ NFC	nfc
 劈	pbzz
 攀	pc
 攀	pca
-赔偿案件	pcaj
 攀	pcak
-赔偿标准	pcbi
 攀比	pcbs
 破产边缘	pcby
-赔偿标准	pcbz
 排除错误	pccw
-赔偿程序	pccx
 棚顶	pcdf
 攀登	pcdl
 朴刀	pcdn
 朴刀	pcdz
 攀附	pcfv
 桲	pcfv
-赔偿范围	pcfw
-赔偿费用	pcfy
 攀高	pcgh
 排除干扰	pcgr
 枰	pch
@@ -103487,7 +103418,6 @@ NFC	nfc
 棚户区	pchq
 棚户区	pchu
 榀	pci
-赔偿制度	pcid
 攀枝花	pcih
 榀	pcii
 攀折	pcik
@@ -103524,7 +103454,6 @@ NFC	nfc
 朴散	pcsf
 朴素	pcsg
 朴实	pcsn
-赔偿损失	pcss
 攀升	pcst
 枇	pcsw
 判处死刑	pcsx
@@ -103540,17 +103469,13 @@ NFC	nfc
 鹏程万里	pcwl
 排除万难	pcwn
 朴硝	pcxa
-赔偿限额	pcxe
 破财消灾	pcxi
 破财消灾	pcxz
-赔偿原则	pcyi
 排除异己	pcyj
 排斥异己	pcyj
 攀援	pcyk
 攀岩	pcyo
 攀越	pcyu
-赔偿原则	pcyz
-赔偿制度	pczd
 攀枝花	pczh
 攀折	pczk
 朴质	pczq
@@ -104865,7 +104790,6 @@ NFC	nfc
 捧哏	pkgi
 排灌站	pkgi
 抛光	pkgj
-贫困国家	pkgj
 披挂	pkgk
 排骨	pkgo
 抛给	pkgx
@@ -107799,7 +107723,6 @@ NFC	nfc
 䓖	qenz
 苘	qeo
 苘	qeoi
-全额赔偿	qepc
 芹	qeq
 萋萋	qeqe
 芹	qeqi
@@ -109312,7 +109235,6 @@ NFC	nfc
 抢建	qkjb
 抢救出	qkjc
 衢江	qkjd
-欠款金额	qkje
 抢救	qkjf
 抢劫犯	qkjf
 擒	qkjh
@@ -117019,7 +116941,6 @@ QQ密码	qqmm
 酸碱	sfja
 酸碱度	sfjd
 十九点	sfjd
-收费金额	sfje
 斯基	sfjf
 十九分	sfjf
 十几个	sfjg
@@ -117596,7 +117517,6 @@ QQ密码	qqmm
 三年	sgnt
 珅	sgoi
 示	sgp
-事故赔偿	sgpc
 三品	sgpi
 示	sgpk
 三陪女	sgpn
@@ -121796,7 +121716,6 @@ QQ密码	qqmm
 双拳难敌四手	sqns
 舢	sqo
 舢	sqoi
-申请赔偿	sqpc
 申请批准	sqpi
 所拍	sqpk
 所怕	sqpn
@@ -122532,7 +122451,6 @@ QQ密码	qqmm
 三十年河东，三十年河西	ssnx
 三十年河西	ssnx
 搔首弄姿	ssnz
-损失赔偿	sspc
 时事评论	sspl
 输气管	ssq
 输棋	ssqc
@@ -123340,7 +123258,6 @@ QQ密码	qqmm
 螫	suo
 螫	suok
 竖排版	supb
-申请赔偿	supc
 声旁	suph
 申请批准	supi
 竖排	supk
@@ -125630,7 +125547,6 @@ QQ密码	qqmm
 桐	tcod
 榃	tcod
 桐	tcoi
-提出赔偿	tcpc
 提出批评	tcpp
 脱产培训	tcpx
 柝	tcq
@@ -128900,7 +128816,6 @@ QQ密码	qqmm
 坦然自若	trir
 题旨	triw
 躺	trj
-投入金额	trje
 魋	trjh
 投入机制	trji
 题记	trjl
@@ -131434,7 +131349,6 @@ QQ密码	qqmm
 䓖	uenz
 苘	ueo
 苘	ueoi
-全额赔偿	uepc
 芹	ueq
 萋萋	ueqe
 芹	ueqi
@@ -132914,7 +132828,6 @@ QQ密码	qqmm
 抢建	ukjb
 抢救出	ukjc
 衢江	ukjd
-欠款金额	ukje
 抢救	ukjf
 抢劫犯	ukjf
 擒	ukjh
@@ -136953,7 +136866,6 @@ u̇	vpug
 五角场	wfjc
 五金厂	wfjc
 五金店	wfjd
-违法金额	wfje
 微分几何	wfjh
 巫	wfjj
 斡	wfjn
@@ -138167,7 +138079,6 @@ u̇	vpug
 我真心希望	wixw
 唯有	wiya
 唯一	wiyd
-我注意到	wiyd
 喂药	wiye
 外资银行	wiyh
 呜咽	wiyi
@@ -142685,7 +142596,6 @@ u̇	vpug
 下疳	xfgh
 下跪	xfgi
 下馆子	xfgi
-西方国家	xfgj
 醒过来	xfgl
 西关	xfgm
 下官	xfgn
@@ -148860,7 +148770,6 @@ u̇	vpug
 原故	yagf
 硬功夫	yagf
 研	yagi
-沿岸国家	yagj
 右拐	yagk
 䶮	yagk
 有规律	yagl
@@ -151229,7 +151138,6 @@ u̇	vpug
 要旨	yfiw
 严重性	yfix
 研发中心	yfix
-要注意	yfiy
 要将	yfj
 亚军	yfj
 要件	yfj
@@ -151237,7 +151145,6 @@ u̇	vpug
 严禁	yfjc
 酽酒	yfjd
 要津	yfjd
-应付金额	yfje
 亚基	yfjf
 依法监管	yfjg
 燕京	yfjh
@@ -151472,7 +151379,6 @@ u̇	vpug
 要旨	yfzw
 严重性	yfzx
 研发中心	yfzx
-要注意	yfzy
 迎风招展	yfzz
 勚	yfzz
 运	yg
@@ -152664,7 +152570,6 @@ u̇	vpug
 咬咬牙	yiy
 嘤嘤	yiy
 一字一板	yiyb
-也在于此	yiyc
 一张一弛	yiyc
 义正严词	yiyc
 严阵以待	yiyd
@@ -158349,7 +158254,6 @@ u̇	vpug
 邮政信箱	yzxx
 盈虚	yzxy
 一字一板	yzyb
-也在于此	yzyc
 一张一弛	yzyc
 义正严词	yzyc
 严阵以待	yzyd
@@ -158659,7 +158563,6 @@ u̇	vpug
 资本构成	zbgc
 张港	zbgd
 振臂高呼	zbgh
-周边国家	zbgj
 张挂	zbgk
 资本管理	zbgl
 转变观念	zbgn
@@ -158687,7 +158590,6 @@ u̇	vpug
 找不自在	zbii
 站不住脚	zbij
 知彼知己	zbij
-资本主义国家	zbij
 张仲景	zbij
 咫	zbim
 自暴自弃	zbiq
@@ -158818,7 +158720,6 @@ u̇	vpug
 站不住脚	zbzj
 知彼知己	zbzj
 张仲景	zbzj
-资本主义国家	zbzj
 自暴自弃	zbzq
 兹不赘述	zbzs
 张喆	zbzu
