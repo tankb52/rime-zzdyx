@@ -7,6 +7,7 @@ customization:
 patch:
   schema_list:
     - {schema: pinyin_simp}
+    - {schema: xhup}
     - {schema: zzdyx_mod}
     - {schema: zzdyx_perfect}
     - {schema: zzdyx_single}
