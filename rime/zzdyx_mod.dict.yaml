@@ -2296,7 +2296,6 @@ CPU	cpu
 本来	bflh
 博览会	bflh
 本领	bflj
-博览会	bflk
 本论	bfll
 本垒	bfll
 兵分两路	bfll
@@ -2570,7 +2569,6 @@ CPU	cpu
 八杆子打不着	bgii
 班组长	bgii
 表侄	bgij
-表彰会	bgik
 表征	bgik
 百舸争流	bgil
 帮着	bgim
@@ -2762,7 +2760,6 @@ CPU	cpu
 表彰会	bgzh
 办公自动化	bgzh
 表侄	bgzj
-表彰会	bgzk
 表征	bgzk
 百舸争流	bgzl
 帮着	bgzm
@@ -3646,7 +3643,6 @@ CPU	cpu
 比肩继踵	bjji
 保健站	bjji
 保健	bjjj
-保监会	bjjk
 便捷	bjjk
 闭卷	bjjm
 保驾	bjjn
@@ -3703,7 +3699,6 @@ CPU	cpu
 伴	bjmi
 保命	bjmj
 闭门	bjmj
-闭幕会	bjmk
 煲	bjmm
 保密	bjmn
 闭目	bjmo
@@ -4605,7 +4600,6 @@ bilibili	blbl
 必然会	blrh
 办理入住	blri
 被人	blrj
-必然会	blrk
 必然律	blrl
 被褥	blrl
 必然律	blrl
@@ -9753,7 +9747,6 @@ bilibili	blbl
 冲着	chzm
 床罩	chzo
 传化糟粕	chzp
-充值卡	chzq
 产自	chzr
 次长	chzt
 充值卡	chzu
@@ -11481,7 +11474,6 @@ bilibili	blbl
 豺	cmfe
 长命富贵	cmfg
 粗放	cmfh
-采访车	cmfj
 采伐	cmfj
 炒房客	cmfk
 采访	cmfl
@@ -13522,7 +13514,6 @@ bilibili	blbl
 城邑	cuyi
 超员	cuyi
 赪	cuyj
-城运会	cuyk
 长期以来	cuyl
 超音速	cuys
 城垣	cuyu
@@ -15159,7 +15150,6 @@ bilibili	blbl
 大盘股	dapg
 大排行	daph
 大碰撞	dapi
-大篷车	dapj
 大批	dapk
 大批量	dapl
 大炮	dapm
@@ -15842,10 +15832,8 @@ bilibili	blbl
 滴着	ddim
 洞中	ddio
 豆制品	ddip
-大大增强	ddiq
 单刀直入	ddir
 淡紫色	ddis
-大大增强	ddiu
 豆子	ddiv
 低等植物	ddiw
 独断专行	ddix
@@ -16031,10 +16019,8 @@ bilibili	blbl
 滴着	ddzm
 洞中	ddzo
 豆制品	ddzp
-大大增强	ddzq
 单刀直入	ddzr
 淡紫色	ddzs
-大大增强	ddzu
 豆子	ddzv
 低等植物	ddzw
 独断专行	ddzx
@@ -16616,7 +16602,6 @@ bilibili	blbl
 动员	dgyi
 道高一尺，魔高一丈	dgyi
 玷	dgyi
-动员会	dgyk
 动摇	dgyk
 动议	dgyl
 动员令	dgyl
@@ -16931,7 +16916,6 @@ bilibili	blbl
 电子表格	dibg
 大嘴巴子	dibi
 丢卒保车	dibj
-党支部书记	dibj
 电子病历	dibl
 呆笨	dibt
 得之不易	diby
@@ -17277,7 +17261,6 @@ bilibili	blbl
 低端	djdh
 党代会	djdh
 当代	djdj
-党代会	djdk
 倒挡	djdk
 倒掉	djdk
 低调	djdl
@@ -17733,7 +17716,6 @@ bilibili	blbl
 打边鼓	dkbg
 得病	dkbh
 挡不住	dkbi
-搭便车	dkbj
 担保	dkbj
 打扮	dkbk
 打不开	dkbk
@@ -18450,10 +18432,8 @@ bilibili	blbl
 登记	dljl
 叠加	dljn
 订机票	dljp
-大力加强	dljq
 登记人	dljr
 道路交通	dljt
-大力加强	dlju
 对角	dljw
 谠	dljw
 对角线	dljx
@@ -21819,7 +21799,6 @@ bilibili	blbl
 刀疤	dzbh
 刀把子	dzbi
 丢卒保车	dzbj
-党支部书记	dzbj
 刀把	dzbk
 电子病历	dzbl
 刀兵	dzbr
@@ -24723,7 +24702,6 @@ bilibili	blbl
 房交会	fljh
 房价	fljj
 房间	fljj
-房交会	fljk
 讽谏	fljl
 费了劲了	fljl
 分裂间期	fljq
@@ -24955,7 +24933,6 @@ bilibili	blbl
 房谋杜断	fmdd
 翻动	fmdg
 分店	fmdh
-翻斗车	fmdj
 翻倒	fmdj
 分掉	fmdk
 分担	fmdk
@@ -27646,7 +27623,6 @@ bilibili	blbl
 发布会	fzbh
 飞边子	fzbi
 发报机	fzbj
-发布会	fzbk
 发报	fzbk
 发病率	fzbl
 飞迸	fzbm
@@ -31326,7 +31302,6 @@ bilibili	blbl
 公交	gmjh
 关键字	gmji
 公交站	gmji
-公交车	gmjj
 公积金	gmjj
 国民经济	gmjj
 公鸡	gmjl
@@ -31793,7 +31768,6 @@ bilibili	blbl
 国标码	gobm
 国宝	gobn
 贵宾	gobn
-贵宾卡	gobq
 贵宾卡	gobu
 冈比亚	goby
 国办	gobz
@@ -36765,7 +36739,6 @@ GPRS	gprs
 会员	hjyi
 货运站	hjyi
 华严经	hjyj
-会员卡	hjyk
 含冤	hjyl
 会议	hjyl
 华语	hjyl
@@ -38082,7 +38055,6 @@ GPRS	gprs
 回收站	hosi
 回收期	hosj
 回闪	hosj
-黑社会	hosk
 黑手	hosk
 回神	hosl
 回收率	hosl
@@ -40661,7 +40633,6 @@ GPRS	gprs
 展露	iblh
 展览会	iblh
 做不了主	ibli
-展览会	iblk
 自不量力	ibll
 张力	ibln
 张罗	iblo
@@ -40706,7 +40677,6 @@ GPRS	gprs
 展商	ibsh
 展示会	ibsh
 支部书记	ibsj
-展示会	ibsk
 张数	ibsm
 展室	ibsn
 中饱私囊	ibsn
@@ -41836,7 +41806,6 @@ GPRS	gprs
 整齐	ifqh
 政企	ifqj
 遭抢	ifqk
-正确率	ifql
 醉拳	ifqm
 支前	ifqm
 职前	ifqm
@@ -41852,7 +41821,6 @@ GPRS	gprs
 再去	ifqu
 再起	ifqu
 支起	ifqu
-正确性	ifqx
 支付企业	ifqy
 者	ifr
 载人	ifrj
@@ -41933,7 +41901,6 @@ GPRS	gprs
 整齐	ifuh
 政企	ifuj
 遭抢	ifuk
-正确率	iful
 醉拳	ifum
 支前	ifum
 职前	ifum
@@ -41949,7 +41916,6 @@ GPRS	gprs
 再去	ifuu
 再起	ifuu
 支起	ifuu
-正确性	ifux
 支付企业	ifuy
 朝	ifv
 疐	ifvk
@@ -46117,7 +46083,6 @@ GPRS	gprs
 招聘职位	ipzw
 质	iq
 爪	iq
-正确安装	iqai
 知情不报	iqbb
 政企不分	iqbf
 质变	iqbh
@@ -46143,7 +46108,6 @@ GPRS	gprs
 争奇斗艳	iqdy
 政企分开	iqfk
 职权范围	iqfw
-正确方向	iqfx
 质感	iqga
 真情告白	iqgb
 支气管哮喘	iqgc
@@ -46152,7 +46116,6 @@ GPRS	gprs
 至亲骨肉	iqgr
 证券公司	iqgs
 支气管炎	iqgy
-增强活力	iqhl
 争强好胜	iqhs
 整齐划一	iqhy
 杂七杂八	iqib
@@ -46186,7 +46149,6 @@ GPRS	gprs
 质	iqok
 朝气蓬勃	iqpb
 质朴	iqpc
-正确评估	iqpg
 质谱	iqpl
 舟桥	iqqc
 舟曲	iqqo
@@ -46213,7 +46175,6 @@ GPRS	gprs
 质询	iqxl
 志趣相投	iqxt
 卮	iqxx
-正确引导	iqyd
 质优	iqyj
 质押	iqyk
 爪牙	iqys
@@ -46706,7 +46667,6 @@ GPRS	gprs
 最喜欢	irxh
 最小值	irxi
 追星族	irxi
-自行车	irxj
 照相机	irxj
 自信	irxj
 照相机	irxj
@@ -47828,7 +47788,6 @@ GPRS	gprs
 重镇	itzy
 走	iu
 赵	iu
-正确安装	iuai
 增补本	iubb
 知情不报	iubb
 走板	iubc
@@ -47896,7 +47855,6 @@ GPRS	gprs
 增幅	iufo
 赭	iufr
 职权范围	iufw
-正确方向	iufx
 增发	iufz
 真情告白	iugb
 走过场	iugc
@@ -47916,7 +47874,6 @@ GPRS	gprs
 趑	iuh
 增厚	iuha
 增辉	iuhj
-增强活力	iuhl
 走后门	iuhm
 走火	iuhm
 走后门	iuhm
@@ -47998,11 +47955,9 @@ GPRS	gprs
 朝气蓬勃	iupb
 增派	iupd
 走偏锋	iupf
-正确评估	iupg
-志强	iuqb
-增强版	iuqb
 增强	iuqb
 增强版	iuqb
+志强	iuqb
 走棋	iuqc
 走俏	iuqj
 走亲戚	iuqq
@@ -48093,7 +48048,6 @@ GPRS	gprs
 志异	iuyb
 志愿兵	iuyb
 走样	iuyc
-正确引导	iuyd
 走远	iuyg
 走运	iuyg
 走一走	iuyi
@@ -55355,7 +55309,6 @@ GPRS	gprs
 近	jq
 斤	jq
 近岸	jqao
-加强安全	jqaq
 佶屈聱牙	jqay
 近百	jqbd
 举棋不定	jqbd
@@ -55402,7 +55355,6 @@ GPRS	gprs
 近古	jqgf
 敬请关注	jqgi
 近观	jqgl
-加强管理	jqgl
 究其根源	jqgy
 敬请关注	jqgz
 九曲回肠	jqhc
@@ -55426,7 +55378,6 @@ GPRS	gprs
 极权主义	jqiy
 近郊	jqjh
 近亲结婚	jqjh
-加强监控	jqjk
 近距离	jqjl
 几起几落	jqjl
 近几年	jqjn
@@ -55440,7 +55391,6 @@ GPRS	gprs
 近看	jqkk
 进去看看	jqkk
 极其可怕	jqkp
-加强领导	jqld
 斤两	jqlf
 近来	jqlh
 近路	jqli
@@ -55493,7 +55443,6 @@ GPRS	gprs
 尽其所有	jqsy
 近似值	jqsz
 舰体	jqtj
-加强团结	jqtj
 舰艇	jqtq
 近体诗	jqts
 减轻疼痛	jqtt
@@ -55509,7 +55458,6 @@ GPRS	gprs
 减轻污染	jqwr
 近万	jqws
 近卫	jqwv
-加强宣传	jqxc
 近现代	jqxd
 近些年	jqxn
 鸡犬相闻	jqxw
@@ -56512,8 +56460,6 @@ GPRS	gprs
 颉	juaj
 均按	juak
 劫案	juan
-加强安全	juaq
-加强安全	juau
 佶屈聱牙	juay
 紧挨着	juaz
 均不	juba
@@ -56607,7 +56553,6 @@ GPRS	gprs
 紧跟	jugi
 紧箍咒	jugi
 敬请关注	jugi
-加强管理	jugl
 坚果	jugo
 坚固	jugo
 均告	jugt
@@ -56661,7 +56606,6 @@ GPRS	gprs
 紧接着	juji
 均价	jujj
 紧接	jujk
-加强监控	jujk
 监军	jujl
 几起几落	jujl
 境界	jujo
@@ -56679,7 +56623,6 @@ GPRS	gprs
 紧靠	jukt
 吉列	jula
 吉林	julc
-加强领导	juld
 监理	julg
 嘉陵江	julj
 劫掠	julk
@@ -56767,7 +56710,6 @@ GPRS	gprs
 紧身衣	jusy
 监听	juti
 吉他	jutj
-加强团结	jutj
 坚挺	jutk
 吉它	jutn
 紧贴	juto
@@ -56795,7 +56737,6 @@ GPRS	gprs
 监委	juwt
 境外	juww
 紧	jux
-加强宣传	juxc
 均系	juxe
 均需	juxh
 坚信	juxj
@@ -57018,7 +56959,6 @@ GPRS	gprs
 脚踢	jvti
 脚踏	jvti
 胶体	jvtj
-脚踏车	jvtj
 肌体	jvtj
 祭台	jvtl
 降糖	jvtm
@@ -57299,7 +57239,6 @@ GPRS	gprs
 几句话	jwjh
 九五计划	jwjh
 急救站	jwji
-急救车	jwjj
 几件	jwjj
 极为艰苦	jwjk
 久煎	jwjm
@@ -57841,7 +57780,6 @@ GPRS	gprs
 经济体	jxjt
 绝境	jxju
 经济区	jxju
-继续加强	jxju
 绝句	jxjw
 纪检委	jxjw
 经久	jxjw
@@ -58126,7 +58064,6 @@ GPRS	gprs
 金币	jybe
 锯	jybf
 金碧	jybg
-进一步提高	jybg
 金不换	jybh
 借一步说话	jybh
 金标准	jybi
@@ -58134,14 +58071,11 @@ GPRS	gprs
 金标准	jybi
 键	jybl
 金边	jybn
-进一步加强	jybq
 锦标赛	jybs
 经营不善	jybs
 交友不慎	jybs
-进一步说	jybs
 金匾	jybs
 金箔	jybt
-进一步加强	jybu
 金标准	jybz
 乩	jyc
 金银财宝	jycb
@@ -59023,7 +58957,6 @@ GPRS	gprs
 可不是嘛	kbsm
 看不顺眼	kbsy
 恳谈会	kbth
-恳谈会	kbtk
 恳谈	kbtl
 垦	kbu
 看不清楚	kbuc
@@ -59515,7 +59448,6 @@ GPRS	gprs
 可能会	kfnh
 狂风怒号	kfnh
 可能会	kfnh
-可能会	kfnk
 恐难	kfnl
 可能	kfnl
 可逆	kfnm
@@ -59874,7 +59806,6 @@ GPRS	gprs
 开枪	kgqc
 开汽车	kgqc
 开球	kgqg
-开汽车	kgqj
 开全	kgqj
 开启	kgql
 开窍	kgqn
@@ -59923,7 +59854,6 @@ GPRS	gprs
 开枪	kguc
 开汽车	kguc
 开球	kgug
-开汽车	kguj
 开全	kguj
 开启	kgul
 开窍	kgun
@@ -64935,7 +64865,6 @@ GPRS	gprs
 疗效好	lhxh
 旅行者	lhxi
 两虎相争	lhxi
-旅行车	lhxj
 来信	lhxj
 离休金	lhxj
 旅行家	lhxj
@@ -65824,7 +65753,6 @@ GPRS	gprs
 利令智昏	llih
 论证会	llih
 林林总总	llii
-论证会	llik
 论证	llil
 历历在目	llim
 郎中	llio
@@ -66009,7 +65937,6 @@ GPRS	gprs
 老泪纵横	llzh
 利令智昏	llzh
 论证会	llzh
-论证会	llzk
 论证	llzl
 历历在目	llzm
 郎中	llzo
@@ -70681,7 +70608,6 @@ GPRS	gprs
 闷罐车	mjgc
 门规	mjgg
 命根子	mjgi
-闷罐车	mjgj
 命该	mjgl
 命官	mjgn
 门岗	mjgo
@@ -70728,7 +70654,6 @@ GPRS	gprs
 民间疾苦	mjjk
 门禁卡	mjjk
 门静脉	mjjm
-门禁卡	mjjq
 门禁卡	mjju
 民间交往	mjjw
 摩肩接踵	mjjz
@@ -72829,7 +72754,6 @@ GPRS	gprs
 名次	mwch
 贸促会	mwch
 猛吃	mwci
-贸促会	mwck
 名词	mwcl
 名刹	mwcm
 名车	mwcs
@@ -75066,7 +74990,6 @@ GPRS	gprs
 农行卡	nlhk
 农户	nlhl
 能回	nlho
-农行卡	nlhq
 能好	nlhs
 能和	nlht
 农行卡	nlhu
@@ -75779,7 +75702,6 @@ GPRS	gprs
 怒气冲天	nqct
 弄巧成拙	nqcz
 镍氢电池	nqdc
-鸟悄儿地	nqed
 鸟枪换炮	nqhp
 能掐会算	nqhs
 拿腔作势	nqis
@@ -76441,7 +76363,6 @@ GPRS	gprs
 怒气冲天	nuct
 弄巧成拙	nucz
 镍氢电池	nudc
-鸟悄儿地	nued
 垴	nuh
 垴	nuhm
 鸟枪换炮	nuhp
@@ -76641,7 +76562,6 @@ GPRS	gprs
 能文能武	nwnw
 鸟群	nwqb
 鸟枪	nwqc
-鸟悄儿地	nwqd
 鸟悄儿	nwqe
 鸟悄	nwqn
 鸟雀	nwqp
@@ -76658,7 +76578,6 @@ GPRS	gprs
 鸟啼	nwti
 鸟群	nwub
 鸟枪	nwuc
-鸟悄儿地	nwud
 鸟悄儿	nwue
 鸟悄	nwun
 鸟雀	nwup
@@ -103333,7 +103252,6 @@ GPRS	gprs
 碰头会	path
 破天荒	path
 碰头会	path
-碰头会	patk
 碰头	patn
 破题	patr
 破土	patu
@@ -104108,7 +104026,6 @@ GPRS	gprs
 平板车	phbc
 飘忽不定	phbd
 霹	phbh
-平板车	phbj
 疲敝	phbm
 旁边	phbn
 徘徊不前	phbq
@@ -104945,7 +104862,6 @@ GPRS	gprs
 披靡	pkmh
 拍卖会	pkmh
 拼命	pkmj
-拍卖会	pkmk
 扒	pkmm
 拍马屁	pkmp
 拍卖师	pkms
@@ -109215,7 +109131,6 @@ GPRS	gprs
 企业家	qjyj
 企业级	qjyj
 企业界	qjyj
-全运会	qjyk
 全羊	qjym
 千金一诺	qjyn
 清洁用品	qjyp
@@ -110822,7 +110737,6 @@ QQ密码	qqmm
 轻机枪	qsjq
 切近	qsjq
 轻机枪	qsjq
-切实加强	qsjq
 妻舅	qsjr
 前世今生	qsjs
 轻金属	qsjs
@@ -115056,11 +114970,9 @@ QQ密码	qqmm
 如蝇逐臭	ryic
 日益增多	ryid
 日益增长	ryii
-日益增强	ryiq
 人与自然	ryir
 仁义之师	ryis
 睿智	ryit
-日益增强	ryiu
 日夜兼程	ryjc
 锐减	ryjh
 日益加剧	ryjj
@@ -115153,11 +115065,9 @@ QQ密码	qqmm
 日益严重	ryyz
 如蝇逐臭	ryzc
 日益增多	ryzd
-日益增强	ryzq
 人与自然	ryzr
 仁义之师	ryzs
 睿智	ryzt
-日益增强	ryzu
 日益增长	ryzz
 忍	rz
 刃	rz
@@ -118220,7 +118130,6 @@ QQ密码	qqmm
 丝竹管弦	sigx
 送子观音	sigy
 唼	sih
-四诊合参	sihc
 嘶喊	sihi
 十字花科	sihk
 失之毫厘，谬以千里	sihl
@@ -122874,7 +122783,6 @@ QQ密码	qqmm
 生津	stjd
 失敬	stje
 私交	stjh
-私家车	stjj
 升降机	stjj
 税捐	stjk
 身体健康	stjk
@@ -124752,7 +124660,6 @@ QQ密码	qqmm
 上网卡	sywk
 上完	sywn
 上网	sywo
-上网卡	sywq
 受益无穷	sywq
 岁月无情	sywq
 上万人	sywr
@@ -124920,7 +124827,6 @@ QQ密码	qqmm
 市政管理	szgl
 丝竹管弦	szgx
 送子观音	szgy
-四诊合参	szhc
 十字花科	szhk
 失之毫厘，谬以千里	szhl
 失之毫厘	szhl
@@ -128429,7 +128335,6 @@ QQ密码	qqmm
 团拜会	tobh
 贴吧	tobi
 同伴	tobj
-团拜会	tobk
 图报	tobk
 贴补	tobl
 贴边	tobn
@@ -128704,7 +128609,6 @@ QQ密码	qqmm
 同乡会	toxh
 团小组	toxi
 图像	toxj
-同乡会	toxk
 同行	toxk
 图形卡	toxk
 同性恋	toxl
@@ -132819,7 +132723,6 @@ QQ密码	qqmm
 企业家	ujyj
 企业级	ujyj
 企业界	ujyj
-全运会	ujyk
 全羊	ujym
 千金一诺	ujyn
 清洁用品	ujyp
@@ -136338,10 +136241,8 @@ Z	vyz
 屋子里	wbil
 无本之木	wbim
 屋中	wbio
-未必正确	wbiq
 尾追	wbir
 违背自然	wbir
-未必正确	wbiu
 屋子	wbiv
 我不这么认为	wbiw
 五笔字型	wbix
@@ -136441,10 +136342,8 @@ Z	vyz
 屋子里	wbzl
 无本之木	wbzm
 屋中	wbzo
-未必正确	wbzq
 尾追	wbzr
 违背自然	wbzr
-未必正确	wbzu
 屋子	wbzv
 我不这么认为	wbzw
 五笔字型	wbzx
@@ -142028,7 +141927,6 @@ Z	vyz
 校友会	xcyh
 相一致	xcyi
 相依	xcyj
-校友会	xcyk
 相拥	xcyk
 校友录	xcyl
 心存疑虑	xcyl
@@ -142135,7 +142033,6 @@ Z	vyz
 消费国	xdfg
 消费者	xdfi
 湘妃竹	xdfi
-消防车	xdfj
 洗发精	xdfj
 消防局	xdfj
 消费卡	xdfk
@@ -143071,7 +142968,6 @@ Z	vyz
 现场会	xgch
 瑕疵	xgch
 现场会	xgch
-现场会	xgck
 兴高采烈	xgcl
 星光灿烂	xgcl
 习惯成自然	xgcr
@@ -143544,7 +143440,6 @@ Z	vyz
 新华社记者	xhsi
 新四军	xhsj
 新手	xhsk
-学会思考	xhsk
 新诗	xhsl
 心狠手辣	xhsl
 享受	xhsm
@@ -144534,7 +144429,6 @@ Z	vyz
 行李袋	xkld
 行旅	xklh
 行嘞	xkli
-行李车	xklj
 行李架	xklj
 行李筐	xklk
 行礼	xkll
@@ -145546,7 +145440,6 @@ Z	vyz
 学生会	xnsh
 学生证	xnsi
 学术界	xnsj
-学生会	xnsk
 宣誓	xnsk
 学识	xnsl
 学生们	xnsm
@@ -146042,7 +145935,6 @@ Z	vyz
 小开	xpkg
 小康	xpkh
 小括号	xpkh
-小客车	xpkj
 小口径	xpkj
 小看	xpkk
 小块	xpku
@@ -146122,7 +146014,6 @@ Z	vyz
 小球	xpqg
 心平气和	xpqh
 小圈子	xpqi
-小汽车	xpqj
 小窍门	xpqm
 小青年	xpqn
 小曲	xpqo
@@ -146195,7 +146086,6 @@ Z	vyz
 小球	xpug
 心平气和	xpuh
 小圈子	xpui
-小汽车	xpuj
 小窍门	xpum
 小青年	xpun
 小曲	xpuo
@@ -151413,7 +151303,6 @@ Z	vyz
 亚运会	yfyh
 要员	yfyi
 一夫一妻制	yfyi
-亚运会	yfyk
 要以	yfyl
 要义	yfym
 一分一秒	yfym
@@ -157943,7 +157832,6 @@ Z	vyz
 铱	yyhk
 镱	yyhl
 依样画葫芦	yyhl
-银行卡	yyhq
 镱	yyhr
 银灰色	yyhs
 一氧化碳	yyht
@@ -157996,7 +157884,6 @@ Z	vyz
 银监会	yyjh
 玉叶金枝	yyji
 一言既出，驷马难追	yyji
-银监会	yyjk
 一应俱全	yyjq
 样样俱全	yyjq
 夜以继日	yyjr
@@ -158699,7 +158586,6 @@ Z	vyz
 展览会	zblh
 展露	zblh
 展览会	zblh
-展览会	zblk
 自不量力	zbll
 张力	zbln
 张罗	zblo
@@ -158746,7 +158632,6 @@ Z	vyz
 展商	zbsh
 展示会	zbsh
 支部书记	zbsj
-展示会	zbsk
 张数	zbsm
 展室	zbsn
 中饱私囊	zbsn
@@ -159902,7 +159787,6 @@ Z	vyz
 整齐	zfqh
 政企	zfqj
 遭抢	zfqk
-正确率	zfql
 醉拳	zfqm
 支前	zfqm
 职前	zfqm
@@ -159918,7 +159802,6 @@ Z	vyz
 再去	zfqu
 再起	zfqu
 支起	zfqu
-正确性	zfqx
 支付企业	zfqy
 者	zfr
 载人	zfrj
@@ -159998,7 +159881,6 @@ Z	vyz
 整齐	zfuh
 政企	zfuj
 遭抢	zfuk
-正确率	zful
 醉拳	zfum
 支前	zfum
 职前	zfum
@@ -160014,7 +159896,6 @@ Z	vyz
 再去	zfuu
 再起	zfuu
 支起	zfuu
-正确性	zfux
 支付企业	zfuy
 朝	zfv
 疐	zfvk
@@ -163955,7 +163836,6 @@ Z	vyz
 真皮组织	zpzz
 质	zq
 爪	zq
-正确安装	zqaz
 知情不报	zqbb
 政企不分	zqbf
 质变	zqbh
@@ -163981,7 +163861,6 @@ Z	vyz
 争奇斗艳	zqdy
 政企分开	zqfk
 职权范围	zqfw
-正确方向	zqfx
 质感	zqga
 真情告白	zqgb
 支气管哮喘	zqgc
@@ -163990,7 +163869,6 @@ Z	vyz
 至亲骨肉	zqgr
 证券公司	zqgs
 支气管炎	zqgy
-增强活力	zqhl
 争强好胜	zqhs
 整齐划一	zqhy
 杂七杂八	zqib
@@ -164025,7 +163903,6 @@ Z	vyz
 质	zqok
 朝气蓬勃	zqpb
 质朴	zqpc
-正确评估	zqpg
 质谱	zqpl
 舟桥	zqqc
 舟曲	zqqo
@@ -164052,7 +163929,6 @@ Z	vyz
 质询	zqxl
 志趣相投	zqxt
 卮	zqxx
-正确引导	zqyd
 质优	zqyj
 质押	zqyk
 爪牙	zqys
@@ -164558,7 +164434,6 @@ Z	vyz
 最小化	zrxh
 最喜欢	zrxh
 最响	zrxi
-自行车	zrxj
 照相机	zrxj
 自信	zrxj
 照相机	zrxj
@@ -165665,7 +165540,6 @@ Z	vyz
 制作者	ztzz
 走	zu
 赵	zu
-正确安装	zuaz
 增补本	zubb
 知情不报	zubb
 走板	zubc
@@ -165733,7 +165607,6 @@ Z	vyz
 增幅	zufo
 赭	zufr
 职权范围	zufw
-正确方向	zufx
 增发	zufz
 真情告白	zugb
 走过场	zugc
@@ -165753,7 +165626,6 @@ Z	vyz
 趑	zuh
 增厚	zuha
 增辉	zuhj
-增强活力	zuhl
 走后门	zuhm
 走火	zuhm
 走后门	zuhm
@@ -165843,11 +165715,9 @@ Z	vyz
 朝气蓬勃	zupb
 增派	zupd
 走偏锋	zupf
-正确评估	zupg
-志强	zuqb
-增强版	zuqb
 增强	zuqb
 增强版	zuqb
+志强	zuqb
 走棋	zuqc
 走俏	zuqj
 走亲戚	zuqq
@@ -165939,7 +165809,6 @@ Z	vyz
 志异	zuyb
 志愿兵	zuyb
 走样	zuyc
-正确引导	zuyd
 走远	zuyg
 走运	zuyg
 走一走	zuyi
