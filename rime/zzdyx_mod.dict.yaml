@@ -2759,7 +2759,6 @@ CPU	cpu
 辩词	bhcl
 变粗	bhcm
 病虫	bhco
-不会承认	bhcr
 冰川	bhcr
 保护措施	bhcs
 冰醋酸	bhcs
@@ -2793,7 +2792,6 @@ CPU	cpu
 不寒而栗	bhel
 不欢而散	bhes
 病	bhf
-不会反对	bhfd
 变法	bhfd
 冰敷	bhff
 瘭	bhfg
@@ -2832,8 +2830,8 @@ CPU	cpu
 病号	bhhi
 变化	bhhj
 变换	bhhk
-庇护	bhhk
 辩护	bhhk
+庇护	bhhk
 冰火	bhhm
 病害	bhhn
 病患	bhho
@@ -2850,12 +2848,13 @@ CPU	cpu
 冰柱	bhic
 辩证法	bhif
 变奏	bhig
-病症	bhih
 霸主	bhih
+病症	bhih
 变作	bhij
 变招	bhik
 辩证	bhil
 病灶	bhim
+霸总	bhim
 不惑之年	bhin
 雹灾	bhin
 病中	bhio
@@ -2867,11 +2866,11 @@ CPU	cpu
 病志	bhiu
 辫子	bhiv
 雹子	bhiv
+霸占	bhiy
 保护主义	bhiy
 冰镇	bhiy
 变质岩	bhiy
 百花争艳	bhiy
-霸占	bhiy
 褒	bhj
 变局	bhjb
 病机	bhjc
@@ -2879,14 +2878,13 @@ CPU	cpu
 病菌	bhje
 避祸就福	bhjf
 褒奖	bhjh
-变焦	bhjj
-病假	bhjj
 部件	bhjj
+病假	bhjj
+变焦	bhjj
 冰激凌	bhjl
 冰窖	bhjn
 禀见	bhjo
 冰晶	bhjr
-不会接受	bhjs
 部际	bhjv
 辩解	bhjw
 部级	bhjx
@@ -2897,7 +2895,6 @@ CPU	cpu
 卞	bhkk
 变宽	bhkn
 冰块	bhku
-不会开心	bhkx
 变	bhl
 病历	bhla
 冰棱	bhlc
@@ -2976,9 +2973,7 @@ CPU	cpu
 变热	bhrk
 辨认	bhrl
 病容	bhrn
-不会容忍	bhrr
 变软	bhrs
-不会认为	bhrw
 庇	bhs
 病死	bhsa
 部属	bhsb
@@ -3013,12 +3008,10 @@ CPU	cpu
 病退	bhtb
 病榻	bhtc
 变天	bhtg
-不会太好	bhth
 病痛	bhth
 变体	bhtj
 变通	bhtl
 冰糖	bhtm
-不会太难	bhtn
 部头	bhtn
 冰炭	bhto
 变甜	bhtt
@@ -3051,7 +3044,6 @@ CPU	cpu
 部位	bhwj
 拨号网络	bhwl
 变为	bhwm
-不会为难	bhwn
 变化无穷	bhwq
 部委	bhwt
 变化无穷	bhwu
@@ -6859,8 +6851,8 @@ bilibili	blbl
 悲喜交集	bxjj
 绑架	bxjn
 编辑器	bxjq
-绊脚石	bxjs
 编辑	bxjs
+绊脚石	bxjs
 绷紧	bxju
 编辑器	bxju
 绊脚	bxjv
@@ -8796,7 +8788,6 @@ bilibili	blbl
 朝	cf
 酬	cf
 才不	cfba
-才不会	cfbh
 朝拜	cfbk
 才被	cfbl
 裁并	cfbm
@@ -10780,7 +10771,6 @@ bilibili	blbl
 出类拔萃	clbc
 翠柏	clbc
 词表	clbg
-从来不会	clbh
 出力不讨好	clbh
 吃力不讨好	clbh
 词霸	clbh
@@ -15342,8 +15332,8 @@ bilibili	blbl
 当断不断	ddbd
 淡泊	ddbd
 淡薄	ddbe
-多多包涵	ddbh
 豆瓣	ddbh
+多多包涵	ddbh
 豆瓣酱	ddbj
 豆爸	ddbm
 渡边	ddbn
@@ -21417,7 +21407,6 @@ bilibili	blbl
 奀	eaa
 奀	eaak
 而不	eaba
-而不会	eabh
 而别	eabi
 而把	eabk
 而被	eabl
@@ -27455,7 +27444,6 @@ bilibili	blbl
 改不掉	gbbd
 敢不敢	gbbg
 改变	gbbh
-根本不会	gbbh
 根本变化	gbbh
 根本保证	gbbi
 敢保	gbbj
@@ -33275,7 +33263,6 @@ GPRS	gprs
 互帮互助	hbhi
 货币回笼	hbhl
 好不好呢	hbhn
-会不会是	hbhs
 互帮互学	hbhx
 黑白混淆	hbhx
 毫不讳言	hbhy
@@ -47768,7 +47755,6 @@ GPRS	gprs
 战表	iybg
 战败国	iybg
 钟表	iybg
-再也不会	iybh
 直言不讳	iybh
 止不住	iybi
 占卜	iybj
@@ -49144,7 +49130,6 @@ GPRS	gprs
 渐变	jdbh
 激变	jdbh
 激辩	jdbh
-绝对不会	jdbh
 酒吧	jdbi
 酒保	jdbj
 酒吧间	jdbj
@@ -50522,8 +50507,6 @@ GPRS	gprs
 竞标	jhbc
 瘠薄	jhbe
 交班	jhbg
-决不会	jhbh
-几乎不会	jhbh
 疾病	jhbh
 交杯酒	jhbj
 交白卷	jhbj
@@ -56059,7 +56042,6 @@ GPRS	gprs
 夹心饼干	jxbg
 结冰	jxbh
 结疤	jxbh
-绝不会	jxbh
 级别	jxbi
 经不住	jxbi
 结伴	jxbj
@@ -72406,7 +72388,6 @@ GPRS	gprs
 呢？	ni
 哪	ni
 哪	nib
-难者不会	nibh
 南征北战	nibi
 哪边	nibn
 哪般	nibq
@@ -74835,7 +74816,6 @@ GPRS	gprs
 难言之隐	nyzy
 农业总产值	nyzz
 乃	nz
-难者不会	nzbh
 南征北讨	nzbt
 宁折不弯	nzbw
 捻转补泻	nzbx
@@ -118939,10 +118919,10 @@ QQ密码	qqmm
 省级	spjx
 少看	spkk
 省科委	spkw
-审批流程	splc
 少林	splc
-少来	splh
+审批流程	splc
 省略号	splh
+少来	splh
 省略句	splj
 死皮赖脸	spll
 省力	spln
@@ -149241,7 +149221,6 @@ Z	vyz
 伊	yjbe
 仪表	yjbg
 耀斑	yjbg
-也就不会	yjbh
 余部	yjbh
 一蹶不振	yjbi
 烟酒不沾	yjbi
@@ -149968,7 +149947,6 @@ Z	vyz
 永葆	ylbe
 译本	ylbf
 以表	ylbg
-又不会	ylbh
 语病	ylbh
 诱变	ylbh
 一鳞半爪	ylbi
@@ -154219,7 +154197,6 @@ Z	vyz
 要言不烦	yybf
 远远不够	yybg
 一言不合	yybh
-永远不会	yybh
 一言蔽之	yybi
 油盐不进	yybj
 源源不绝	yybj
@@ -163045,7 +163022,6 @@ Z	vyz
 铸币	zybe
 战败国	zybg
 钟表	zybg
-再也不会	zybh
 直言不讳	zybh
 占卜	zybj
 钟摆	zybk
