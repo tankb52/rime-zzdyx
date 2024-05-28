@@ -2,7 +2,7 @@
 # encoding:utf-8
 ---
 name: zzdyx_perfect
-version: "20240507"
+version: "20240528"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -1161,6 +1161,7 @@ ADP	adp
 翱	arl
 奥林	arlc
 暗流	arld
+奥莱	arle
 暗恋	arlh
 翱	arll
 暗里	arlo
@@ -11189,6 +11190,7 @@ ATP	atp
 菜地	cedu
 草堆	cedu
 草垛	cedu
+茶蛋	cedv
 草甸	cedw
 菜单项	cedx
 茶点	cedy
@@ -11654,6 +11656,7 @@ ATP	atp
 刺挠	cfnk
 才能	cfnl
 才女	cfns
+刺嫩芽	cfny
 刺破	cfpa
 曹丕	cfpa
 裁判长	cfpi
@@ -14318,8 +14321,6 @@ ATP	atp
 吃里爬外	clpw
 词频	clpy
 车辆牌照	clpz
-参	clq
-参	clqe
 初期	clqf
 春兰秋菊	clqj
 衬裙	clql
@@ -21436,6 +21437,7 @@ ATP	atp
 跌价	dijj
 电子计算机	dijj
 地主阶级	dijj
+吊脚楼	dijl
 吊架	dijn
 吊具	dijo
 断子绝孙	dijs
@@ -21899,6 +21901,7 @@ ATP	atp
 殚精竭虑	djjl
 当家	djjn
 代驾	djjn
+傣家	djjn
 低贱	djjo
 但见	djjo
 当见	djjo
@@ -51775,7 +51778,7 @@ GTP	gtp
 栀子	iczv
 自产自销	iczx
 治	id
-涨	id
+滋	id
 滞	id
 涿	ida
 滞碍	idaa
@@ -51896,6 +51899,7 @@ GTP	gtp
 澡	idic
 沼泽	idid
 沼泽地	idid
+滋滋	idid
 渣滓	idid
 治治	idid
 注资	idih
@@ -54111,6 +54115,7 @@ GTP	gtp
 站名	ihmw
 主母	ihmx
 遮	ihn
+詝	ihnf
 准能	ihnl
 综合能力	ihnl
 这	ihnn
@@ -59289,8 +59294,9 @@ GTP	gtp
 自叹	irti
 自然条件	irtj
 自体	irtj
-自投	irtk
+自提	irtk
 责任条款	irtk
+自投	irtk
 追讨	irtl
 自通	irtl
 昭通	irtl
@@ -64907,6 +64913,7 @@ GTP	gtp
 蒋介石	jej
 节假	jej
 警局	jejb
+荠荠菜	jejc
 敬酒	jejd
 金额较大	jejd
 节节	jeje
@@ -67312,6 +67319,7 @@ GTP	gtp
 今儿	jjew
 见机而作	jjez
 借	jjf
+健腹轮	jjf
 解决方案	jjfa
 剑法	jjfd
 经济发达	jjfd
@@ -67780,6 +67788,7 @@ GTP	gtp
 经济调控	jjtk
 健谈	jjtl
 近几天来	jjtl
+焦糖	jjtm
 剑突	jjtn
 集团	jjto
 焦炭	jjto
@@ -69951,6 +69960,7 @@ GTP	gtp
 健那绿染液	jnly
 举例子	jnlz
 九牛拉不转	jnlz
+加密	jnm
 窭	jnm
 加盟店	jnm
 加码	jnma
@@ -69963,8 +69973,8 @@ GTP	gtp
 锦囊妙计	jnmj
 家门口	jnmk
 寂寞	jnmn
-俊男美女	jnmn
 加密	jnmn
+俊男美女	jnmn
 加冕	jnmo
 举目	jnmo
 加盟	jnmr
@@ -72870,6 +72880,7 @@ GTP	gtp
 及格	jwgc
 几根	jwgc
 解构	jwgc
+九宫格	jwgg
 极为尴尬	jwgg
 矫枉过正	jwgi
 几个字	jwgi
@@ -75435,6 +75446,7 @@ GTP	gtp
 苦中	keio
 苦战	keiy
 苦酒	kejd
+苦苣	keje
 渴而掘井	kejj
 苛捐	kejk
 苦境	keju
@@ -75458,6 +75470,8 @@ GTP	gtp
 苦练	kelx
 苦力	kelz
 苦麻菜	kemc
+苦荬菜	kemc
+苦荬	keme
 苦闷	kemj
 苦命	kemj
 芤脉	kemv
@@ -96566,6 +96580,7 @@ NFC	nfc
 年青人	ntqr
 年轻	ntqs
 牛气	ntqt
+牛肉干	ntrg
 牛人	ntrj
 牛肉面	ntrm
 牛乳	ntrm
@@ -104095,6 +104110,7 @@ NFC	nfc
 鬶	ogdi
 鬹	ogdi
 琺	ogdu
+𬎆	ogeg
 璍	ogeg
 瓘	ogei
 耯	ogej
@@ -104364,6 +104380,7 @@ NFC	nfc
 豒	ogme
 瑳	ogmf
 叆	ogmg
+㼆	ogmg
 琷	ogmg
 珜	ogmg
 瑗	ogmg
@@ -107221,10 +107238,10 @@ NFC	nfc
 噒	oimw
 蹸	oimw
 咷	oimw
+嗞	oimx
 嗘	oimx
 蹊	oimx
 啳	oimx
-嗞	oimx
 踡	oimx
 吩	oimz
 哛	oimz
@@ -124106,8 +124123,8 @@ NFC	nfc
 泡泡	pdp
 澎湃	pdpd
 婆婆	pdpd
-泡泡	pdpd
 婆婆丁	pdpd
+泡泡	pdpd
 漂漂	pdpd
 泼皮	pdpn
 潘帕斯	pdps
@@ -143398,8 +143415,8 @@ QQ密码	qqmm
 手淫	sky
 搔痒	sky
 手谕	sky
-誓愿	skya
 损友	skya
+誓愿	skya
 损益表	skyb
 手游	skyd
 手淫	skyd
@@ -178232,6 +178249,7 @@ Z	vyz
 勖	xrnn
 向内	xrno
 息怒	xrns
+息屏	xrpb
 血泊	xrpd
 血泡	xrpd
 血拼	xrpk
@@ -181121,9 +181139,9 @@ Z	vyz
 有责	yaig
 有资格	yaig
 有这个	yaig
+原装	yaih
 原子核	yaih
 原状	yaih
-原装	yaih
 硬座	yaih
 原主	yaih
 有主	yaih
@@ -181702,9 +181720,9 @@ Z	vyz
 有责	yazg
 有资格	yazg
 有这个	yazg
+原装	yazh
 原子核	yazh
 原状	yazh
-原装	yazh
 硬座	yazh
 原主	yazh
 有主	yazh
@@ -184772,6 +184790,7 @@ Z	vyz
 鱼贯而出	ygec
 伊格尔顿	yged
 有感而发	ygef
+𬎆	ygeg
 一干二净	ygej
 一概而论	ygel
 瑛	ygeo
@@ -185249,8 +185268,8 @@ Z	vyz
 玉镯	ygzy
 言归正传	ygzz
 应	yh
+赢	yh
 瘾	yh
-意	yh
 颜	yha
 弈	yhai
 颜	yhaj
@@ -194290,7 +194309,7 @@ Z	vyz
 株洲县	zczx
 折冲尊俎	zczz
 治	zd
-涨	zd
+滋	zd
 滞	zd
 涿	zda
 滞碍	zdaa
@@ -194664,6 +194683,7 @@ Z	vyz
 渣滓	zdz
 沼泽	zdzd
 沼泽地	zdzd
+滋滋	zdzd
 渣滓	zdzd
 治治	zdzd
 注资	zdzh
@@ -196627,6 +196647,7 @@ Z	vyz
 主母	zhmx
 中华民族	zhmz
 遮	zhn
+詝	zhnf
 准能	zhnl
 综合能力	zhnl
 这	zhnn
@@ -201558,8 +201579,9 @@ Z	vyz
 自叹	zrti
 自然条件	zrtj
 自体	zrtj
-自投	zrtk
+自提	zrtk
 责任条款	zrtk
+自投	zrtk
 追讨	zrtl
 自通	zrtl
 昭通	zrtl
