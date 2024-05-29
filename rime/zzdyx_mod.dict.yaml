@@ -1007,6 +1007,7 @@ CPU	cpu
 不发	bafn
 不妨	bafs
 不符	baft
+不复	baft
 奔赴	bafu
 不服	bafv
 布防	bafv
@@ -5170,7 +5171,6 @@ bilibili	blbl
 边区	bnqs
 办起	bnqu
 边前卫	bnqw
-办企业	bnqy
 办签证	bnqz
 宾	bnr
 宾	bnrm
@@ -5198,7 +5198,6 @@ bilibili	blbl
 边区	bnus
 办起	bnuu
 边前卫	bnuw
-办企业	bnuy
 办签证	bnuz
 暴虐无道	bnwd
 边玩	bnwg
@@ -7033,8 +7032,8 @@ bilibili	blbl
 背反	byfq
 不由分说	byfs
 别有风趣	byfu
-别有风味	byfw
 背负	byfw
+别有风味	byfw
 北非	byfy
 悲歌	bygf
 北广	bygh
@@ -7445,7 +7444,6 @@ bilibili	blbl
 不在其位	bzqw
 边前卫	bzqw
 不知去向	bzqx
-办企业	bzqy
 辨证求因	bzqy
 不在其位，不谋其政	bzqz
 办签证	bzqz
@@ -7493,7 +7491,6 @@ bilibili	blbl
 办起	bzuu
 边前卫	bzuw
 不知去向	bzux
-办企业	bzuy
 辨证求因	bzuy
 不在其位，不谋其政	bzuz
 不知轻重	bzuz
@@ -14452,6 +14449,7 @@ bilibili	blbl
 大不	daba
 达标	dabc
 达不到	dabd
+大部分	dabd
 大半个	dabg
 大变	dabh
 大别	dabi
@@ -20894,7 +20892,6 @@ bilibili	blbl
 大行其道	dxqd
 独行其是	dxqs
 惰性气体	dxqt
-大型企业	dxqy
 缎	dxr
 地狭人稠	dxrc
 胆小如鼠	dxrs
@@ -20917,7 +20914,6 @@ bilibili	blbl
 大行其道	dxud
 独行其是	dxus
 惰性气体	dxut
-大型企业	dxuy
 东西厢房	dxxf
 窦性心律	dxxl
 倒屣相迎	dxxy
@@ -21900,13 +21896,11 @@ bilibili	blbl
 额济纳旗	ejnq
 额济纳旗	ejnu
 俄顷	ejqs
-二级企业	ejqy
 二甲双胍	ejsg
 俄式	ejss
 俄	ejt
 俄	ejtk
 俄顷	ejus
-二级企业	ejuy
 俄文	ejwh
 俄语	ejyl
 二级域名	ejym
@@ -29986,7 +29980,6 @@ bilibili	blbl
 挂旗	gkqh
 顾客群体	gkqt
 挂起	gkqu
-工矿企业	gkqy
 搞钱	gkqy
 拐入	gkrm
 感慨人生	gkrs
@@ -30018,7 +30011,6 @@ bilibili	blbl
 顾客群体	gkut
 挂起	gkuu
 搞起	gkuu
-工矿企业	gkuy
 搞钱	gkuy
 拐弯	gkwh
 感慨万千	gkwq
@@ -31208,9 +31200,9 @@ bilibili	blbl
 果香	goxt
 国玺	goxw
 购销	goxy
-刚硬	goya
-固有	goya
 国有	goya
+固有	goya
+刚硬	goya
 刚一	goyd
 国营	goye
 刚要	goyf
@@ -31682,7 +31674,6 @@ GPRS	gprs
 轧亲家	gsqj
 姑且	gsqo
 过失侵权	gsqq
-工商企业	gsqy
 各司其职	gsqz
 辊	gsr
 更是如此	gsrc
@@ -31713,7 +31704,6 @@ GPRS	gprs
 轧亲家	gsuj
 姑且	gsuo
 过失侵权	gsuu
-工商企业	gsuy
 各司其职	gsuz
 轨	gsw
 姑妄	gswh
@@ -32845,8 +32835,6 @@ GPRS	gprs
 钢圈	gyqo
 各有千秋	gyqq
 钢琴曲	gyqq
-国有企业	gyqy
-国营企业	gyqy
 光阴荏苒	gyrr
 光阴如梭	gyrs
 工银瑞信	gyrx
@@ -32884,8 +32872,6 @@ GPRS	gprs
 钢圈	gyuo
 各有千秋	gyuu
 钢琴曲	gyuu
-国有企业	gyuy
-国营企业	gyuy
 钩	gyw
 锅碗	gywa
 光焰万丈	gywi
@@ -35220,7 +35206,6 @@ GPRS	gprs
 哈气	hiqt
 唤起	hiqu
 哈欠	hiqw
-合资企业	hiqy
 喝	hir
 嗥	hira
 喤	hirg
@@ -35263,7 +35248,6 @@ GPRS	gprs
 哈气	hiut
 唤起	hiuu
 哈欠	hiuw
-合资企业	hiuy
 吼	hiv
 吼	hivc
 唤	hiw
@@ -39194,7 +39178,6 @@ GPRS	gprs
 哗众取宠	hzqc
 火中取栗	hzql
 还治其人之身	hzqs
-合资企业	hzqy
 恨之入骨	hzrg
 壶中日月	hzry
 火灾事故	hzsg
@@ -39204,7 +39187,6 @@ GPRS	gprs
 哗众取宠	hzuc
 火中取栗	hzul
 还治其人之身	hzus
-合资企业	hzuy
 横折弯钩	hzwg
 悔之无及	hzwj
 化整为零	hzwl
@@ -40714,7 +40696,6 @@ GPRS	gprs
 再去	ifqu
 再起	ifqu
 支起	ifqu
-支付企业	ifqy
 者	ifr
 整人	ifrj
 真人	ifrj
@@ -40804,7 +40785,6 @@ GPRS	gprs
 再去	ifuu
 再起	ifuu
 支起	ifuu
-支付企业	ifuy
 朝	ifv
 疐	ifvk
 鄑	ifvv
@@ -47505,7 +47485,6 @@ GPRS	gprs
 自行其是	ixqs
 驻区	ixqs
 骤起	ixqu
-中小企业	ixqy
 再续前缘	ixqy
 纸钱	ixqy
 缴	ixr
@@ -47561,7 +47540,6 @@ GPRS	gprs
 自行其是	ixus
 驻区	ixus
 骤起	ixuu
-中小企业	ixuy
 再续前缘	ixuy
 纸钱	ixuy
 纸	ixw
@@ -50235,7 +50213,6 @@ GPRS	gprs
 进气	jgqt
 进去	jgqu
 进取心	jgqx
-军工企业	jgqy
 进钱	jgqy
 璟	jgr
 尽管如此	jgrc
@@ -50293,7 +50270,6 @@ GPRS	gprs
 进去	jguu
 静悄悄	jguu
 进取心	jgux
-军工企业	jguy
 进钱	jguy
 击	jgv
 击	jgvv
@@ -52285,7 +52261,6 @@ GPRS	gprs
 讲给	jlgx
 计划表	jlhb
 计划处	jlhc
-交流活动	jlhd
 军魂	jlhg
 记号	jlhi
 讲话中	jlhi
@@ -54906,7 +54881,6 @@ GPRS	gprs
 紧跟	jugi
 坚固	jugo
 坚果	jugo
-均告	jugt
 监管	jugt
 究其根源	jugy
 紧箍咒	jugz
@@ -56508,7 +56482,6 @@ GPRS	gprs
 金价	jyjj
 金鸡奖	jyjj
 铰接	jyjk
-经验交流	jyjl
 金鸡	jyjl
 金骏眉	jyjm
 镜架	jyjn
@@ -58054,7 +58027,6 @@ GPRS	gprs
 开腔	kgqv
 亏欠	kgqw
 亏钱	kgqy
-跨国企业	kgqy
 琨	kgr
 开入	kgrm
 开刃	kgrn
@@ -58101,7 +58073,6 @@ GPRS	gprs
 开腔	kguv
 亏欠	kguw
 亏钱	kguy
-跨国企业	kguy
 开往	kgwk
 开悟	kgwn
 开胃	kgwo
@@ -58609,7 +58580,6 @@ GPRS	gprs
 侩	kjjg
 科技进步奖	kjjj
 会计	kjjl
-科技交流	kjjl
 会计师	kjjs
 空间技术	kjjs
 会稽	kjjt
@@ -61339,7 +61309,6 @@ GPRS	gprs
 留得青山在，不怕没柴烧	ldqs
 漏气	ldqt
 滤去	ldqu
-垄断企业	ldqy
 留得青山在	ldqz
 淋溶	ldrd
 礼多人不怪	ldrg
@@ -61412,7 +61381,6 @@ GPRS	gprs
 留得青山在，不怕没柴烧	ldus
 漏气	ldut
 滤去	lduu
-垄断企业	lduy
 留得青山在	lduz
 郦	ldv
 泐	ldvn
@@ -65297,7 +65265,6 @@ GPRS	gprs
 篮圈	ltqo
 篮球赛	ltqs
 氯气	ltqt
-龙头企业	ltqy
 利润	ltrd
 利润额	ltre
 利人	ltrj
@@ -65348,7 +65315,6 @@ GPRS	gprs
 篮圈	ltuo
 篮球赛	ltus
 氯气	ltut
-龙头企业	ltuy
 氇	ltw
 梨涡	ltwd
 里通外国	ltwg
@@ -69936,9 +69902,8 @@ GPRS	gprs
 昧心	mrxl
 盲人瞎马	mrxm
 明信片	mrxp
-明星	mrxr
 明显	mrxr
-明晰	mrxr
+明星	mrxr
 明秀	mrxt
 明细	mrxx
 名人效应	mrxy
@@ -71218,7 +71183,6 @@ GPRS	gprs
 绵延起伏	myqf
 谬以千里	myql
 卖友求荣	myqr
-民营企业	myqy
 镘	myr
 没有任何	myrh
 妙语如珠	myri
@@ -71239,7 +71203,6 @@ GPRS	gprs
 绵延起伏	myuf
 谬以千里	myul
 卖友求荣	myur
-民营企业	myuy
 锰	myv
 镅	myvo
 铭	myw
@@ -103390,7 +103353,6 @@ GPRS	gprs
 品牌汽车	ppqc
 乒乓球队	ppqd
 翩翩起舞	ppqw
-品牌企业	ppqy
 批评人士	pprs
 翩翩少年	ppsn
 潘帕斯草原	ppsy
@@ -103401,7 +103363,6 @@ GPRS	gprs
 品牌汽车	ppuc
 乒乓球队	ppud
 翩翩起舞	ppuw
-品牌企业	ppuy
 平平稳稳	ppww
 品牌消费	ppxf
 批判现实主义	ppxy
@@ -103782,7 +103743,6 @@ GPRS	gprs
 评头品足	ptpz
 葡萄球菌	ptqj
 配套齐全	ptqq
-配套企业	ptqy
 簰	ptrr
 笸	pts
 配套设备	ptsb
@@ -103797,7 +103757,6 @@ GPRS	gprs
 葡萄球菌	ptuj
 穙	ptum
 配套齐全	ptuu
-配套企业	ptuy
 篷	ptw
 普通外科	ptwk
 篷	ptwn
@@ -106785,15 +106744,13 @@ GPRS	gprs
 全有	qjya
 企业版	qjyb
 千军易得	qjyd
-企业法	qjyf
 千钧一发	qjyf
-企业化	qjyh
+企业法	qjyf
 全运会	qjyh
-企业主	qjyi
 全员	qjyi
 企业家	qjyj
-企业界	qjyj
 企业级	qjyj
+企业界	qjyj
 全羊	qjym
 千金一诺	qjyn
 清洁用品	qjyp
@@ -106806,7 +106763,6 @@ GPRS	gprs
 全院	qjyv
 全用	qjyw
 琼浆玉液	qjyy
-企业主	qjyz
 伽	qjz
 倾注	qjzd
 全自动	qjzd
@@ -107406,7 +107362,6 @@ GPRS	gprs
 前妻	qmqs
 前去	qmqu
 前驱	qmqx
-全民企业	qmqy
 糗	qmr
 糗	qmra
 前人	qmrj
@@ -107454,7 +107409,6 @@ GPRS	gprs
 前妻	qmus
 前去	qmuu
 前驱	qmux
-全民企业	qmuy
 郄	qmv
 郄	qmvv
 歉	qmw
@@ -109600,21 +109554,17 @@ QQ密码	qqmm
 卡脖子	qybz
 秋月春风	qycf
 秋月春花	qych
-企业重组	qyci
 岂有此理	qycl
 虔诚	qycl
 钦差	qycm
 钱财	qyco
 取义成仁	qycr
 歧出	qycv
-企业财务	qycw
 龋齿	qycy
-企业重组	qycz
 铅弹	qydb
 情有独钟	qydi
 钱袋	qydj
 钦定	qydn
-企业单位	qydw
 钱多	qydw
 钦点	qydy
 情有独钟	qydz
@@ -109623,21 +109573,17 @@ QQ密码	qqmm
 歧	qyfl
 轻易放弃	qyfq
 轻言放弃	qyfq
-企业法人	qyfr
 牵一发而动全身	qyfs
 群蚁附膻	qyfs
 趋炎附势	qyfs
 铅封	qyfu
-企业服务	qyfw
 曲意逢迎	qyfy
 锲	qyg
 锲	qyga
 钱柜	qygc
 钳工	qygf
-企业管理	qygl
 钱罐	qygt
 锖	qygv
-企业顾问	qygw
 虔	qyh
 歧黄	qyhf
 前因后果	qyhg
@@ -109657,10 +109603,8 @@ QQ密码	qqmm
 区域自治	qyii
 卡住	qyij
 权宜之计	qyij
-企业状况	qyik
 钦州	qyim
 铅字	qyin
-企业自主权	qyiq
 期颐之寿	qyis
 青云直上	qyis
 祛瘀止痛	qyit
@@ -109676,7 +109620,6 @@ QQ密码	qqmm
 钱夹	qyjh
 卡	qyjj
 卡具	qyjo
-企业集团	qyjt
 卡	qyk
 铅矿	qyka
 亲眼看到	qykd
@@ -109687,11 +109630,9 @@ QQ密码	qqmm
 钱款	qyku
 铅块	qyku
 情有可原	qyky
-企业老板	qylb
 七月流火	qylh
 歧路	qyli
 钱粮	qylm
-企业利润	qylr
 巧言令色	qyls
 气阴两虚	qylx
 亲眼目睹	qymd
@@ -109699,11 +109640,9 @@ QQ密码	qqmm
 潜移默化	qymh
 情意绵绵	qymm
 钱穆	qymt
-企业年金	qynj
 觑	qyo
 觑	qyoc
 觑	qyow
-企业破产	qypc
 钱票	qypf
 趋于平衡	qyph
 钦佩	qypj
@@ -109714,9 +109653,7 @@ QQ密码	qqmm
 锵锵	qyqy
 龋	qyr
 巧言如簧	qyrh
-企业融资	qyri
 龋	qyrk
-企业融资	qyrz
 卡死	qysa
 潜意识中	qysi
 亲眼所见	qysj
@@ -109742,7 +109679,6 @@ QQ密码	qqmm
 锵锵	qyuy
 铅	qyw
 趋于稳定	qywd
-企业文化	qywh
 千岩万壑	qywh
 铅	qywi
 钦	qywj
@@ -109770,10 +109706,8 @@ QQ密码	qqmm
 钱庄	qyzh
 卡住	qyzj
 权宜之计	qyzj
-企业状况	qyzk
 钦州	qyzm
 铅字	qyzn
-企业自主权	qyzq
 期颐之寿	qyzs
 青云直上	qyzs
 祛瘀止痛	qyzt
@@ -109998,9 +109932,6 @@ QQ密码	qqmm
 榕江	rcjd
 人才济济	rcjj
 如此艰苦	rcjk
-人才交流	rcjl
-如此艰难	rcjn
-如此坚强	rcjq
 人才建设	rcjs
 如此坚强	rcju
 人才交流中心	rcjx
@@ -119302,7 +119233,6 @@ QQ密码	qqmm
 时区	srqs
 暑气	srqt
 顺气	srqt
-私人企业	srqy
 深入群众	srqz
 晌	srr
 身染	srrd
@@ -119363,7 +119293,6 @@ QQ密码	qqmm
 时区	srus
 暑气	srut
 顺气	srut
-私人企业	sruy
 深入群众	sruz
 匙	srw
 视若无睹	srwd
@@ -120974,7 +120903,6 @@ QQ密码	qqmm
 煞气	swqt
 删去	swqu
 水文气象	swqx
-涉外企业	swqy
 飕	swr
 色弱	swrb
 鲥	swrf
@@ -121017,7 +120945,6 @@ QQ密码	qqmm
 煞气	swut
 删去	swuu
 水文气象	swux
-涉外企业	swuy
 狲	swv
 狲	swvp
 煞尾	swwb
@@ -121225,7 +121152,6 @@ QQ密码	qqmm
 书价	sxjj
 身心健康	sxjk
 书记	sxjl
-双向交流	sxjl
 神仙眷侣	sxjl
 书卷	sxjm
 书架	sxjn
@@ -121716,7 +121642,6 @@ QQ密码	qqmm
 上翘	syqs
 上签	syqt
 上去	syqu
-私营企业	syqy
 锼	syr
 上任	syrj
 善与人交	syrj
@@ -121789,7 +121714,6 @@ QQ密码	qqmm
 上去	syuu
 事业骎骎	syuu
 声誉鹊起	syuu
-私营企业	syuy
 铯	syw
 上尉	sywb
 申银万国	sywg
@@ -122001,7 +121925,6 @@ QQ密码	qqmm
 舌战群儒	szqr
 死中求生	szqs
 胜造七级浮屠	szqt
-三资企业	szqy
 水至清则无鱼	szqy
 湿阻气滞	szqz
 身在其中	szqz
@@ -122027,7 +121950,6 @@ QQ密码	qqmm
 舌战群儒	szur
 死中求生	szus
 胜造七级浮屠	szut
-三资企业	szuy
 水至清则无鱼	szuy
 湿阻气滞	szuz
 身在其中	szuz
@@ -122446,7 +122368,6 @@ QQ密码	qqmm
 退亲	tbqh
 弹起	tbqu
 退去	tbqu
-投标企业	tbqy
 退钱	tbqy
 退热	tbrk
 退让	tbrl
@@ -122479,7 +122400,6 @@ QQ密码	qqmm
 退亲	tbuh
 弹起	tbuu
 退去	tbuu
-投标企业	tbuy
 退钱	tbuy
 臀	tbv
 臀	tbvv
@@ -129480,8 +129400,8 @@ QQ密码	qqmm
 全力	ujlz
 阙	ujm
 全面	ujma
-侨民	ujmb
 全民	ujmb
+侨民	ujmb
 全满	ujmd
 倾慕	ujme
 全免费	ujmf
@@ -129640,15 +129560,13 @@ QQ密码	qqmm
 全有	ujya
 企业版	ujyb
 千军易得	ujyd
-企业法	ujyf
 千钧一发	ujyf
-企业化	ujyh
+企业法	ujyf
 全运会	ujyh
-企业主	ujyi
 全员	ujyi
 企业家	ujyj
-企业界	ujyj
 企业级	ujyj
+企业界	ujyj
 全羊	ujym
 千金一诺	ujyn
 清洁用品	ujyp
@@ -130249,7 +130167,6 @@ QQ密码	qqmm
 前妻	umqs
 前去	umqu
 前驱	umqx
-全民企业	umqy
 糗	umr
 糗	umra
 前人	umrj
@@ -130297,7 +130214,6 @@ QQ密码	qqmm
 前妻	umus
 前去	umuu
 前驱	umux
-全民企业	umuy
 郄	umv
 郄	umvv
 歉	umw
@@ -132346,44 +132262,36 @@ QQ密码	uumm
 前言不搭后语	uyby
 秋月春风	uycf
 秋月春花	uych
-企业重组	uyci
 岂有此理	uycl
 虔诚	uycl
 钦差	uycm
 钱财	uyco
 取义成仁	uycr
 歧出	uycv
-企业财务	uycw
 龋齿	uycy
-企业重组	uycz
 铅弹	uydb
 情有独钟	uydi
 钱袋	uydj
 钦定	uydn
-企业单位	uydw
 钱多	uydw
 钦点	uydy
 情有独钟	uydz
 歧	uyf
 钳	uyfd
 歧	uyfl
-企业法人	uyfr
 牵一发而动全身	uyfs
 群蚁附膻	uyfs
 趋炎附势	uyfs
 轻易放弃	uyfu
 轻言放弃	uyfu
 铅封	uyfu
-企业服务	uyfw
 曲意逢迎	uyfy
 锲	uyg
 锲	uyga
 钱柜	uygc
 钳工	uygf
-企业管理	uygl
 钱罐	uygt
 锖	uygv
-企业顾问	uygw
 虔	uyh
 歧黄	uyhf
 前因后果	uyhg
@@ -132403,14 +132311,12 @@ QQ密码	uumm
 区域自治	uyii
 卡住	uyij
 权宜之计	uyij
-企业状况	uyik
 钦州	uyim
 铅字	uyin
 期颐之寿	uyis
 青云直上	uyis
 祛瘀止痛	uyit
 钳制	uyit
-企业自主权	uyiu
 卡子	uyiv
 钳子	uyiv
 气压中心	uyix
@@ -132422,7 +132328,6 @@ QQ密码	uumm
 钱夹	uyjh
 卡	uyjj
 卡具	uyjo
-企业集团	uyjt
 卡	uyk
 铅矿	uyka
 亲眼看到	uykd
@@ -132433,11 +132338,9 @@ QQ密码	uumm
 钱款	uyku
 铅块	uyku
 情有可原	uyky
-企业老板	uylb
 七月流火	uylh
 歧路	uyli
 钱粮	uylm
-企业利润	uylr
 巧言令色	uyls
 气阴两虚	uylx
 亲眼目睹	uymd
@@ -132445,11 +132348,9 @@ QQ密码	uumm
 潜移默化	uymh
 情意绵绵	uymm
 钱穆	uymt
-企业年金	uynj
 觑	uyo
 觑	uyoc
 觑	uyow
-企业破产	uypc
 钱票	uypf
 趋于平衡	uyph
 钦佩	uypj
@@ -132460,9 +132361,7 @@ QQ密码	uumm
 锵锵	uyqy
 龋	uyr
 巧言如簧	uyrh
-企业融资	uyri
 龋	uyrk
-企业融资	uyrz
 卡死	uysa
 潜意识中	uysi
 亲眼所见	uysj
@@ -132488,7 +132387,6 @@ QQ密码	uumm
 锵锵	uyuy
 铅	uyw
 趋于稳定	uywd
-企业文化	uywh
 千岩万壑	uywh
 铅	uywi
 钦	uywj
@@ -132515,14 +132413,12 @@ QQ密码	uumm
 钱庄	uyzh
 卡住	uyzj
 权宜之计	uyzj
-企业状况	uyzk
 钦州	uyzm
 铅字	uyzn
 期颐之寿	uyzs
 青云直上	uyzs
 祛瘀止痛	uyzt
 钳制	uyzt
-企业自主权	uyzu
 卡子	uyzv
 钳子	uyzv
 气压中心	uyzx
@@ -134459,7 +134355,6 @@ Z	vyz
 文件	whjj
 文件夹	whjj
 忘记	whjl
-文化交流	whjl
 文件名	whjm
 妄加	whjn
 文具	whjo
@@ -134774,7 +134669,6 @@ Z	vyz
 畏罪潜逃	wiqt
 吴起	wiqu
 吴清源	wiqy
-外资企业	wiqy
 喂乳	wirm
 物在人亡	wirw
 闻之色变	wisb
@@ -134804,7 +134698,6 @@ Z	vyz
 畏罪潜逃	wiut
 吴起	wiuu
 吴清源	wiuy
-外资企业	wiuy
 吻	wiw
 稳扎稳打	wiwd
 文治武功	wiwg
@@ -137878,7 +137771,6 @@ Z	vyz
 遗之千金	wzqj
 武装侵略	wzql
 畏罪潜逃	wzqt
-外资企业	wzqy
 无足轻重	wzqz
 物在人亡	wzrw
 闻之色变	wzsb
@@ -137895,7 +137787,6 @@ Z	vyz
 遗之千金	wzuj
 武装侵略	wzul
 畏罪潜逃	wzut
-外资企业	wzuy
 无足轻重	wzuz
 稳扎稳打	wzwd
 文治武功	wzwg
@@ -140403,7 +140294,6 @@ Z	vyz
 心脏起搏器	xiqq
 吸气	xiqt
 响起	xiqu
-乡镇企业	xiqy
 行政区域	xiqy
 响	xir
 嗅	xira
@@ -140459,7 +140349,6 @@ Z	vyz
 吸气	xiut
 响起	xiuu
 心脏起搏器	xiuu
-乡镇企业	xiuy
 行政区域	xiuy
 兄	xiw
 项庄舞剑，意在沛公	xiwg
@@ -142326,6 +142215,7 @@ Z	vyz
 小臂	xpbb
 小白菜	xpbc
 小不点	xpbd
+小部分	xpbf
 小本	xpbf
 小报告	xpbg
 小班	xpbg
@@ -143275,7 +143165,6 @@ Z	vyz
 协商解决	xsjj
 细思极恐	xsjk
 刑事拘留	xsjl
-学术交流	xsjl
 孅	xsjs
 雪上加霜	xsjs
 孅	xsjy
@@ -145037,7 +144926,6 @@ Z	vyz
 行政区划	xzqh
 旋转乾坤	xzqk
 心脏起搏器	xzqq
-乡镇企业	xzqy
 行政区域	xzqy
 闲杂人等	xzrd
 行走如飞	xzrf
@@ -145058,7 +144946,6 @@ Z	vyz
 行政区划	xzuh
 旋转乾坤	xzuk
 心脏起搏器	xzuu
-乡镇企业	xzuy
 行政区域	xzuy
 项庄舞剑，意在沛公	xzwg
 项庄舞剑	xzwj
@@ -149166,7 +149053,6 @@ Z	vyz
 沿街乞讨	yjqt
 仰起	yjqu
 一见倾心	yjqx
-一级企业	yjqy
 余秋雨	yjqy
 余钱	yjqy
 御驾亲征	yjqz
@@ -149246,7 +149132,6 @@ Z	vyz
 沿街乞讨	yjut
 仰起	yjuu
 一见倾心	yjux
-一级企业	yjuy
 余秋雨	yjuy
 余钱	yjuy
 御驾亲征	yjuz
@@ -155901,7 +155786,6 @@ Z	vyz
 再去	zfqu
 再起	zfqu
 支起	zfqu
-支付企业	zfqy
 者	zfr
 整人	zfrj
 真人	zfrj
@@ -155991,7 +155875,6 @@ Z	vyz
 再去	zfuu
 再起	zfuu
 支起	zfuu
-支付企业	zfuy
 朝	zfv
 疐	zfvk
 鄑	zfvv
@@ -162492,7 +162375,6 @@ Z	vyz
 自行其是	zxqs
 驻区	zxqs
 骤起	zxqu
-中小企业	zxqy
 再续前缘	zxqy
 纸钱	zxqy
 缴	zxr
@@ -162548,7 +162430,6 @@ Z	vyz
 自行其是	zxus
 驻区	zxus
 骤起	zxuu
-中小企业	zxuy
 再续前缘	zxuy
 纸钱	zxuy
 纸	zxw
