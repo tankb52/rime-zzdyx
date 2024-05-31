@@ -24,7 +24,7 @@
 
   "style/horizontal": true      #候选词显示方式，true为横排，false竖排
   menu:
-    page_size: 4                #候选词数量
+    page_size: 6                #候选词数量
 
   engine/translators/+:
     - "history_translator@history"      #重复输入
