@@ -13257,6 +13257,7 @@ bilibili	blbl
 出让金	cvrj
 出入口	cvrk
 承认	cvrl
+承让	cvrl
 出让	cvrl
 出人命	cvrm
 出入	cvrm
@@ -28230,9 +28231,9 @@ bilibili	blbl
 工宣队	gfxd
 工薪	gfxe
 贡献	gfxf
+更新	gfxh
 共享	gfxh
 功效	gfxh
-更新	gfxh
 革新	gfxh
 功勋	gfxi
 工薪族	gfxi
@@ -35001,8 +35002,8 @@ GPRS	gprs
 合家欢乐	hjhl
 合欢	hjhl
 阖家欢乐	hjhl
-合乎	hjhm
 辉煌	hjhm
+合乎	hjhm
 含恨	hjhn
 何患	hjho
 会后	hjhq
@@ -40277,8 +40278,8 @@ GPRS	gprs
 再无	ifwg
 指腹为婚	ifwh
 正文	ifwh
-真伪	ifwj
 职位	ifwj
+真伪	ifwj
 酌	ifwk
 正误	ifwl
 再为	ifwm
@@ -40818,6 +40819,7 @@ GPRS	gprs
 驻华大使	ihds
 主动权	ihdu
 主导权	ihdu
+站队	ihdv
 壮胆	ihdv
 主动性	ihdx
 装点	ihdy
@@ -40832,9 +40834,7 @@ GPRS	gprs
 主阀	ihfj
 这番	ihfm
 主罚	ihfo
-煮鹤焚琴	ihfq
 主妇	ihfs
-煮鹤焚琴	ihfu
 主犯	ihfw
 斋饭	ihfw
 瘈	ihg
@@ -42875,6 +42875,7 @@ GPRS	gprs
 证书	ilsx
 诏书	ilsx
 之所以	ilsy
+之上	ilsy
 祖师爷	ilsy
 诈	ilt
 之态	ilta
@@ -45082,8 +45083,8 @@ GPRS	gprs
 致死率	issl
 转数	issm
 转瞬	isso
-知识水平	issp
 至少	issp
+知识水平	issp
 暂时	issr
 转身	issr
 综上所述	isss
@@ -46985,6 +46986,7 @@ GPRS	gprs
 占多数	iyds
 占地	iydu
 资源短缺	iydu
+站队	iydv
 战队	iydv
 钟鼎文	iydw
 紫丁香	iydx
@@ -50003,10 +50005,8 @@ GPRS	gprs
 交通警	jhtj
 竞投	jhtk
 麇	jhtk
-交谈	jhtl
 交通	jhtl
-将它	jhtn
-将她	jhts
+交谈	jhtl
 交通图	jhtt
 旌	jhtt
 净土	jhtu
@@ -55327,7 +55327,6 @@ GPRS	gprs
 结石	jxsa
 机械设备	jxsb
 给水	jxsd
-经世	jxsf
 结束	jxsf
 绝世	jxsf
 经商	jxsh
@@ -56782,7 +56781,6 @@ GPRS	gprs
 克罗齐	kflu
 克隆	kflv
 可乐	kflw
-可利用	kfly
 考虑	kfly
 可没	kfmd
 可卖	kfmf
@@ -71311,7 +71309,6 @@ GPRS	gprs
 你倒	njdj
 拿掉	njdk
 闹得	njdk
-年纪大了	njdl
 您对	njdl
 闹独立	njdl
 念道	njdm
@@ -71384,6 +71381,7 @@ GPRS	gprs
 拿开	njkg
 你看	njkk
 那就可能	njkn
+您	njl
 念	njl
 你老	njlf
 您老	njlf
@@ -101362,6 +101360,7 @@ GPRS	gprs
 掊	pkhi
 排号	pkhi
 批货	pkhj
+排行	pkhk
 彷徨	pkhk
 徘徊	pkhk
 扑火	pkhm
@@ -101550,9 +101549,7 @@ GPRS	gprs
 排异	pkyb
 排椅	pkyc
 排演	pkyd
-披衣	pkyh
 拼音	pkyh
-拼音化	pkyh
 批阅	pkyj
 批语	pkyl
 排烟	pkym
@@ -116695,6 +116692,7 @@ QQ密码	qqmm
 守信	snxj
 实习课	snxk
 实行	snxk
+实心	snxl
 实习	snxl
 审讯	snxl
 善男信女	snxn
@@ -119334,8 +119332,8 @@ QQ密码	qqmm
 饲	swcd
 伤亡惨重	swci
 删词	swcl
-色差	swcm
 色彩	swcm
+色差	swcm
 三五成群	swcq
 鲺	swcr
 煞车	swcs
@@ -121285,10 +121283,8 @@ QQ密码	qqmm
 天地为证	tdwz
 淘洗	tdxd
 汤显祖	tdxi
-同等学力	tdxl
-同等学历	tdxl
 涂写	tdxl
-烫心	tdxl
+溏心	tdxl
 淌血	tdxr
 恬淡虚无	tdxw
 铁道学院	tdxy
@@ -123067,11 +123063,10 @@ QQ密码	qqmm
 调低	tldj
 谈得	tldk
 谈得来	tldl
-台灯	tldm
 通道	tldm
+台灯	tldm
 通电	tldo
 通牒	tldr
-台东	tlds
 谈到	tlds
 谈得上	tlds
 通敌	tldt
@@ -132358,9 +132353,9 @@ Z	vyz
 武林	wglc
 无梁	wgld
 未落	wgle
-万古流芳	wglf
 无聊	wglf
 无赖	wglf
+万古流芳	wglf
 无理	wglg
 未来	wglh
 歪瓜裂枣	wgli
@@ -132651,8 +132646,8 @@ Z	vyz
 弯	whbc
 忘不掉	whbd
 维和部队	whbd
-忘本	whbf
 文本	whbf
+忘本	whbf
 瘟病	whbh
 文本框	whbk
 忘不了	whbl
@@ -139722,15 +139717,16 @@ Z	vyz
 详实	xlsn
 心思	xlso
 心灵手巧	xlsq
-心上人	xlsr
 谐	xlsr
+心上人	xlsr
 心塞塞	xlss
 写生	xlst
 心声	xlsu
 心灵手巧	xlsu
 写书	xlsx
-写上	xlsy
 心理素质	xlsz
+心上	xlsy
+写上	xlsy
 降龙十八掌	xlsz
 许	xlt
 心态	xlta
@@ -147037,8 +147033,8 @@ Z	vyz
 伊甸	yjdw
 眼睛大肚子小	yjdx
 研究对象	yjdx
-伊甸园	yjdy
 优点	yjdy
+伊甸园	yjdy
 余额	yjen
 伊恩	yjeo
 伊尔	yjew
@@ -147268,7 +147264,6 @@ Z	vyz
 优胜者	yjsi
 语惊四座	yjsi
 阈	yjsi
-一家三口	yjsk
 优势	yjsk
 眼疾手快	yjsk
 一己私利	yjsl
@@ -150188,11 +150183,8 @@ Z	vyz
 医药学	ysyx
 姻缘	ysyx
 有说有笑	ysyx
-也是一样	ysyy
-优生优育	ysyy
-咬碎牙往肚里咽	ysyy
-牙痒痒	ysyy
 牙龈	ysyy
+牙痒痒	ysyy
 有始有终	ysyz
 轺	ysz
 姨丈	ysza
