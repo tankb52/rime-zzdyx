@@ -497,3 +497,7 @@ function time_date(input, seg,env)
 	number_translator(input, seg)
 	set_switch_keywords(input, seg,env)
 end
+
+--emoji表情置后显示
+local emoji_reduce             = require("reduce_emoji")
+emoji_reduce_filter            = emoji_reduce.filter
