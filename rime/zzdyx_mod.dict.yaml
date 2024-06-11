@@ -334,7 +334,6 @@ CPU	cpu
 奥林巴斯	albs
 阿拉伯语	alby
 阿拉伯数字	albz
-按劳分配	alfp
 阿拉法特	alft
 谙	alh
 谙	alhr
@@ -1609,7 +1608,6 @@ CPU	cpu
 不成其为	bcqw
 柏	bcr
 柏	bcrd
-编程软件	bcrj
 板刷	bcsb
 柏树	bcsc
 杯水	bcsd
@@ -1842,7 +1840,6 @@ CPU	cpu
 濒临	bdlu
 波浪线	bdlx
 鲍德里亚	bdly
-不达目的	bdmd
 百慕大	bdmd
 百米	bdmm
 不达目的誓不罢休	bdmx
@@ -2580,7 +2577,6 @@ CPU	cpu
 帮腔	bgqv
 卑躬屈膝	bgqx
 斑丘疹	bgqz
-办公软件	bgrj
 帮人	bgrj
 表热	bgrk
 办公设备	bgsb
@@ -2685,10 +2681,8 @@ CPU	cpu
 霸	bh
 疤	bh
 病案	bhan
-保护安全	bhaq
 变暗	bhar
 变矮	bhat
-保护安全	bhau
 冰棒	bhbc
 变化不定	bhbd
 变薄	bhbe
@@ -2711,7 +2705,6 @@ CPU	cpu
 变粗	bhcm
 病虫	bhco
 冰川	bhcr
-保护措施	bhcs
 冰醋酸	bhcs
 辩称	bhct
 变长	bhct
@@ -3188,7 +3181,6 @@ CPU	cpu
 辨证求因	biqy
 宾至如归	birg
 不知如何是好	birh
-标志认证	biri
 别人	birj
 哺乳类	birl
 哺乳	birm
@@ -3219,7 +3211,6 @@ CPU	cpu
 吧台	bitl
 趵突泉	bitq
 趵突泉	bitu
-保障体系	bitx
 辩证统一	bity
 别	biu
 本质区别	biub
@@ -4149,7 +4140,6 @@ bilibili	blbl
 壁垒分明	blfm
 补发	blfn
 被罚	blfo
-比例分配	blfp
 不良风气	blfq
 病理反射	blfs
 不良风气	blfu
@@ -4829,7 +4819,6 @@ bilibili	blbl
 办案	bnan
 宝安	bnan
 怖	bnao
-百年奥运	bnay
 办不成	bnbc
 办不到	bnbd
 宝贝儿	bnbe
@@ -5177,7 +5166,6 @@ bilibili	blbl
 不破不立	bpbl
 不偏不倚	bpby
 不平等条约	bpdy
-编排方式	bpfs
 不怕鬼敲门	bpgm
 不平则鸣	bpim
 杯盘狼藉	bplj
@@ -6606,8 +6594,8 @@ bilibili	blbl
 编辑器	bxjq
 编辑	bxjs
 绊脚石	bxjs
-绷紧	bxju
 编辑器	bxju
+绷紧	bxju
 绊脚	bxjv
 绑架	bxjz
 驳壳枪	bxkq
@@ -7212,7 +7200,6 @@ bilibili	blbl
 包装容器	bzru
 不知肉味	bzrw
 笔者认为	bzrw
-标志认证	bzrz
 不知所措	bzsc
 办事处	bzsc
 不择手段	bzsd
@@ -7236,7 +7223,6 @@ bilibili	blbl
 边听	bzti
 边谈	bztl
 办妥	bztm
-保障体系	bztx
 辩证统一	bzty
 本质区别	bzub
 边沁	bzud
@@ -7651,7 +7637,6 @@ bilibili	blbl
 迟发	cbfz
 层	cbg
 层高	cbgh
-成本管理	cbgl
 尺骨	cbgo
 喘不过气	cbgq
 喘不过气	cbgu
@@ -7760,7 +7745,6 @@ bilibili	blbl
 参差不齐	ccbu
 层出不穷	ccbu
 踌躇不前	ccbu
-财产保险	ccbx
 查办	ccbz
 楂	ccc
 楚楚	cccc
@@ -7798,7 +7782,6 @@ bilibili	blbl
 村	ccfd
 材	ccfe
 村夫	ccfg
-财产分割	ccfg
 村	ccfk
 查房	ccfl
 查访	ccfl
@@ -7807,7 +7790,6 @@ bilibili	blbl
 槽	ccfr
 村妇	ccfs
 查封	ccfu
-超出范围	ccfw
 椿	ccg
 村干部	ccgb
 橱柜	ccgc
@@ -7906,11 +7888,9 @@ bilibili	blbl
 长城内外	ccnw
 梣	ccoj
 查票	ccpf
-财产评估	ccpg
 查铺	ccpy
 查清	ccqd
 磁场强度	ccqd
-财产权利	ccql
 村前	ccqm
 槌	ccr
 梴	ccrl
@@ -7924,7 +7904,6 @@ bilibili	blbl
 村舍	ccsj
 查数	ccsm
 查实	ccsn
-财产损失	ccss
 查税	ccst
 查收	ccsv
 橙色	ccsw
@@ -7939,7 +7918,6 @@ bilibili	blbl
 村屯	ccts
 查清	ccud
 磁场强度	ccud
-财产权利	ccul
 村前	ccum
 楚	ccv
 楚	ccvk
@@ -8039,7 +8017,6 @@ bilibili	blbl
 漕	cdfr
 彻底放弃	cdfu
 潮	cdfv
-承担风险	cdfx
 重蹈覆辙	cdfz
 吃大锅饭	cdgf
 沉痼	cdgh
@@ -8336,7 +8313,6 @@ bilibili	blbl
 草料	celm
 茶寮	celn
 草里	celo
-超额利润	celr
 草绿色	cels
 菜篮	celt
 茶陵	celv
@@ -8822,7 +8798,6 @@ bilibili	blbl
 吃瓜群众	cgqz
 舂	cgr
 舂	cgrd
-炒股软件	cgrj
 蠢人	cgrj
 璁	cgrl
 春光融融	cgrr
@@ -10443,7 +10418,6 @@ bilibili	blbl
 出离愤怒	clfn
 词赋	clfo
 褚	clfr
-处理方式	clfs
 诚服	clfv
 初犯	clfw
 词锋	clfy
@@ -10453,7 +10427,6 @@ bilibili	blbl
 参观者	clgi
 参过军	clgj
 参观	clgl
-车辆管理	clgl
 翠谷	clgm
 才略过人	clgr
 初稿	clgt
@@ -13193,14 +13166,12 @@ bilibili	blbl
 触发	cwfz
 猜	cwg
 触感	cwga
-财务管理	cwgl
 䲠	cwgr
 猜	cwgv
 刍狗	cwgw
 猝	cwh
 猝	cwhf
 处在	cwia
-财务指标	cwib
 处治	cwid
 馋嘴	cwii
 财务状况	cwik
@@ -13319,7 +13290,6 @@ bilibili	blbl
 财务预算	cwys
 猜疑	cwyw
 处在	cwza
-财务指标	cwzb
 处治	cwzd
 馋嘴	cwzi
 财务状况	cwzk
@@ -13685,7 +13655,6 @@ bilibili	blbl
 呲牙咧嘴	cylz
 粲	cym
 错码	cyma
-长远目标	cymb
 鹾	cymf
 柴门	cymj
 粲	cymk
@@ -14910,7 +14879,6 @@ bilibili	blbl
 淡	ddm
 涤棉	ddmc
 淡漠	ddmd
-达到目的	ddmd
 豆苗	ddme
 淡抹	ddmk
 弟弟妹妹	ddmm
@@ -15717,7 +15685,6 @@ bilibili	blbl
 点火开关	dhkg
 端口	dhki
 底裤	dhkl
-大会开幕	dhkm
 帝喾	dhkn
 底孔	dhkv
 癫狂	dhkw
@@ -15933,7 +15900,6 @@ bilibili	blbl
 大政方针	difi
 党政分开	difk
 跌幅	difo
-多种方式	difs
 嘟	difv
 党政干部	digb
 吊杆	digc
@@ -18415,7 +18381,6 @@ bilibili	blbl
 遁迹	dqjh
 刀枪剑戟	dqjj
 打起精神	dqjs
-短期利润	dqlr
 打情骂俏	dqmq
 舵	dqn
 舠	dqnn
@@ -19284,7 +19249,6 @@ bilibili	blbl
 㙍	dull
 地牢	duln
 地里	dulo
-短期利润	dulr
 地利	dult
 地理学	dulx
 地缆	dulx
@@ -20248,7 +20212,6 @@ bilibili	blbl
 刀法	dzfd
 党政分开	dzfk
 刀斧	dzfm
-多种方式	dzfs
 刀锋	dzfy
 大政方针	dzfz
 党政干部	dzgb
@@ -20474,7 +20437,6 @@ bilibili	blbl
 二次大战	ecdz
 儿茶酚胺	ecfa
 二次方程	ecfc
-二次分配	ecfp
 二次函数	echs
 耳聪目明	ecmm
 二次文献	ecwx
@@ -21245,7 +21207,6 @@ bilibili	blbl
 二元结构	eyjg
 恶意欺诈	eyqi
 恶意欺诈	eyqz
-恶意软件	eyrj
 恶语伤人	eysr
 锇	eyt
 锇	eytk
@@ -21413,7 +21374,6 @@ bilibili	blbl
 方寸大乱	fcdl
 飞驰而过	fceg
 榑	fcff
-服从分配	fcfp
 夫唱妇随	fcfs
 焚风	fcfw
 非处方药	fcfy
@@ -21476,7 +21436,6 @@ bilibili	blbl
 方寸之地	fczd
 发财致富	fczf
 覆巢之下安有完卵	fczl
-服从整体	fczt
 非池中物	fczw
 父慈子孝	fczx
 逢场作戏	fczx
@@ -21537,7 +21496,6 @@ bilibili	blbl
 泛泛	fdfd
 贩毒分子	fdfi
 副反应	fdfy
-负担费用	fdfy
 贩毒分子	fdfz
 沣	fdg
 法棍	fdgc
@@ -21634,7 +21592,6 @@ bilibili	blbl
 浮力	fdlz
 浮	fdm
 浮面	fdma
-奋斗目标	fdmb
 浮	fdmd
 滏	fdmg
 法盲	fdmh
@@ -21988,7 +21945,6 @@ bilibili	blbl
 分工不同	fgbt
 富贵不能淫	fgby
 风光不再	fgbz
-分割财产	fgcc
 丰产	fgch
 丰采	fgcm
 丰产田	fgct
@@ -22245,7 +22201,6 @@ bilibili	blbl
 腐烂	fhlm
 方略	fhlo
 废话连篇	fhlp
-丰厚利润	fhlr
 放量	fhlr
 烽火连天	fhlt
 疯了	fhlv
@@ -22697,7 +22652,6 @@ bilibili	blbl
 富可敌国	fkdg
 拂动	fkdg
 扶到	fkds
-付款方式	fkfs
 扶风	fkfw
 抚	fkg
 抚	fkgc
@@ -22901,9 +22855,7 @@ bilibili	blbl
 房门	flmj
 访美	flmm
 翂	flmn
-法律面前	flmq
 分离模式	flms
-法律面前	flmu
 翂	flmz
 袯	flnl
 房内	flno
@@ -22943,7 +22895,6 @@ bilibili	blbl
 福田	flto
 风流倜傥	fltt
 法律条文	fltw
-法律体系	fltx
 福清	flud
 访求	fluf
 房契	flug
@@ -23242,7 +23193,6 @@ bilibili	blbl
 翻屏	fmpb
 分派	fmpd
 分配	fmpf
-负面评价	fmpj
 翻拍	fmpk
 分批	fmpk
 分配律	fmpl
@@ -23363,7 +23313,6 @@ bilibili	blbl
 翻越	fmyu
 分院	fmyv
 翻印	fmyw
-负面影响	fmyx
 分枝	fmzc
 分治	fmzd
 父母之恩	fmze
@@ -24169,8 +24118,6 @@ bilibili	blbl
 辅	fsfk
 风水泛滥	fsfl
 分身乏术	fsfs
-辐射范围	fsfw
-分散风险	fsfx
 俯首甘为孺子牛	fsgn
 法属圭亚那	fsgn
 妨	fsh
@@ -24983,7 +24930,6 @@ bilibili	blbl
 犯罪率	fwil
 非我族类	fwil
 风烛	fwim
-范围之内	fwin
 风灾	fwin
 犯罪	fwio
 负罪	fwio
@@ -25187,7 +25133,6 @@ bilibili	blbl
 犯罪率	fwzl
 非我族类	fwzl
 风烛	fwzm
-范围之内	fwzn
 风灾	fwzn
 犯罪	fwzo
 负罪	fwzo
@@ -25212,7 +25157,6 @@ bilibili	blbl
 纷陈	fxcv
 纺锤	fxcy
 翻箱倒柜	fxdg
-风险抵押	fxdy
 拂袖而去	fxeq
 拂袖而去	fxeu
 缚	fxf
@@ -25223,7 +25167,6 @@ bilibili	blbl
 纷飞	fxfz
 福星高照	fxgi
 复习功课	fxgk
-风险管理	fxgl
 福星高照	fxgz
 纺	fxh
 纺	fxhe
@@ -25242,7 +25185,6 @@ bilibili	blbl
 缝在	fxia
 纺织部	fxib
 纺织厂	fxic
-风险自担	fxid
 纺织工	fxig
 纺织机	fxij
 缚住	fxij
@@ -25265,10 +25207,8 @@ bilibili	blbl
 放下架子	fxjz
 防汛抗旱	fxkh
 缝口	fxki
-风险控制	fxki
 芳香开窍	fxkq
 芳香开窍	fxku
-风险控制	fxkz
 浮想联翩	fxlp
 纷乱	fxlt
 纷	fxm
@@ -25278,7 +25218,6 @@ bilibili	blbl
 纷	fxmz
 肺性脑病	fxnb
 芳香扑鼻	fxpb
-风险评估	fxpg
 发行期内	fxqn
 纷起	fxqu
 缝纫机	fxrj
@@ -25297,8 +25236,6 @@ bilibili	blbl
 缝	fxwn
 风萧萧兮易水寒	fxxh
 风萧萧兮易水寒，壮士一去兮不回还	fxxh
-飞行性能	fxxn
-风险系数	fxxs
 缝隙	fxxv
 缝线	fxxx
 绯	fxy
@@ -25312,7 +25249,6 @@ bilibili	blbl
 缝在	fxza
 纺织部	fxzb
 纺织厂	fxzc
-风险自担	fxzd
 纺织工	fxzg
 纺织机	fxzj
 缚住	fxzj
@@ -25386,7 +25322,6 @@ bilibili	blbl
 非洲	fyid
 非正规	fyig
 非主流	fyil
-翻译作品	fyip
 非洲人	fyir
 丰衣足食	fyis
 扶摇直上	fyis
@@ -25402,7 +25337,6 @@ bilibili	blbl
 非金属	fyjs
 非经	fyjx
 佛要金装	fyjz
-费用扣除	fykc
 放眼看去	fykq
 放眼看去	fyku
 翡	fyl
@@ -25417,7 +25351,6 @@ bilibili	blbl
 发扬民主	fymi
 非命	fymj
 非卖品	fymp
-费用明细	fymx
 发扬民主	fymz
 富有内涵	fynh
 非难	fynl
@@ -25484,7 +25417,6 @@ bilibili	blbl
 非洲	fyzd
 非正规	fyzg
 非主流	fyzl
-翻译作品	fyzp
 非洲人	fyzr
 丰衣足食	fyzs
 扶摇直上	fyzs
@@ -26434,7 +26366,6 @@ bilibili	blbl
 沟壑	gdhy
 该当何罪	gdhz
 涡	gdi
-固定资产	gdic
 灌注	gdid
 灌醉	gdif
 广大职工	gdig
@@ -26551,7 +26482,6 @@ bilibili	blbl
 供大于求	gdyu
 灌阳	gdyv
 古典音乐	gdyy
-固定资产	gdzc
 灌注	gdzd
 灌醉	gdzf
 广大职工	gdzg
@@ -26598,7 +26528,6 @@ bilibili	blbl
 高尔基体	gejt
 芥蓝	gele
 蒄	gelg
-高额利润	gelr
 莞	gen
 莞	geng
 蓇	geov
@@ -27834,7 +27763,6 @@ bilibili	blbl
 咕	gif
 咁	gifd
 哽	gifk
-估值范围	gifw
 跟风	gifw
 敢作敢当	gigd
 敢做敢当	gigd
@@ -27845,7 +27773,6 @@ bilibili	blbl
 咣咣	gigi
 呱呱叫	gigj
 鼓足干劲	gigj
-工资管理	gigl
 跟骨	gigo
 故作高深	gigs
 敢作敢为	gigw
@@ -28132,7 +28059,6 @@ bilibili	blbl
 光荣	gjre
 甘居人后	gjrh
 个人	gjrj
-工具软件	gjrj
 供热	gjrk
 国际认可	gjrk
 供认	gjrl
@@ -28328,7 +28254,6 @@ bilibili	blbl
 拱猪	gkiw
 高考作文	gkiw
 挂钟	gkiy
-高空作业	gkiy
 拐	gkiz
 搁	gkj
 挂机	gkjc
@@ -28389,7 +28314,6 @@ bilibili	blbl
 挂起	gkqu
 搞钱	gkqy
 拐入	gkrm
-感慨人生	gkrs
 搞死	gksa
 共克时艰	gksj
 拱手	gksk
@@ -28450,13 +28374,11 @@ bilibili	blbl
 拱猪	gkzw
 高考作文	gkzw
 挂钟	gkzy
-高空作业	gkzy
 该	gl
 雇	gl
 颈	gla
 颈	glaj
 该案	glan
-管理办法	glbf
 该不该	glbg
 诡辩	glbh
 诟病	glbh
@@ -28497,16 +28419,13 @@ bilibili	blbl
 诂	glfi
 该罚	glfo
 功率放大器	glfq
-管理方式	glfs
 功率放大器	glfu
 观风	glfw
-管理费用	glfy
 冠	glg
 观感	glga
 雇工	glgf
 该干	glgg
 观光者	glgi
-管理工具	glgj
 观光	glgj
 癸	glgk
 观光客	glgk
@@ -28540,7 +28459,6 @@ bilibili	blbl
 该着	glim
 观瞻	glio
 观照	glir
-管理知识	glis
 该走	gliu
 褂子	gliv
 观众席	glix
@@ -28573,7 +28491,6 @@ bilibili	blbl
 诰命	glmj
 冠冕	glmo
 冠名权	glmq
-管理模式	glms
 诡秘	glmt
 冠名权	glmu
 冠脉	glmv
@@ -28600,20 +28517,17 @@ bilibili	blbl
 诟	glqi
 雇请	glql
 该去	glqu
-管理权限	glqx
 观其行	glqx
 更阑人静	glrj
 雇人	glrj
 该死	glsa
 癸巳	glsb
 隔离审查	glsc
-管理手段	glsd
 公路收费	glsf
 过磷酸钙	glsg
 观赏	glsj
 该杀	glsm
 观赛	glsn
-管理水平	glsp
 该省	glsp
 桂林山水	glss
 观色	glsw
@@ -28625,9 +28539,6 @@ bilibili	blbl
 诰	glt
 观天	gltg
 格林童话	glth
-管理体制	glti
-管理体系	gltx
-管理体制	gltz
 褂	glu
 冠群	glub
 观其	gluf
@@ -28636,7 +28547,6 @@ bilibili	blbl
 雇请	glul
 诖	gluu
 该去	gluu
-管理权限	glux
 观其行	glux
 诡	glw
 诡	glwa
@@ -28658,7 +28568,6 @@ bilibili	blbl
 古龙香水	glxs
 观象台	glxt
 观象	glxw
-管理学院	glxy
 该有	glya
 诡异	glyb
 雇佣兵	glyb
@@ -28686,7 +28595,6 @@ bilibili	blbl
 该着	glzm
 观瞻	glzo
 观照	glzr
-管理知识	glzs
 该走	glzu
 褂子	glzv
 观众席	glzx
@@ -29804,7 +29712,6 @@ GPRS	gprs
 鬼把戏	grbx
 杲	grc
 个人崇拜	grcb
-个人财产	grcc
 鬼才	grcf
 光荣称号	grch
 光荣传统	grct
@@ -29947,7 +29854,6 @@ GPRS	gprs
 公事公办	gsgb
 官商勾结	gsgj
 公说公有理，婆说婆有理	gsgl
-工商管理	gsgl
 高速公路	gsgl
 媾	gsgo
 怪声怪气	gsgq
@@ -30219,7 +30125,6 @@ GPRS	gprs
 管理站	gtlz
 管理者	gtlz
 国泰民安	gtma
-共同目标	gtmb
 公摊面积	gtmj
 告密	gtmn
 刮目	gtmo
@@ -30901,7 +30806,6 @@ GPRS	gprs
 给付	gxfj
 绠	gxfk
 给分	gxfm
-股息分配	gxfp
 给过	gxgf
 敢想敢干	gxgg
 改弦更张	gxgi
@@ -30965,7 +30869,6 @@ GPRS	gprs
 甘心情愿	gxqy
 给钱	gxqy
 绲	gxr
-共享软件	gxrj
 给人	gxrj
 广西师大	gxsd
 给水	gxsd
@@ -31072,7 +30975,6 @@ GPRS	gprs
 过氧化氢	gyhu
 过氧化物	gyhw
 锅	gyi
-国有资产	gyic
 膏腴之地	gyid
 钢珠	gyig
 钩状	gyih
@@ -31171,7 +31073,6 @@ GPRS	gprs
 过眼云烟	gyyy
 过眼烟云	gyyy
 古已有之	gyyz
-国有资产	gyzc
 膏腴之地	gyzd
 钢珠	gyzg
 钩状	gyzh
@@ -31202,12 +31103,10 @@ GPRS	gprs
 高枕而卧	gzew
 哿	gzf
 哿	gzfi
-估值范围	gzfw
 敢作敢当	gzgd
 敢做敢当	gzgd
 公子哥儿	gzge
 鼓足干劲	gzgj
-工资管理	gzgl
 故作高深	gzgs
 敢作敢为	gzgw
 敢做敢为	gzgw
@@ -32925,7 +32824,6 @@ GPRS	gprs
 彗发	hgfn
 璜	hgfo
 瑚	hgfv
-涵盖范围	hgfw
 回光返照	hgfz
 环顾	hgga
 化干戈为玉帛	hggb
@@ -34068,7 +33966,6 @@ GPRS	gprs
 挥发	hkfn
 护发	hkfn
 护肤品	hkfp
-汇款方式	hkfs
 护符	hkft
 护肤	hkfv
 换防	hkfv
@@ -34207,7 +34104,6 @@ GPRS	gprs
 很弱	hkrb
 徨	hkrg
 换人	hkrj
-黑客软件	hkrj
 很热	hkrk
 很软	hkrs
 很爽	hksa
@@ -34277,7 +34173,6 @@ GPRS	gprs
 换心	hkxl
 很凶	hkxm
 很小	hkxp
-很显然	hkxr
 换血	hkxr
 很香	hkxt
 护膝	hkxv
@@ -35405,7 +35300,6 @@ GPRS	gprs
 后方	hqfh
 后福	hqfl
 后妃	hqfs
-获取方式	hqfs
 后防	hqfv
 后防线	hqfx
 后顾	hqga
@@ -35567,7 +35461,6 @@ GPRS	gprs
 后续	hqxx
 后有	hqya
 后已	hqyb
-行情预测	hqyc
 航运	hqyg
 后裔	hqyh
 花旗银行	hqyh
@@ -35936,15 +35829,12 @@ GPRS	gprs
 挥洒自如	hsir
 后事之师	hsis
 好转	hsis
-或者是	hsis
-或者说	hsis
 好兆头	hsit
 好色之徒	hsit
 轰走	hsiu
 划子	hsiv
 好主意	hsiy
 好战	hsiy
-或者说	hsiy
 黄色炸药	hsiy
 好几次	hsjc
 婚检	hsjc
@@ -36230,15 +36120,12 @@ GPRS	gprs
 挥洒自如	hszr
 后事之师	hszs
 好转	hszs
-或者是	hszs
-或者说	hszs
 好兆头	hszt
 好色之徒	hszt
 轰走	hszu
 划子	hszv
 好主意	hszy
 好战	hszy
-或者说	hszy
 黄色炸药	hszy
 互助组	hszz
 禾	ht
@@ -36250,7 +36137,6 @@ GPRS	gprs
 换汤不换药	htby
 横挑鼻子竖挑眼	htby
 和春	htcg
-后台处理	htcl
 和畅	htco
 撼天动地	htdd
 宏图大展	htdi
@@ -36304,7 +36190,6 @@ GPRS	gprs
 化痰开窍	htkq
 化痰开窍	htku
 和龙	htla
-后台老板	htlb
 鹄立	htlh
 河图洛书	htls
 和乐	htlw
@@ -36407,7 +36292,6 @@ GPRS	gprs
 坏蛋	hudv
 何其毒也	hudy
 坏分子	hufi
-获取方式	hufs
 壶腹	hufv
 坏分子	hufz
 壕沟	hugd
@@ -36489,7 +36373,6 @@ GPRS	gprs
 坏笑	huxt
 花拳绣腿	huxt
 祸起萧墙	huxu
-行情预测	huyc
 花旗银行	huyh
 花前月下	huyx
 赫章	huzh
@@ -36632,7 +36515,6 @@ GPRS	gprs
 毫无例外	hwlw
 狐狸	hwlw
 后无来者	hwlz
-宏伟目标	hwmb
 狠命	hwmj
 昏迷	hwmm
 狐媚	hwms
@@ -37126,7 +37008,6 @@ GPRS	gprs
 豁牙露齿	hylc
 红油辣子	hyli
 合影留念	hyln
-行业利润	hylr
 虎狼	hylw
 胡言乱语	hyly
 红油辣子	hylz
@@ -37343,7 +37224,6 @@ GPRS	gprs
 砖	iag
 逐个	iagj
 左拐	iagk
-治安管理	iagl
 在岗	iago
 殝	iagt
 碡	iagx
@@ -37634,7 +37514,6 @@ GPRS	gprs
 昼	ibr
 晝	ibrd
 罪不容诛	ibri
-正版软件	ibrj
 属	ibrk
 再比如说	ibrs
 针砭时弊	ibsb
@@ -37716,7 +37595,6 @@ GPRS	gprs
 枝杈	iccc
 榨菜	icce
 斩草除根	iccg
-资产重组	icci
 支撑材料	iccl
 楂	iccr
 杂草丛生	iccs
@@ -37734,7 +37612,6 @@ GPRS	gprs
 枝	icf
 资产负债表	icfb
 椹	icfc
-资产负债	icfi
 藏传佛教	icfj
 枝	icfl
 主次分明	icfm
@@ -37752,7 +37629,6 @@ GPRS	gprs
 榨干	icgg
 栈	icgk
 桩冠	icgl
-资产管理	icgl
 椎骨	icgo
 椎管	icgt
 榛	icgt
@@ -37771,7 +37647,6 @@ GPRS	gprs
 植株	icic
 株洲	icid
 榨汁	icid
-资产总额	icie
 终成正果	icig
 在此之后	icih
 柱状	icih
@@ -37799,7 +37674,6 @@ GPRS	gprs
 自出机杼	icji
 中产阶级	icjj
 枞	icjj
-资产阶级	icjj
 札记	icjl
 槜	icjn
 枕巾	icjo
@@ -37839,8 +37713,6 @@ GPRS	gprs
 樟脑丸	icnw
 知错能改善莫大焉	icny
 职称评定	icpd
-资产评估	icpg
-作出评价	icpj
 植皮	icpn
 植皮	icpz
 栀	icq
@@ -37873,7 +37745,6 @@ GPRS	gprs
 枝条	ictw
 栴	ictw
 正常体温	ictw
-自成体系	ictx
 咫尺天涯	icty
 栈桥	icuc
 榨取	icuf
@@ -37917,7 +37788,6 @@ GPRS	gprs
 植株	iczc
 株洲	iczd
 榨汁	iczd
-资产总额	icze
 终成正果	iczg
 在此之后	iczh
 柱状	iczh
@@ -39032,7 +38902,6 @@ GPRS	gprs
 珠帘	igln
 专利权	iglq
 最高领导人	iglr
-中国历史	igls
 扎格罗斯山	igls
 专利	iglt
 中国联通	iglt
@@ -39335,7 +39204,6 @@ GPRS	gprs
 遮光	ihgj
 主观	ihgl
 壮观	ihgl
-综合国力	ihgl
 遮盖	ihgm
 主官	ihgn
 站岗	ihgo
@@ -39380,7 +39248,6 @@ GPRS	gprs
 站住	ihij
 站住脚	ihij
 主抓	ihik
-综合治理	ihil
 站着	ihim
 主宰	ihin
 装置	ihio
@@ -39391,7 +39258,6 @@ GPRS	gprs
 震中	ihio
 资质	ihiq
 主轴	ihis
-综合指数	ihis
 庄重	ihit
 族长	ihit
 站长	ihit
@@ -39434,7 +39300,6 @@ GPRS	gprs
 资金	ihjy
 座驾	ihjz
 癥	ihk
-综合考察	ihkc
 这棵	ihkc
 主考	ihkf
 主客观	ihkg
@@ -39468,7 +39333,6 @@ GPRS	gprs
 资料室	ihls
 站了	ihlv
 主链	ihly
-综合利用	ihly
 主力	ihlz
 粢	ihm
 遮面	ihma
@@ -39498,7 +39362,6 @@ GPRS	gprs
 衷	ihow
 装配	ihpf
 主仆	ihpj
-综合评价	ihpj
 站排	ihpk
 族谱	ihpl
 站牌	ihpr
@@ -39548,7 +39411,6 @@ GPRS	gprs
 纵横四海	ihsh
 这时候	ihsh
 章士钊	ihsi
-综合素质	ihsi
 装孙子	ihsi
 主食	ihsj
 装傻	ihsj
@@ -39567,7 +39429,6 @@ GPRS	gprs
 装饰	ihsw
 姿色	ihsw
 准绳	ihsx
-综合收益	ihsy
 装上	ihsy
 族	iht
 姿态	ihta
@@ -39691,7 +39552,6 @@ GPRS	gprs
 主业	ihyu
 壮阳	ihyv
 章鱼	ihyw
-组合音响	ihyx
 站在	ihza
 装在	ihza
 主张	ihzb
@@ -39711,7 +39571,6 @@ GPRS	gprs
 装作	ihzj
 装做	ihzj
 主抓	ihzk
-综合治理	ihzl
 站着	ihzm
 装着	ihzm
 主宰	ihzn
@@ -39724,7 +39583,6 @@ GPRS	gprs
 震中	ihzo
 资质	ihzq
 主轴	ihzs
-综合指数	ihzs
 庄重	ihzt
 族长	ihzt
 站长	ihzt
@@ -39937,9 +39795,7 @@ GPRS	gprs
 只留	iilw
 壮志凌云	iily
 踯	iim
-最终目标	iimb
 只买	iimc
-最终目的	iimd
 只卖	iimf
 噂	iimf
 知子莫若父	iimf
@@ -40003,7 +39859,6 @@ GPRS	gprs
 嘬	iirf
 踶	iirf
 招灾惹祸	iirh
-资质认证	iiri
 只认	iirl
 唣	iirs
 嘴软	iirs
@@ -40323,7 +40178,6 @@ GPRS	gprs
 住口	ijki
 掌控	ijkk
 坐看	ijkk
-在京开幕	ijkm
 作客	ijkn
 坐困	ijko
 债款	ijku
@@ -40337,15 +40191,11 @@ GPRS	gprs
 传略	ijlo
 作乱	ijlt
 作乐	ijlw
-资金来源	ijly
 掌力	ijlz
 真假莫辨	ijmb
 做梦	ijmc
 坐满	ijmd
-终极目的	ijmd
-增加名额	ijme
 僔	ijmf
-专家门诊	ijmi
 掌门	ijmj
 闸门	ijmj
 作美	ijmm
@@ -40393,7 +40243,6 @@ GPRS	gprs
 值钱	ijqy
 众人	ijrj
 侏儒	ijrj
-增加人口	ijrk
 自即日起	ijrq
 值日	ijrr
 自即日起	ijru
@@ -40464,7 +40313,6 @@ GPRS	gprs
 众位	ijwj
 掌握	ijwk
 偬	ijwl
-资金外流	ijwl
 铸剑为犁	ijwl
 作为	ijwm
 做完	ijwn
@@ -40480,7 +40328,6 @@ GPRS	gprs
 逐渐形成	ijxc
 坐席	ijxh
 坐享	ijxh
-专家学者	ijxi
 作响	ijxi
 坐像	ijxj
 住行	ijxk
@@ -42533,19 +42380,16 @@ GPRS	gprs
 眨眨眼	iozy
 中转站	iozz
 助	iozz
-作品点评	ipdp
 招聘会上	iphs
 真皮组织	ipii
 招聘职位	ipiw
 招聘经理	ipjl
 这篇课文	ipkw
-作品评价	ippj
 众叛亲离	ipql
 这篇日记	iprj
 这片热土	iprt
 臧否人物	iprw
 真凭实据	ipsj
-作品题材	iptc
 诈骗团伙	ipth
 众叛亲离	ipul
 这篇文章	ipwi
@@ -42579,7 +42423,6 @@ GPRS	gprs
 争奇斗艳	iqdy
 质点	iqdy
 政企分开	iqfk
-职权范围	iqfw
 质感	iqga
 真情告白	iqgb
 支气管哮喘	iqgc
@@ -42757,8 +42600,8 @@ GPRS	gprs
 早稻	irdt
 最短	irdt
 最多	irdw
-早点	irdy
 自定义	irdy
+早点	irdy
 遮人耳目	irem
 自然而然	irer
 昨儿	irew
@@ -43220,10 +43063,8 @@ GPRS	gprs
 至诚	iscl
 致词	iscl
 装傻充愣	iscl
-知识产权	iscq
 转车	iscs
 致辞	isct
-知识产权	iscu
 转场	iscu
 轴承	iscv
 至此	iscy
@@ -43256,7 +43097,6 @@ GPRS	gprs
 辄	isf
 辄	isfc
 姊夫	isfg
-知识分子	isfi
 直升飞机	isfj
 再生父母	isfm
 转发	isfn
@@ -43351,7 +43191,6 @@ GPRS	gprs
 遵守纪律	isjl
 转寄	isjn
 轸	isjq
-知识竞赛	isjs
 转嫁	isjs
 转瞬即逝	isjs
 转矩	isjt
@@ -43360,7 +43199,6 @@ GPRS	gprs
 转口	iski
 暂扣	iskk
 再三考虑	iskl
-正式开幕	iskm
 炙手可热	iskr
 正式开通	iskt
 转科	iskt
@@ -43425,7 +43263,6 @@ GPRS	gprs
 辀	isqk
 自食其力	isql
 致歉	isqm
-知识青年	isqn
 至情	isqn
 暂且	isqo
 仗势欺人	isqr
@@ -43464,7 +43301,6 @@ GPRS	gprs
 转数	issm
 转瞬	isso
 至少	issp
-知识水平	issp
 暂时	issr
 转身	issr
 综上所述	isss
@@ -43495,7 +43331,6 @@ GPRS	gprs
 转俏	isuj
 自食其力	isul
 致歉	isum
-知识青年	isun
 至情	isun
 暂且	isuo
 仗势欺人	isur
@@ -43624,8 +43459,6 @@ GPRS	gprs
 珠胎暗结	itaj
 造爱	itam
 重案	itan
-整体安全	itaq
-整体安全	itau
 重磅	itba
 竹板	itbc
 筑波	itbd
@@ -43655,7 +43488,6 @@ GPRS	gprs
 制裁	itcf
 造次	itch
 重创	itcj
-整体出口	itck
 重挫	itck
 造词	itcl
 重彩	itcm
@@ -43663,7 +43495,6 @@ GPRS	gprs
 制成品	itcp
 赞成票	itcp
 造船	itcq
-整体出让	itcr
 租车	itcs
 制程	itct
 筑城	itcu
@@ -43703,10 +43534,8 @@ GPRS	gprs
 知否	itfa
 正态分布	itfb
 制法	itfd
-整体风格	itfg
 知府	itfh
 制伏	itfj
-整体房价	itfj
 毡房	itfl
 租房	itfl
 造访	itfl
@@ -43738,7 +43567,6 @@ GPRS	gprs
 种瓜	itgq
 竹竿	itgt
 租给	itgx
-专题汇报	ithb
 重活	ithd
 种花	ithe
 智慧	ithg
@@ -43799,7 +43627,6 @@ GPRS	gprs
 造价	itjj
 造假	itjj
 雉鸡	itjl
-专题节目	itjm
 知觉	itjn
 租界	itjo
 重晶石	itjs
@@ -43887,7 +43714,6 @@ GPRS	gprs
 赞	itoj
 赞	itok
 制片厂	itpc
-整体配合	itph
 制品	itpi
 赞佩	itpj
 竹排	itpk
@@ -43895,7 +43721,6 @@ GPRS	gprs
 种皮	itpn
 制片	itpr
 制片人	itpr
-整体疲软	itpr
 长胖	itpv
 种皮	itpz
 笊	itq
@@ -43960,19 +43785,16 @@ GPRS	gprs
 种上	itsy
 竹	itt
 笮	ittd
-整体提高	ittg
 乍听	itti
 赞叹	itti
 篆体	ittj
 秩	ittk
 重托	ittk
-专题讨论	ittl
 制糖	ittm
 知天命	ittm
 簉	ittn
 重头	ittn
 赞同	itto
-整体提升	itts
 竹筒	ittt
 重头戏	ittx
 制	itu
@@ -44014,7 +43836,6 @@ GPRS	gprs
 种系	itxe
 造型	itxg
 重型	itxg
-整体下滑	itxh
 秩序	itxh
 长兄	itxi
 纂修	itxj
@@ -44044,7 +43865,6 @@ GPRS	gprs
 毡	ityi
 竹叶	ityi
 长一智	ityi
-专题研究	ityj
 乍一看	ityk
 赞扬	ityk
 在天有灵	ityl
@@ -44056,7 +43876,6 @@ GPRS	gprs
 竹叶青	ityq
 造影	ityr
 长牙	itys
-专题研讨	ityt
 竹叶青	ityu
 竹盐	ityu
 怎也	ityv
@@ -44170,7 +43989,6 @@ GPRS	gprs
 增发	iufn
 增幅	iufo
 赭	iufr
-职权范围	iufw
 增发	iufz
 真情告白	iugb
 走过场	iugc
@@ -44641,7 +44459,6 @@ GPRS	gprs
 周到	iwds
 杂多	iwdw
 周敦颐	iwdy
-在我耳边	iweb
 猪耳朵	iwed
 周二	iweg
 周恩来	iwel
@@ -44728,7 +44545,6 @@ GPRS	gprs
 周口店	iwkd
 周刊	iwkg
 周口	iwki
-在我看来	iwkl
 炙烤	iwkm
 周围空气	iwkq
 周围空气	iwku
@@ -44755,11 +44571,9 @@ GPRS	gprs
 炙	iwmm
 周密	iwmn
 觯	iwmo
-在我面前	iwmq
 詹姆斯	iwms
 杂毛	iwmt
 皱眉头	iwmt
-在我面前	iwmu
 皱眉	iwmv
 詹姆逊	iwmx
 子午卯酉	iwmy
@@ -44804,7 +44618,6 @@ GPRS	gprs
 周日	iwrr
 昝	iwrr
 杂耍	iwsa
-在我身边	iwsb
 走为上策	iwsc
 中文输入法	iwsf
 杂事	iwsf
@@ -45047,7 +44860,6 @@ GPRS	gprs
 组装	ixih
 专心致志	ixii
 驻足	ixii
-专项资金	ixij
 驻扎	ixik
 诛心之论	ixil
 缀着	ixim
@@ -45252,7 +45064,6 @@ GPRS	gprs
 组装	ixzh
 专心致志	ixzi
 驻足	ixzi
-专项资金	ixzj
 综指	ixzk
 驻扎	ixzk
 诛心之论	ixzl
@@ -45403,7 +45214,6 @@ GPRS	gprs
 战争片	iyip
 招摇撞骗	iyip
 针织品	iyip
-专业知识	iyis
 忠于职守	iyis
 止于至善	iyis
 造谣中伤	iyis
@@ -45692,7 +45502,6 @@ GPRS	gprs
 战争片	iyzp
 招摇撞骗	iyzp
 针织品	iyzp
-专业知识	iyzs
 忠于职守	iyzs
 止于至善	iyzs
 造谣中伤	iyzs
@@ -46283,7 +46092,6 @@ GPRS	gprs
 坚持真理	jcil
 检字	jcin
 机中	jcio
-基础知识	jcis
 极致	jcis
 机制	jcit
 机智	jcit
@@ -46519,7 +46327,6 @@ GPRS	gprs
 坚持真理	jczl
 检字	jczn
 机中	jczo
-基础知识	jczs
 极致	jczs
 机制	jczt
 机智	jczt
@@ -46721,7 +46528,6 @@ GPRS	gprs
 酒力	jdlz
 湔	jdm
 江面	jdma
-既定目标	jdmb
 今冬明春	jdmc
 浇灭	jdmd
 浸没	jdmd
@@ -46768,7 +46574,6 @@ GPRS	gprs
 洎	jdrd
 浸润	jdrd
 激惹	jdre
-间谍软件	jdrj
 渐入	jdrm
 酒肉	jdro
 浸软	jdrs
@@ -46926,7 +46731,6 @@ GPRS	gprs
 警备区	jebu
 警报器	jebu
 警备	jebw
-巨额财产	jecc
 荆楚	jecc
 芥菜	jece
 蕨菜	jece
@@ -47033,7 +46837,6 @@ GPRS	gprs
 菌类	jelm
 警力	jeln
 节略	jelo
-巨额利润	jelr
 接二连三	jels
 敬老院	jely
 警力	jelz
@@ -47771,7 +47574,6 @@ GPRS	gprs
 金戈铁马	jgtm
 井田	jgto
 机关团体	jgtt
-价格体系	jgtx
 结构调整	jgtz
 静观其变	jgub
 进取	jguf
@@ -47951,7 +47753,6 @@ GPRS	gprs
 交房	jhfl
 齑粉	jhfm
 奖罚	jhfo
-交货方式	jhfs
 将赴	jhfu
 减肥	jhfv
 减负	jhfw
@@ -48016,7 +47817,6 @@ GPRS	gprs
 减缓	jhhx
 京	jhi
 将在	jhia
-计划指标	jhib
 净资产	jhic
 脊柱	jhic
 脊椎	jhic
@@ -48349,7 +48149,6 @@ GPRS	gprs
 交易员	jhyy
 痂	jhz
 将在	jhza
-计划指标	jhzb
 净资产	jhzc
 脊柱	jhzc
 脊椎	jhzc
@@ -48439,7 +48238,6 @@ GPRS	gprs
 嗟夫	jifg
 戢	jifk
 旧房	jifl
-记账方式	jifs
 践	jig
 趼	jigi
 践	jigk
@@ -49388,7 +49186,6 @@ GPRS	gprs
 搅扰	jkrk
 接入	jkrm
 健康人群	jkrq
-健康人生	jkrs
 徼	jkrt
 健康人群	jkru
 接壤	jkru
@@ -49483,7 +49280,6 @@ GPRS	gprs
 接线柱	jkxz
 挤压	jkya
 接引	jkyb
-据预测	jkyc
 技艺	jkye
 捷运	jkyg
 技痒	jkyh
@@ -49975,7 +49771,6 @@ GPRS	gprs
 记者会	jlzh
 讲座	jlzh
 鸡只	jlzi
-积累资金	jlzj
 记住	jlzj
 计征	jlzk
 皲	jlzl
@@ -50750,7 +50545,6 @@ GPRS	gprs
 惊蛰	jnzk
 举证	jnzl
 加州	jnzm
-几年之内	jnzn
 家宅	jnzn
 家中	jnzo
 驾照	jnzr
@@ -51115,7 +50909,6 @@ GPRS	gprs
 敬请谅解	jqlj
 近两年	jqln
 近利	jqlt
-近期目标	jqmb
 近	jqn
 近年来	jqnl
 近	jqnn
@@ -51234,7 +51027,6 @@ GPRS	gprs
 简入繁出	jrfc
 截然分开	jrfk
 舅父	jrfm
-金融风险	jrfx
 晶格	jrgc
 金融工具	jrgj
 景观	jrgl
@@ -51574,7 +51366,6 @@ GPRS	gprs
 嫁了	jslv
 精神领袖	jslx
 近水楼台先得月	jsly
-军事目标	jsmb
 姐们儿	jsme
 姐们	jsmj
 姐妹们	jsmm
@@ -52191,7 +51982,6 @@ GPRS	gprs
 监理所	juls
 吉利	jult
 嘉陵	julv
-近期目标	jumb
 紧忙活	jumh
 吉米	jumm
 紧密	jumn
@@ -53948,7 +53738,6 @@ GPRS	gprs
 加分	jzfm
 加菲猫	jzfm
 加罚	jzfo
-记账方式	jzfs
 加封	jzfu
 加工厂	jzgc
 架构	jzgc
@@ -54279,7 +54068,6 @@ GPRS	gprs
 拷贝副本	kbfb
 恐怖分子	kbfi
 空白发票	kbfp
-开办费用	kbfy
 恐怖分子	kbfz
 愧不敢当	kbgd
 刻薄寡恩	kbge
@@ -54950,7 +54738,6 @@ GPRS	gprs
 亏	kgcc
 开春	kgcg
 刻骨仇恨	kgch
-客观存在	kgci
 开创	kgcj
 开叉	kgcl
 开衩	kgcl
@@ -54964,7 +54751,6 @@ GPRS	gprs
 开采权	kgcu
 开除	kgcv
 开创性	kgcx
-客观存在	kgcz
 开导	kgdb
 开倒车	kgdc
 开国大典	kgdd
@@ -55007,7 +54793,6 @@ GPRS	gprs
 开过去	kggq
 开过去	kggu
 开馆	kggw
-客观公允	kggy
 开锅	kggy
 开河	kghd
 开花	kghe
@@ -55089,7 +54874,6 @@ GPRS	gprs
 开路	kgli
 开朗	kgll
 开罗	kglo
-可观利润	kglr
 开了	kglv
 开鲁	kglw
 开练	kglx
@@ -55112,7 +54896,6 @@ GPRS	gprs
 开平方	kgpf
 开票	kgpf
 开平	kgph
-客观评价	kgpj
 开拍	kgpk
 开普勒	kgpl
 开炮	kgpm
@@ -55150,7 +54933,6 @@ GPRS	gprs
 开山	kgso
 开始	kgss
 开馆授徒	kgst
-客观事物	kgsw
 开锁	kgsy
 口干舌燥	kgsz
 开天窗	kgtc
@@ -55290,7 +55072,6 @@ GPRS	gprs
 廓	khhv
 况	khi
 刻在	khia
-考核指标	khib
 康庄	khih
 刻着	khim
 刻字	khin
@@ -55364,7 +55145,6 @@ GPRS	gprs
 刻印	khyw
 康有为	khyw
 刻在	khza
-考核指标	khzb
 康庄	khzh
 刻着	khzm
 刻字	khzn
@@ -55645,7 +55425,6 @@ GPRS	gprs
 克己复礼	kjfl
 科技发明	kjfm
 科技扶贫	kjfp
-快捷方式	kjfs
 会	kjg
 空间轨道	kjgd
 科技攻关	kjgg
@@ -56156,8 +55935,6 @@ GPRS	gprs
 裤裙	klql
 课前	klqm
 可怜人必有可恨之处	klrc
-刻录软件	klrj
-快乐人生	klrs
 诓	kls
 课时费	klsf
 快乐时光	klsg
@@ -56215,7 +55992,6 @@ GPRS	gprs
 烤串	kmco
 烤肠	kmcv
 烤得	kmdk
-开幕典礼	kmdl
 烤电	kmdo
 烤	kmf
 枯木逢春	kmfc
@@ -56687,7 +56463,6 @@ GPRS	gprs
 凯子	kozv
 看破红尘	kphc
 康帕内拉	kpnl
-考评体系	kptx
 空前活跃	kqhy
 可取之处	kqic
 空前绝后	kqjh
@@ -56861,7 +56636,6 @@ GPRS	gprs
 空天飞机	ktfj
 科罚	ktfo
 氪	ktfw
-课题管理	ktgl
 科工委	ktgw
 犒	kth
 哭天喊地	kthd
@@ -57163,7 +56937,6 @@ GPRS	gprs
 口无遮拦	kwil
 馈赠	kwio
 狂追	kwir
-课外作业	kwiy
 狯	kwj
 狯	kwjg
 鲙	kwjg
@@ -57225,7 +56998,6 @@ GPRS	gprs
 口无遮拦	kwzl
 馈赠	kwzo
 狂追	kwzr
-课外作业	kwzy
 绔	kx
 纩	kx
 绔	kxa
@@ -58212,7 +57984,6 @@ GPRS	gprs
 流注	ldid
 泪珠	ldig
 鬲	ldii
-流动资金	ldij
 流着泪	ldil
 漏诊	ldil
 拉丁字母	ldim
@@ -58426,7 +58197,6 @@ GPRS	gprs
 流向	ldxr
 流星	ldxr
 流血	ldxr
-来电显示	ldxs
 流行色	ldxs
 沦陷区	ldxu
 沦陷	ldxv
@@ -58466,7 +58236,6 @@ GPRS	gprs
 梁柱	ldzc
 流注	ldzd
 泪珠	ldzg
-流动资金	ldzj
 流着泪	ldzl
 漏诊	ldzl
 拉丁字母	ldzm
@@ -59556,7 +59325,6 @@ GPRS	gprs
 离婚证	lhhz
 露	lhi
 露在	lhia
-理化指标	lhib
 立柱	lhic
 立足点	lhid
 立正	lhif
@@ -59573,7 +59341,6 @@ GPRS	gprs
 六折	lhik
 来之	lhil
 露着	lhim
-六合之内	lhin
 鹿寨	lhin
 来自	lhir
 冷轧	lhis
@@ -59939,7 +59706,6 @@ GPRS	gprs
 銮	lhyy
 旅游者	lhyz
 露在	lhza
-理化指标	lhzb
 立柱	lhzc
 立足点	lhzd
 廉政	lhzf
@@ -59954,7 +59720,6 @@ GPRS	gprs
 六折	lhzk
 来之	lhzl
 露着	lhzm
-六合之内	lhzn
 鹿寨	lhzn
 来自	lhzr
 冷轧	lhzs
@@ -61570,13 +61335,10 @@ GPRS	gprs
 来去自如	lqzr
 量	lr
 晾	lr
-令人不安	lrba
 老弱病残	lrbc
 量杯	lrbc
 量表	lrbg
 量变	lrbh
-令人不解	lrbj
-令人不快	lrbk
 冷若冰霜	lrbs
 量比	lrbs
 老弱残兵	lrcb
@@ -61591,88 +61353,51 @@ GPRS	gprs
 量度	lrdh
 烈日当空	lrdk
 量	lrdo
-令人动容	lrdr
-立人达人	lrdr
 量多	lrdw
-令人担心	lrdx
-令人担忧	lrdy
-令人扼腕	lrew
 魉	lrf
 来日方长	lrfc
 量贩店	lrfd
 令人发指	lrfi
 令人费解	lrfj
-令人愤慨	lrfk
 暕	lrfk
-令人愤怒	lrfn
 量贩	lrfo
-利润分配	lrfp
 落入法网	lrfw
-令人发指	lrfz
 晾干	lrgg
 量规	lrgg
-令人感慨	lrgk
-令人鼓舞	lrgw
 量纲	lrgx
 晾	lrh
 晾	lrhi
 量化	lrhj
-令人害怕	lrhp
-令人回味	lrhw
-令人怀疑	lrhy
 量在	lria
-利润总额	lrie
-令人振奋	lrif
 了如指掌	lrii
-令人震惊	lrij
-令人瞩目	lrim
 令人作呕	lrio
 凛然正气	lriq
 令人咋舌	lris
-令人赞叹	lrit
 凛然正气	lriu
 量增	lriu
 量子	lriv
-令人骄傲	lrja
 列入计划	lrjh
 路人皆知	lrji
 令人叫绝	lrjj
 昤	lrjl
 量具	lrjo
-令人敬佩	lrjp
 量角器	lrjq
-令人惊叹	lrjt
 量角器	lrju
-令人惊喜	lrjx
 量级	lrjx
 路人皆知	lrjz
-利润空间	lrkj
-来人来电	lrld
-来人来函	lrlh
 利人利己	lrlj
 㫰	lrlk
 量力	lrln
 量力	lrlz
-令人满意	lrmy
-令人难过	lrng
-令人难堪	lrnk
 量能	lrnl
-令人难忘	lrnw
 量	lro
 量	lrod
-令人喷饭	lrpf
 量取	lrqf
 量器	lrqi
 领如蝤蛴	lrqq
 泪如泉涌	lrqy
-利润水平	lrsp
 量少	lrsp
 量身	lrsr
-令人深思	lrss
-令人失望	lrsw
-令人神往	lrsw
-令人生厌	lrsy
-令人头疼	lrtt
 量筒	lrtt
 量取	lruf
 量器	lrui
@@ -61681,13 +61406,9 @@ GPRS	gprs
 旯	lrw
 量入为出	lrwc
 旯	lrww
-令人信服	lrxf
 量刑	lrxg
-令人心痛	lrxt
-令人向往	lrxw
 量有	lrya
 晾衣服	lryf
-令人遗憾	lryh
 晾衣	lryh
 落日余晖	lryh
 晾衣架	lryj
@@ -61696,14 +61417,9 @@ GPRS	gprs
 泪如雨下	lryx
 烈日炎炎	lryy
 量在	lrza
-利润总额	lrze
-令人振奋	lrzf
-令人震惊	lrzj
-令人瞩目	lrzm
 令人作呕	lrzo
 凛然正气	lrzq
 令人咋舌	lrzs
-令人赞叹	lrzt
 凛然正气	lrzu
 量增	lrzu
 量子	lrzv
@@ -61712,7 +61428,6 @@ GPRS	gprs
 姥	ls
 轮	ls
 嫽	lsar
-绿色奥运	lsay
 流水不腐，户枢不蠹	lsbd
 轮不到	lsbd
 流水不腐	lsbf
@@ -61720,7 +61435,6 @@ GPRS	gprs
 轮班	lsbg
 连部	lsbh
 临时抱佛脚	lsbj
-历史背景	lsbj
 老实巴交	lsbj
 连扳	lsbk
 老死不相往来	lsbl
@@ -61733,12 +61447,10 @@ GPRS	gprs
 连成	lsca
 脸色苍白	lscb
 里三层外三层	lscc
-历史长河	lsch
 轮次	lsch
 辣手摧花	lsch
 连唱	lsci
 连闯	lscj
-历史潮流	lscl
 连词	lscl
 连串	lsco
 吕氏春秋	lscq
@@ -61747,7 +61459,6 @@ GPRS	gprs
 老生常谈	lsct
 吕氏春秋	lscu
 连城	lscu
-历史档案	lsda
 临时代办	lsdb
 轮渡	lsdd
 连带	lsdf
@@ -61781,7 +61492,6 @@ GPRS	gprs
 轮毂	lsgu
 连贯	lsgx
 连贯性	lsgx
-粮食供应	lsgy
 辘	lsh
 连横	lshc
 轮滑	lshd
@@ -61811,21 +61521,16 @@ GPRS	gprs
 庐山真面目	lsim
 连着	lsim
 连珠炮	lsip
-历史知识	lsis
 轮转	lsis
 轮轴	lsis
 连轴	lsis
 连长	lsit
 轮子	lsiv
-粮食作物	lsiw
-绿色植物	lsiw
 连缀	lsix
-流水作业	lsiy
 连战	lsiy
 轮	lsj
 轮机	lsjc
 轮机长	lsjc
-历史阶段	lsjd
 连接到	lsjd
 连江	lsjd
 连击	lsjg
@@ -61834,7 +61539,6 @@ GPRS	gprs
 轮机长	lsji
 轮距	lsji
 连接	lsjk
-历史记录	lsjl
 姈	lsjl
 孪生姐妹	lsjm
 连接器	lsjq
@@ -61842,10 +61546,7 @@ GPRS	gprs
 露宿街头	lsjt
 连接器	lsju
 轮	lsjw
-历史教训	lsjx
 连结	lsjx
-历史久远	lsjy
-历史机遇	lsjy
 老少皆宜	lsjy
 梁上君子	lsjz
 轮机长	lsjz
@@ -61870,12 +61571,10 @@ GPRS	gprs
 烈士陵园	lsly
 连理枝	lslz
 辚	lsm
-历史名城	lsmc
 牢骚满腹	lsmf
 庐山面目	lsmm
 烈士暮年	lsmn
 连忙	lsmn
-历史名人	lsmr
 连名	lsmw
 连绵	lsmx
 连	lsn
@@ -61896,27 +61595,21 @@ GPRS	gprs
 连翘	lsqs
 连起	lsqu
 老僧入定	lsrd
-绿色软件	lsrj
 连任	lsrj
 连日来	lsrl
 连入	lsrm
 连日	lsrr
 料事如神	lsrs
-历史人物	lsrw
 连锁店	lssd
 连手	lssk
 连说	lssl
-历史使命	lssm
 连署	lsso
-绿色食品	lssp
-历史时期	lssq
 连射	lssr
 利水渗湿	lsss
 律师事务所	lsss
 轮式	lsss
 鹿死谁手	lsss
 连生	lsst
-历史时期	lssu
 连声	lssu
 连胜	lssv
 连锁	lssy
@@ -61944,11 +61637,8 @@ GPRS	gprs
 连网	lswo
 两世为人	lswr
 拉斯维加斯	lsws
-历史舞台	lswt
-历史文物	lsww
 六神无主	lswz
 孪生兄弟	lsxd
-绿色消费	lsxf
 利水消肿	lsxi
 铃声下载	lsxi
 轮休	lsxj
@@ -61956,7 +61646,6 @@ GPRS	gprs
 连心	lsxl
 来势凶猛	lsxm
 路上行人	lsxr
-历史小说	lsxs
 连选	lsxt
 来势汹汹	lsxx
 连线	lsxx
@@ -61966,17 +61655,13 @@ GPRS	gprs
 利水消肿	lsxz
 铃声下载	lsxz
 轳	lsy
-历史演变	lsyb
 略胜一筹	lsyc
 轮椅	lsyc
 理所应当	lsyd
 连营	lsye
-历史沿革	lsyg
 连云港	lsyg
 连夜	lsyh
 劳师远征	lsyi
-历史悠久	lsyj
-历史研究	lsyj
 姥爷	lsym
 立身扬名	lsym
 连衣裙	lsyq
@@ -61987,8 +61672,6 @@ GPRS	gprs
 连用	lsyw
 乱世英雄	lsyx
 烂熟于心	lsyx
-历史意义	lsyy
-历史渊源	lsyy
 良师益友	lsyy
 连阴雨	lsyy
 劳师远征	lsyz
@@ -62005,16 +61688,12 @@ GPRS	gprs
 庐山真面目	lszm
 连着	lszm
 连珠炮	lszp
-历史知识	lszs
 轮转	lszs
 轮轴	lszs
 连轴	lszs
 连长	lszt
 轮子	lszv
-粮食作物	lszw
-绿色植物	lszw
 连缀	lszx
-流水作业	lszy
 连战	lszy
 连轴转	lszz
 利	lt
@@ -62876,7 +62555,6 @@ GPRS	gprs
 练法	lxfd
 路线方针	lxfi
 量小非君子	lxfi
-联系方式	lxfs
 绿肥	lxfv
 良心发现	lxfx
 路线方针	lxfz
@@ -63131,13 +62809,11 @@ GPRS	gprs
 蓝颜知己	lyij
 路遥知马力	lyil
 铝制品	lyip
-滥用职权	lyiq
 落叶知秋	lyiq
 乐于助人	lyir
 利益至上	lyis
 燎原之势	lyis
 铝制	lyit
-滥用职权	lyiu
 落叶知秋	lyiu
 链子	lyiv
 聊以自慰	lyiw
@@ -63271,13 +62947,11 @@ GPRS	gprs
 蓝颜知己	lyzj
 路遥知马力	lyzl
 铝制品	lyzp
-滥用职权	lyzq
 落叶知秋	lyzq
 乐于助人	lyzr
 利益至上	lyzs
 燎原之势	lyzs
 铝制	lyzt
-滥用职权	lyzu
 落叶知秋	lyzu
 链子	lyzv
 聊以自慰	lyzw
@@ -63528,7 +63202,6 @@ GPRS	gprs
 民船	mbcq
 弥渡	mbdd
 民调	mbdl
-目标定位	mbdw
 麻痹大意	mbdy
 弭	mbf
 弭	mbfd
@@ -63546,7 +63219,6 @@ GPRS	gprs
 民歌	mbgf
 民告官	mbgg
 忙不过来	mbgl
-目标管理	mbgl
 民国	mbgo
 面不改色	mbgs
 面不改色心不跳	mbgt
@@ -63591,7 +63263,6 @@ GPRS	gprs
 貌不惊人	mbjr
 民办教师	mbjs
 弥坚	mbju
-目标价位	mbjw
 漫不经心	mbjx
 名不见经传	mbjz
 密不可分	mbkf
@@ -63602,7 +63273,6 @@ GPRS	gprs
 弥勒佛	mblf
 愍	mblk
 民力	mbln
-目标利润	mblr
 民不聊生	mbls
 弥留	mblw
 民力	mblz
@@ -64004,7 +63674,6 @@ GPRS	gprs
 湣	mdbr
 没比	mdbs
 漫笔	mdbt
-目的不同	mdbt
 满编	mdbx
 没必要	mdby
 漫步	mdby
@@ -64213,7 +63882,6 @@ GPRS	gprs
 漫	mdro
 汨	mdrr
 泌乳素	mdrs
-面对人生	mdrs
 漠然	mdrv
 漠然	mdrw
 没死	mdsa
@@ -64307,7 +63975,6 @@ GPRS	gprs
 满月	mdyv
 没用	mdyw
 没缘	mdyx
-目的意义	mdyy
 满盈	mdyz
 没在	mdza
 漫展	mdzb
@@ -64683,7 +64350,6 @@ GPRS	gprs
 名副其实	mfqs
 酶切	mfqs
 卖钱	mfqy
-免费软件	mfrj
 某人	mfrj
 卖肉	mfro
 鬘	mfro
@@ -65182,7 +64848,6 @@ GPRS	gprs
 唛	mig
 呒	migc
 明知故犯	migf
-民主管理	migl
 蒙在鼓里	migl
 鸣鼓	migu
 明知故问	migw
@@ -65221,7 +64886,6 @@ GPRS	gprs
 民族利益	mily
 鸣锣	mily
 咪	mim
-命中目标	mimb
 民族矛盾	mimd
 咩	mimg
 民脂民膏	mimg
@@ -65782,7 +65446,6 @@ GPRS	gprs
 美	mm
 迷	mm
 明明白白	mmbb
-密码保护	mmbh
 明码标价	mmbj
 闷闷不乐	mmbl
 美不美	mmbm
@@ -66529,7 +66192,6 @@ GPRS	gprs
 艨	mqe
 艨	mqeg
 妙趣横生	mqhs
-目前利润	mqlr
 忙前忙后	mqmh
 眉清目秀	mqmx
 美其名曰	mqmy
@@ -66752,7 +66414,6 @@ GPRS	gprs
 美索不达米亚	msby
 迈步	msby
 面色苍白	mscb
-没收财产	mscc
 墨守成规	mscg
 妙传	mscj
 美术出版社	mscs
@@ -67242,7 +66903,6 @@ GPRS	gprs
 埋针	muiy
 埋进	mujg
 埋雷	mulh
-目前利润	mulr
 埋没	mumd
 忙前忙后	mumh
 埋名	mumw
@@ -67507,7 +67167,6 @@ GPRS	gprs
 免了	mwlv
 勉力	mwlz
 名模	mwmc
-漫无目的	mwmd
 猫咪	mwmi
 名门	mwmj
 没完没了	mwml
@@ -68001,7 +67660,6 @@ GPRS	gprs
 民族服饰	mzfs
 民族复兴	mzfx
 明知故犯	mzgf
-民主管理	mzgl
 蒙在鼓里	mzgl
 明知故问	mzgw
 民族和解	mzhj
@@ -68016,7 +67674,6 @@ GPRS	gprs
 昧着良心	mzlx
 某种联系	mzlx
 民族利益	mzly
-命中目标	mzmb
 民族矛盾	mzmd
 民脂民膏	mzmg
 没着没落	mzml
@@ -68201,7 +67858,6 @@ GPRS	gprs
 那根	nbgc
 尼古丁	nbgd
 那个	nbgj
-内部管理	nbgl
 尼古拉	nbgl
 那该	nbgl
 尼姑	nbgs
@@ -68394,7 +68050,6 @@ GPRS	gprs
 难登大雅之堂	nddt
 泥地	nddu
 难度动作	nddz
-年度分配	ndfp
 泥工	ndgf
 脑袋瓜子	ndgi
 泥垢	ndgu
@@ -68423,7 +68078,6 @@ GPRS	gprs
 浓烈	ndla
 泥路	ndli
 浓	ndlk
-年度利润	ndlr
 浓密	ndmn
 浓墨	ndmo
 浓眉	ndmv
@@ -70517,7 +70171,6 @@ GPRS	gprs
 牛蒡	ntbe
 牛鞭	ntbf
 年表	ntbg
-农田保护	ntbh
 牛头不对马嘴	ntbi
 牛蒡子	ntbi
 牛掰	ntbk
@@ -97706,7 +97359,6 @@ GPRS	gprs
 椑	pcrf
 皮糙肉厚	pcrh
 平常日子	pcri
-评测软件	pcrj
 平常日子	pcrz
 枇	pcs
 朴散	pcsf
@@ -98112,7 +97764,6 @@ GPRS	gprs
 聘任	pfrj
 飘柔	pfrl
 飘入	pfrm
-平凡人生	pfrs
 飘然	pfrv
 飘然	pfrw
 聘任制	pfrz
@@ -98200,23 +97851,15 @@ GPRS	gprs
 韨	pgal
 评功摆好	pgbh
 盘根错节	pgcj
-评估方式	pgfs
-评估范围	pgfw
-评估费用	pgfy
-评估管理	pggl
 耪	pgh
 耪	pghh
 玶	pghi
-评估指标	pgib
-评估资产	pgic
-评估专家	pgij
 旁观者清，当局者迷	pgim
 旁观者清	pgiq
 破罐子破摔	pgis
 旁观者清	pgiu
 耙子	pgiv
 盘根究底	pgjd
-评估结论	pgjl
 披肝沥胆	pgld
 破格录取	pglq
 破格录取	pglu
@@ -98246,11 +97889,7 @@ GPRS	gprs
 颇感兴趣	pgxu
 璞玉	pgyg
 跑官要官	pgyg
-评估意见	pgyj
 琲	pgyy
-评估指标	pgzb
-评估资产	pgzc
-评估专家	pgzj
 旁观者清，当局者迷	pgzm
 旁观者清	pgzq
 破罐子破摔	pgzs
@@ -98534,7 +98173,6 @@ GPRS	gprs
 嘌	pifg
 喷发	pifn
 喷	pifo
-配置方式	pifs
 哱	pifv
 喷饭	pifw
 批准发行	pifx
@@ -98729,9 +98367,7 @@ GPRS	gprs
 贫贱夫妻百事哀	pjfa
 偏方	pjfh
 便	pjfk
-评价方式	pjfs
 佩服	pjfv
-评价范围	pjfw
 偏锋	pjfy
 偏高	pjgh
 偏光	pjgj
@@ -98739,9 +98375,7 @@ GPRS	gprs
 偏关	pjgm
 偏官	pjgn
 偏股型	pjgx
-评价很高	pjhg
 偏好	pjhs
-评价指标	pjib
 凭仗	pjij
 披荆斩棘	pjij
 贫贱之交	pjij
@@ -98781,12 +98415,9 @@ GPRS	gprs
 佩兰	pjlm
 偏	pjlo
 破旧立新	pjlx
-评价目标	pjmb
 平静面对	pjmd
 偏盲	pjmh
 偏门	pjmj
-评价模式	pjms
-评价模型	pjmx
 偏南	pjnf
 凭你	pjnj
 偏难	pjnl
@@ -98822,7 +98453,6 @@ GPRS	gprs
 否极泰来	pjtl
 偏题	pjtr
 偏头痛	pjtt
-评价体系	pjtx
 堡	pju
 偏巧	pjuf
 拼尽全力	pjul
@@ -98833,7 +98463,6 @@ GPRS	gprs
 凭	pjww
 偏斜	pjxj
 偏心	pjxl
-评价性能	pjxn
 偏小	pjxp
 偏向	pjxr
 凭险	pjxv
@@ -98853,7 +98482,6 @@ GPRS	gprs
 偏移	pjyt
 偏印	pjyw
 俳	pjyy
-评价指标	pjzb
 凭仗	pjzj
 披荆斩棘	pjzj
 贫贱之交	pjzj
@@ -99204,7 +98832,6 @@ GPRS	gprs
 赔了夫人又折兵	plfb
 攀龙附凤	plff
 评分	plfm
-排列方式	plfs
 评改	plgb
 评功	plgf
 评估	plgj
@@ -99213,7 +98840,6 @@ GPRS	gprs
 评话	plhl
 评注	plid
 评职	plif
-排列组合	plih
 评传	plij
 扁舟	pliq
 袍子	pliv
@@ -99286,7 +98912,6 @@ GPRS	gprs
 皮里阳秋	plyu
 评注	plzd
 评职	plzf
-排列组合	plzh
 评传	plzj
 扁舟	plzq
 袍子	plzv
@@ -99294,7 +98919,6 @@ GPRS	gprs
 判	pm
 判案	pman
 叛变	pmbh
-屏幕保护	pmbh
 判别	pmbi
 普遍	pmbl
 盆满钵满	pmbm
@@ -100010,7 +99634,6 @@ GPRS	gprs
 姉	psfi
 姘妇	psfs
 嫔妃	psfs
-配送范围	psfw
 拍摄功能	psgn
 颇受好评	pshp
 颇受欢迎	pshy
@@ -100089,7 +99712,6 @@ GPRS	gprs
 配套光盘	ptgp
 普通高中	ptgz
 篇章	ptih
-配套资金	ptij
 篇中	ptio
 陪太子读书	ptis
 普天之下	ptix
@@ -100139,11 +99761,9 @@ GPRS	gprs
 破涕为笑	ptwx
 繁	ptx
 繁	ptxp
-普通用户	ptyh
 葡萄牙人	ptyr
 葡萄牙语	ptyy
 篇章	ptzh
-配套资金	ptzj
 篇中	ptzo
 陪太子读书	ptzs
 普天之下	ptzx
@@ -100519,7 +100139,6 @@ GPRS	gprs
 铺路石	pyls
 镨	pym
 铺面	pyma
-培养目标	pymb
 铺满	pymd
 便宜没好货	pymh
 频密	pymn
@@ -100539,7 +100158,6 @@ GPRS	gprs
 颦	pyrf
 频仍	pyrj
 钷	pys
-朋友身边	pysb
 拼音输入法	pysf
 钷	pysi
 铺设	pysl
@@ -100616,7 +100234,6 @@ GPRS	gprs
 品种丰富	pzff
 颇丰	pzfg
 皮肤科	pzfk
-配置方式	pzfs
 皮筏	pzft
 皮肤	pzfv
 颇负	pzfw
@@ -101416,7 +101033,6 @@ GPRS	gprs
 清真	qdif
 呇	qdii
 潜踪	qdii
-启动资金	qdij
 清燥	qdim
 清账	qdio
 潜质	qdiq
@@ -101471,7 +101087,6 @@ GPRS	gprs
 取得联系	qdlx
 浅绿	qdlx
 潜力	qdlz
-确定目标	qdmb
 清梦	qdmc
 清末	qdmg
 清明节	qdmj
@@ -101602,7 +101217,6 @@ GPRS	gprs
 清蒸	qdze
 清真	qdzf
 潜踪	qdzi
-启动资金	qdzj
 清燥	qdzm
 清账	qdzo
 潜质	qdzq
@@ -101719,7 +101333,6 @@ GPRS	gprs
 取保	qfbj
 庆父不死	qfbs
 求成	qfca
-侵犯财产	qfcc
 取材	qfcc
 求才	qfcf
 其次	qfch
@@ -102354,7 +101967,6 @@ GPRS	gprs
 旗杆	qhgc
 庆功	qhgf
 庆功会	qhgh
-强化管理	qhgl
 弃官	qhgn
 齐国	qhgo
 亲骨肉	qhgr
@@ -103253,7 +102865,6 @@ GPRS	gprs
 祈福	qlfl
 祺	qlfm
 启发	qlfn
-权力分配	qlfp
 劝返	qlfq
 启发式	qlfs
 强烈反弹	qlft
@@ -103346,7 +102957,6 @@ GPRS	gprs
 祁连山	qlls
 请了	qllv
 谦	qlm
-确立目标	qlmb
 启蒙	qlme
 清理门户	qlmh
 请命	qlmj
@@ -104254,7 +103864,6 @@ GPRS	gprs
 群起而攻之	qqei
 群起而攻之	qqez
 牵强附会	qqfh
-前期费用	qqfy
 奇奇怪怪	qqgg
 巧取豪夺	qqhd
 强取豪夺	qqhd
@@ -104376,7 +103985,6 @@ QQ密码	qqmm
 丘陵	qrlv
 晴纶	qrlx
 清热凉血	qrlx
-确认目标	qrmb
 丘脑	qrnv
 欺软怕硬	qrpy
 恰如其分	qrqf
@@ -105236,7 +104844,6 @@ QQ密码	qqmm
 趋附	qufv
 起风	qufw
 墙缝	qufx
-前期费用	qufy
 却非	qufy
 起飞	qufz
 墙根	qugc
@@ -105555,7 +105162,6 @@ QQ密码	qqmm
 訄	qwhi
 趣味横生	qwhs
 欠资	qwih
-权威专家	qwij
 欠债	qwij
 欠揍	qwik
 欠账	qwio
@@ -105614,7 +105220,6 @@ QQ密码	qqmm
 犰狳	qwyw
 劬	qwz
 欠资	qwzh
-权威专家	qwzj
 欠债	qwzj
 欠揍	qwzk
 欠账	qwzo
@@ -105650,7 +105255,6 @@ QQ密码	qqmm
 纤夫	qxfg
 祛邪扶正	qxfi
 骐	qxfm
-权限分配	qxfp
 骑缝	qxfx
 祛邪扶正	qxfz
 奇形怪状	qxgi
@@ -106212,7 +105816,6 @@ QQ密码	qqmm
 人大立法	rdlf
 染料	rdlm
 染绿	rdlx
-认定目标	rdmb
 溶媒	rdms
 溶酶体	rdmt
 濡脉	rdmv
@@ -106413,7 +106016,6 @@ QQ密码	qqmm
 瑞典	rgdo
 瑞典人	rgdr
 人格分裂	rgfl
-认购方式	rgfs
 荣归故里	rggl
 瑢	rggn
 瓀	rgha
@@ -106483,7 +106085,6 @@ QQ密码	qqmm
 嚅	ri
 仁者爱人	riar
 人赃并获	ribh
-认证标志	ribi
 如坐春风	ricf
 人走茶凉	ricl
 人之常情	ricq
@@ -106499,7 +106100,6 @@ QQ密码	qqmm
 喏	riea
 任重而道远	riey
 认罪服法	riff
-融资方式	rifs
 融资功能	rign
 日子过去	rigq
 日子过去	rigu
@@ -106592,11 +106192,9 @@ QQ密码	qqmm
 偌	rjea
 人耳	rjef
 人儿	rjew
-软件发布	rjfb
 人贩子	rjfi
 人份	rjfj
 人贩	rjfo
-人均分配	rjfp
 人防	rjfv
 人犯	rjfw
 人贩子	rjfz
@@ -106607,7 +106205,6 @@ QQ密码	qqmm
 仁	rjgg
 人工湖	rjgh
 人格化	rjgh
-入境管理	rjgl
 人格权	rjgq
 人鬼	rjgr
 人格权	rjgu
@@ -106623,14 +106220,12 @@ QQ密码	qqmm
 人和	rjht
 人迹罕至	rjhz
 仍在	rjia
-人均指标	rjib
 人之初	rjic
 人渣	rjid
 仁政	rjif
 任职	rjif
 人造革	rjig
 人族	rjih
-软件作者	rjii
 仍做	rjij
 人证	rjil
 人造棉	rjim
@@ -106674,13 +106269,11 @@ QQ密码	qqmm
 人口数	rjks
 人口学	rjkx
 人流	rjld
-软件漏洞	rjld
 人老	rjlf
 人伦	rjlj
 人类	rjlm
 人力	rjln
 人间冷暖	rjln
-人均利润	rjlr
 人脸	rjlv
 人类学	rjlx
 人力	rjlz
@@ -106802,7 +106395,6 @@ QQ密码	qqmm
 人性化	rjxh
 仍需	rjxh
 仁兄	rjxi
-软件下载	rjxi
 人像	rjxj
 人行	rjxk
 人心	rjxl
@@ -106814,8 +106406,6 @@ QQ密码	qqmm
 仍嫌	rjxs
 人选	rjxt
 人间凶器	rjxu
-软件学院	rjxy
-软件下载	rjxz
 倬	rjy
 仍有	rjya
 人已	rjyb
@@ -106843,7 +106433,6 @@ QQ密码	qqmm
 人皆有之	rjyz
 仞	rjz
 仍在	rjza
-人均指标	rjzb
 人之初	rjzc
 人渣	rjzd
 仁政	rjzf
@@ -107136,7 +106725,6 @@ QQ密码	qqmm
 弱冷空气	rlku
 让路	rlli
 认领	rllj
-人类历史	rlls
 让利	rllt
 认了	rllv
 认命	rlmj
@@ -107632,7 +107220,6 @@ QQ密码	qqmm
 热情欢迎	rqhy
 人穷志短	rqid
 热情周到	rqid
-人气作品	rqip
 热情接待	rqjd
 人群健康	rqjk
 日趋激烈	rqjl
@@ -107670,7 +107257,6 @@ QQ密码	qqmm
 热情洋溢	rqyy
 人穷志短	rqzd
 热情周到	rqzd
-人气作品	rqzp
 日	rr
 任人摆布	rrbb
 日本队	rrbd
@@ -107870,7 +107456,6 @@ QQ密码	qqmm
 软包装	rsbz
 如厕	rsca
 软尺	rscb
-人身财产	rscc
 如潮	rscd
 入室操戈	rscg
 如春	rscg
@@ -107899,7 +107484,6 @@ QQ密码	qqmm
 婼	rsea
 软腭	rsev
 如焚	rsfc
-人生奋斗	rsfd
 如法	rsfd
 瑞士法郎	rsfl
 如飞	rsfn
@@ -107914,7 +107498,6 @@ QQ密码	qqmm
 人所共知	rsgi
 人所共见	rsgj
 人身攻击	rsgj
-人生感慨	rsgk
 如果	rsgo
 如归	rsgp
 如皋	rsgr
@@ -107922,7 +107505,6 @@ QQ密码	qqmm
 如果说	rsgs
 软管	rsgt
 软骨头	rsgt
-人生感悟	rsgw
 如果有	rsgy
 人所共知	rsgz
 嬬	rsha
@@ -107949,15 +107531,12 @@ QQ密码	qqmm
 戎装	rsih
 软组织	rsii
 软着陆	rsil
-人生在世	rsis
 人生自古谁无死	rsis
-人生哲学	rsix
 如织	rsix
 软件包	rsjb
 软件部	rsjb
 软禁	rsjc
 瑞士军刀	rsjd
-人生几何	rsjh
 如数家珍	rsji
 如旧	rsji
 软件站	rsji
@@ -107973,28 +107552,19 @@ QQ密码	qqmm
 如数家珍	rsjz
 软件站	rsjz
 如丧考妣	rskb
-人生苦短	rskd
-人生坎坷	rskk
 软流层	rslc
 如流	rsld
 如来佛	rslf
 如来	rslh
-人生乐趣	rslq
-人生路上	rsls
-人生旅途	rslt
-人生乐趣	rslu
 软肋	rslv
-人生理想	rslx
 如梦	rsmc
 软木	rsmc
-人生目的	rsmd
 如蒙	rsme
 如麻	rsmh
 如命	rsmj
 软绵绵	rsmm
 软木塞	rsms
 软毛	rsmt
-人生梦想	rsmx
 戎马	rsmx
 轫	rsn
 如泥	rsnd
@@ -108016,7 +107586,6 @@ QQ密码	qqmm
 如若	rsre
 人山人海	rsrh
 如人	rsrj
-人生如梦	rsrm
 软软	rsrs
 软弱性	rsrx
 娆	rss
@@ -108052,7 +107621,6 @@ QQ密码	qqmm
 如同	rsto
 如题	rstr
 软塌塌	rstt
-人生体验	rsty
 软启动	rsud
 如期	rsuf
 如前	rsum
@@ -108060,7 +107628,6 @@ QQ密码	qqmm
 软驱	rsux
 人身权益	rsuy
 软	rsw
-人生无常	rswc
 软卧	rswf
 如未	rswg
 如雾	rswh
@@ -108075,7 +107642,6 @@ QQ密码	qqmm
 如需	rsxh
 如戏	rsxl
 如许	rsxl
-人生信念	rsxn
 软性	rsxn
 如血	rsxr
 软线	rsxx
@@ -108109,9 +107675,7 @@ QQ密码	qqmm
 戎装	rszh
 轫	rszk
 软着陆	rszl
-人生在世	rszs
 人生自古谁无死	rszs
-人生哲学	rszx
 如织	rszx
 软组织	rszz
 壬	rt
@@ -108173,7 +107737,6 @@ QQ密码	qqmm
 热情欢迎	ruhy
 人穷志短	ruid
 热情周到	ruid
-人气作品	ruip
 热情接待	rujd
 人群健康	rujk
 日趋激烈	rujl
@@ -108215,7 +107778,6 @@ QQ密码	qqmm
 日趋严重	ruyz
 人穷志短	ruzd
 热情周到	ruzd
-人气作品	ruzp
 然	rv
 阮	rv
 然而	rvea
@@ -108240,7 +107802,6 @@ QQ密码	qqmm
 然	rw
 然后	rw
 攘外安内	rwan
-人文奥运	rway
 饶不了	rwbl
 人为财死	rwcs
 人为财死，鸟为食亡	rwcw
@@ -108257,7 +107818,6 @@ QQ密码	qqmm
 然后	rwhq
 人物传记	rwij
 然则	rwio
-入围作品	rwip
 人亡政息	rwix
 人文景观	rwjg
 人文精神	rwjs
@@ -108299,7 +107859,6 @@ QQ密码	qqmm
 人无远虑，必有近忧	rwyy
 人物传记	rwzj
 然则	rwzo
-入围作品	rwzp
 人亡政息	rwzx
 绕	rx
 绒	rx
@@ -108338,7 +107897,6 @@ QQ密码	qqmm
 绕着走	rxii
 绕着	rxim
 瑞雪兆丰年	rxin
-入选作品	rxip
 绕至	rxis
 绕组	rxix
 绕着走	rxiz
@@ -108401,7 +107959,6 @@ QQ密码	qqmm
 纫	rxzk
 绕着	rxzm
 瑞雪兆丰年	rxzn
-入选作品	rxzp
 绕至	rxzs
 绕组	rxzx
 绕着走	rxzz
@@ -108521,7 +108078,6 @@ QQ密码	qqmm
 任重道远	rzdy
 任重而道远	rzey
 认罪服法	rzff
-融资方式	rzfs
 融资功能	rzgn
 日子过去	rzgq
 日子过去	rzgu
@@ -109035,7 +108591,6 @@ QQ密码	qqmm
 肾不纳气	sbnu
 刷屏	sbpb
 刷票	sbpf
-身边朋友	sbpy
 说不清楚	sbqc
 肃清	sbqd
 说不清道不明	sbqm
@@ -109738,7 +109293,6 @@ QQ密码	qqmm
 沙瓤	sdrh
 湿热证	sdri
 事到如今	sdrj
-杀毒软件	sdrj
 湿热	sdrk
 溲	sdrl
 深入	sdrm
@@ -111364,7 +110918,6 @@ QQ密码	qqmm
 松赞干布	sigb
 束之高阁	sigg
 首战告捷	sigj
-市政管理	sigl
 丝竹管弦	sigx
 送子观音	sigy
 唼	sih
@@ -111769,7 +111322,6 @@ QQ密码	qqmm
 食粮	sjlm
 使力	sjln
 实践理性批判	sjlp
-上缴利润	sjlr
 食量	sjlr
 三局两胜	sjls
 俟	sjlt
@@ -111943,7 +111495,6 @@ QQ密码	qqmm
 伤心	sjxl
 身家性命	sjxm
 俞穴	sjxn
-实际性能	sjxn
 尚须	sjxq
 伸向	sjxr
 伤心事	sjxs
@@ -114417,7 +113968,6 @@ QQ密码	qqmm
 师傅	spfj
 省份	spfj
 师父	spfm
-审判方式	spfs
 少妇	spfs
 帅哥	spgf
 少搞	spgk
@@ -114495,7 +114045,6 @@ QQ密码	qqmm
 省钱	spqy
 省人大	sprd
 少惹	spre
-视频软件	sprj
 省属	spsb
 受骗上当	spsd
 省事	spsf
@@ -114605,7 +114154,6 @@ QQ密码	qqmm
 所发	sqfn
 所附	sqfv
 所犯	sqfw
-收取费用	sqfy
 所发	sqfz
 食前方丈	sqfz
 所感	sqga
@@ -114983,8 +114531,6 @@ QQ密码	qqmm
 杀人灭口	srmk
 骚人墨客	srmk
 晱	srmm
-世人面前	srmq
-世人面前	srmu
 是么	srmw
 顺逆	srnm
 时年	srnt
@@ -115225,7 +114771,6 @@ QQ密码	qqmm
 始发	ssfz
 始发站	ssfz
 输光	ssgj
-税收管理	ssgl
 上市股票	ssgp
 生死关头	ssgt
 深受鼓舞	ssgw
@@ -115989,7 +115534,6 @@ QQ密码	qqmm
 寺	sufk
 三权分立	sufl
 声符	suft
-收取费用	sufy
 食前方丈	sufz
 声光	sugj
 士官	sugn
@@ -116506,12 +116050,10 @@ QQ密码	qqmm
 煞风景	swfj
 觫	swfk
 手无缚鸡之力	swfl
-思维方式	swfs
 馓	swft
 身无分文	swfw
 删改	swgb
 色光	swgj
-事务管理	swgl
 商务功能	swgn
 蚀骨	swgo
 色鬼	swgr
@@ -116576,7 +116118,6 @@ QQ密码	qqmm
 色狼	swlw
 色拉油	swly
 煞	swm
-商务目的	swmd
 甩卖	swmf
 色盲	swmh
 鳝	swmi
@@ -117071,7 +116612,6 @@ QQ密码	qqmm
 食欲不振	sybz
 上唇	syca
 上层	sycb
-私有财产	sycc
 上菜	syce
 上朝	sycf
 上次	sych
@@ -117123,7 +116663,6 @@ QQ密码	qqmm
 受益匪浅	syfu
 上腹	syfv
 上风	syfw
-适用范围	syfw
 上感	syga
 深有感触	sygc
 上古	sygf
@@ -117506,7 +117045,6 @@ QQ密码	qqmm
 松赞干布	szgb
 束之高阁	szgg
 首战告捷	szgj
-市政管理	szgl
 丝竹管弦	szgx
 送子观音	szgy
 十字花科	szhk
@@ -118083,7 +117621,6 @@ QQ密码	qqmm
 梼	tcg
 题材广泛	tcgf
 同床共枕	tcgi
-统筹管理	tcgl
 桶盖	tcgm
 突出贡献	tcgx
 同床共枕	tcgz
@@ -118566,7 +118103,6 @@ QQ密码	qqmm
 天分	tgfm
 天父	tgfm
 天赋	tgfo
-推广方式	tgfs
 吞服	tgfv
 泰戈尔	tgge
 天工	tggf
@@ -118685,7 +118221,6 @@ QQ密码	qqmm
 天南星	tgnx
 泰纳	tgnx
 天棚	tgpc
-通过评估	tgpg
 天平	tgph
 天桥	tgqc
 痛改前非	tgqf
@@ -119069,7 +118604,6 @@ QQ密码	qqmm
 跳发球	tifu
 叹服	tifv
 听风	tifw
-通胀风险	tifx
 踢飞	tifz
 听歌	tigf
 跳过	tigf
@@ -119371,7 +118905,6 @@ QQ密码	qqmm
 停发	tjfn
 停飞	tjfn
 体罚	tjfo
-统计范围	tjfw
 停发	tjfz
 停飞	tjfz
 俦	tjg
@@ -119382,7 +118915,6 @@ QQ密码	qqmm
 堂哥	tjgf
 他跟	tjgi
 停供	tjgj
-田间管理	tjgl
 贪官	tjgn
 他国	tjgo
 体改委	tjgw
@@ -119482,7 +119014,6 @@ QQ密码	qqmm
 他们的	tjmd
 他妈的	tjmd
 调解矛盾	tjmd
-推荐名额	tjme
 偷鸡摸狗	tjmg
 推进民主	tjmi
 他们	tjmj
@@ -120208,7 +119739,6 @@ QQ密码	qqmm
 拖拉机厂	tljc
 调校	tljc
 台积电	tljd
-讨论决定	tljd
 调酒	tljd
 调节	tlje
 讨教	tljf
@@ -122455,7 +121985,6 @@ QQ密码	qqmm
 铁法	tyfd
 田园风光	tyfg
 铁粉	tyfm
-统一分配	tyfp
 镡	tyfr
 太阳辐射	tyfs
 铁饭碗	tyfw
@@ -122463,7 +121992,6 @@ QQ密码	qqmm
 铁工	tygf
 同业公会	tygh
 铁公鸡	tygj
-统一管理	tygl
 铁哥们	tygm
 特异功能	tygn
 铁骨	tygo
@@ -122683,7 +122211,6 @@ QQ密码	qqmm
 天造地设	tzds
 头足倒置	tzdz
 调整幅度	tzfd
-通胀风险	tzfx
 同舟共济	tzgj
 通知顾客	tzgk
 天姿国色	tzgs
@@ -123409,7 +122936,6 @@ QQ密码	qqmm
 清真	udif
 呇	udii
 潜踪	udii
-启动资金	udij
 清燥	udim
 清账	udio
 潜质	udiq
@@ -123463,7 +122989,6 @@ QQ密码	qqmm
 取得联系	udlx
 浅绿	udlx
 潜力	udlz
-确定目标	udmb
 清梦	udmc
 清末	udmg
 清明节	udmj
@@ -123593,7 +123118,6 @@ QQ密码	qqmm
 清蒸	udze
 清真	udzf
 潜踪	udzi
-启动资金	udzj
 清燥	udzm
 清账	udzo
 潜质	udzq
@@ -123708,7 +123232,6 @@ QQ密码	qqmm
 取保	ufbj
 庆父不死	ufbs
 求成	ufca
-侵犯财产	ufcc
 取材	ufcc
 求才	ufcf
 其次	ufch
@@ -124333,7 +123856,6 @@ QQ密码	qqmm
 旗杆	uhgc
 庆功	uhgf
 庆功会	uhgh
-强化管理	uhgl
 弃官	uhgn
 齐国	uhgo
 亲骨肉	uhgr
@@ -125222,7 +124744,6 @@ QQ密码	qqmm
 祈福	ulfl
 祺	ulfm
 启发	ulfn
-权力分配	ulfp
 劝返	ulfq
 启发式	ulfs
 强烈反弹	ulft
@@ -125313,7 +124834,6 @@ QQ密码	qqmm
 祁连山	ulls
 请了	ullv
 谦	ulm
-确立目标	ulmb
 启蒙	ulme
 清理门户	ulmh
 请命	ulmj
@@ -126241,7 +125761,6 @@ QQ密码	qqmm
 丘陵	urlv
 晴纶	urlx
 清热凉血	urlx
-确认目标	urmb
 丘脑	urnv
 欺软怕硬	urpy
 恰如其分	urqf
@@ -127097,7 +126616,6 @@ QQ密码	qqmm
 趋附	uufv
 起风	uufw
 墙缝	uufx
-前期费用	uufy
 却非	uufy
 起飞	uufz
 墙根	uugc
@@ -127422,7 +126940,6 @@ QQ密码	uumm
 訄	uwhi
 趣味横生	uwhs
 欠资	uwih
-权威专家	uwij
 欠债	uwij
 欠揍	uwik
 欠账	uwio
@@ -127481,7 +126998,6 @@ QQ密码	uumm
 犰狳	uwyw
 劬	uwz
 欠资	uwzh
-权威专家	uwzj
 欠债	uwzj
 欠揍	uwzk
 欠账	uwzo
@@ -127519,7 +127035,6 @@ QQ密码	uumm
 纤夫	uxfg
 祛邪扶正	uxfi
 骐	uxfm
-权限分配	uxfp
 骑缝	uxfx
 祛邪扶正	uxfz
 奇形怪状	uxgi
@@ -129193,7 +128708,6 @@ Z	vyz
 卫国战争	wgii
 无踪	wgii
 韦	wgii
-外国专家	wgij
 无止境	wgij
 未做	wgij
 王昭君	wgij
@@ -129202,7 +128716,6 @@ Z	vyz
 王炸	wgim
 无字	wgin
 无助	wgio
-外国作品	wgip
 未知数	wgis
 玩转	wgis
 无知	wgit
@@ -129514,7 +129027,6 @@ Z	vyz
 武装	wgzh
 违章	wgzh
 无踪	wgzi
-外国专家	wgzj
 无止境	wgzj
 未做	wgzj
 王昭君	wgzj
@@ -129523,7 +129035,6 @@ Z	vyz
 王炸	wgzm
 无字	wgzn
 无助	wgzo
-外国作品	wgzp
 未知数	wgzs
 玩转	wgzs
 无知	wgzt
@@ -130072,7 +129583,6 @@ Z	vyz
 伟哥	wjgf
 位高	wjgh
 闱	wjgi
-物价管理	wjgl
 倭瓜	wjgq
 危急关头	wjgt
 位	wjh
@@ -130324,10 +129834,8 @@ Z	vyz
 微涨	wkid
 纨绔子弟	wkid
 往者	wkif
-文科综合	wkih
 捂嘴	wkii
 无可指责	wkii
-外科专家	wkij
 我控制不住自己	wkij
 捂住	wkij
 握住	wkij
@@ -130482,9 +129990,7 @@ Z	vyz
 微涨	wkzd
 纨绔子弟	wkzd
 往者	wkzf
-文科综合	wkzh
 捂嘴	wkzi
-外科专家	wkzj
 我控制不住自己	wkzj
 捂住	wkzj
 握住	wkzj
@@ -131218,7 +130724,6 @@ Z	vyz
 挖潜增效	wqix
 为期两年	wqln
 无穷乐趣	wqlq
-歪曲历史	wqls
 乌漆墨黑	wqmh
 温情脉脉	wqmm
 歪七扭八	wqnb
@@ -131742,7 +131247,6 @@ Z	vyz
 我方	wtfh
 牾	wtfi
 委托付款	wtfk
-委托方式	wtfs
 午饭	wtfw
 我该	wtgl
 我刚	wtgo
@@ -131979,7 +131483,6 @@ Z	vyz
 挖潜增效	wuix
 为期两年	wuln
 无穷乐趣	wulq
-歪曲历史	wuls
 无穷乐趣	wulu
 乌漆墨黑	wumh
 温情脉脉	wumm
@@ -132093,7 +131596,6 @@ Z	vyz
 外表	wwbg
 文武百官	wwbg
 外部	wwbh
-文物保护	wwbh
 无微不至	wwbi
 万万不可	wwbk
 务必	wwbl
@@ -132179,7 +131681,6 @@ Z	vyz
 外挂	wwgk
 外国佬	wwgl
 外观	wwgl
-文物管理	wwgl
 外公	wwgm
 外国	wwgo
 外国人	wwgr
@@ -132544,7 +132045,6 @@ Z	vyz
 五星红旗	wxhq
 维和	wxht
 五星红旗	wxhu
-无形资产	wxic
 维族	wxih
 无形之中	wxii
 文献资料	wxil
@@ -132631,7 +132131,6 @@ Z	vyz
 卫星云图	wxyt
 纹银	wxyy
 五项原则	wxyz
-无形资产	wxzc
 维族	wxzh
 文献资料	wxzl
 无心之失	wxzs
@@ -132658,9 +132157,7 @@ Z	vyz
 畏影恶迹	wyej
 勿以恶小而为之	wyez
 无以复加	wyfj
-唯一方式	wyfs
 文艺复兴	wyfx
-物业管理	wygl
 鿏	wygw
 钨钢	wygy
 物欲横流	wyhl
@@ -132671,7 +132168,6 @@ Z	vyz
 文以载道	wyid
 无欲则刚	wyig
 无意之中	wyii
-文艺作品	wyip
 乌烟瘴气	wyiq
 委以重任	wyir
 无源之水	wyis
@@ -132742,7 +132238,6 @@ Z	vyz
 无业游民	wyym
 文以载道	wyzd
 无欲则刚	wyzg
-文艺作品	wyzp
 乌烟瘴气	wyzq
 委以重任	wyzr
 无源之水	wyzs
@@ -133050,7 +132545,6 @@ Z	vyz
 细胞分裂	xbfl
 巽	xbfm
 宣布放弃	xbfq
-选拔方式	xbfs
 宣布放弃	xbfu
 寻根	xbgc
 校办工厂	xbgc
@@ -133093,7 +132587,6 @@ Z	vyz
 屣	xbk
 希波克拉底	xbkd
 邪不可干	xbkg
-宣布开幕	xbkm
 屣	xbky
 笑不露齿	xblc
 迅雷	xblh
@@ -133658,7 +133151,6 @@ Z	vyz
 洗过	xdgf
 湘赣	xdgh
 喜得贵子	xdgi
-信贷管理	xdgl
 溪谷	xdgm
 相对公平	xdgp
 洗垢	xdgu
@@ -133689,7 +133181,6 @@ Z	vyz
 消耗战	xdhz
 洗澡	xdid
 笑到最后	xdih
-信贷资金	xdij
 洗澡间	xdij
 泄殖孔	xdik
 相对真理	xdil
@@ -133859,7 +133350,6 @@ Z	vyz
 相得益彰	xdyz
 洗澡	xdzd
 笑到最后	xdzh
-信贷资金	xdzj
 洗澡间	xdzj
 泄殖孔	xdzk
 相对真理	xdzl
@@ -134113,7 +133603,6 @@ Z	vyz
 下翻	xffm
 下发	xffn
 西方人	xffr
-消费方式	xffs
 下腹	xffv
 西服	xffv
 下凡	xffw
@@ -134243,7 +133732,6 @@ Z	vyz
 鞋类	xflm
 协力	xfln
 消费理念	xfln
-西方历史	xfls
 下利	xflt
 下了	xflv
 醒了	xflv
@@ -134398,7 +133886,6 @@ Z	vyz
 西文	xfwh
 下位	xfwj
 鞋袜	xfwl
-小范围内	xfwn
 醒悟	xfwn
 下网	xfwo
 下午	xfwt
@@ -135163,7 +134650,6 @@ Z	vyz
 吁	xigi
 下载工具	xigj
 下载观看	xigk
-行政管理	xigl
 西装革履	xigl
 下载歌曲	xigq
 行政公署	xigs
@@ -135219,7 +134705,6 @@ Z	vyz
 唏	xim
 唏	xima
 吓蒙	xime
-限制名额	xime
 哮鸣	ximi
 寻踪觅迹	ximj
 细枝末节	ximj
@@ -135257,7 +134742,6 @@ Z	vyz
 闲杂人等	xird
 行走如飞	xirf
 喧嚷	xiri
-下载软件	xirj
 吓人	xirj
 吸入剂	xirj
 吸热	xirk
@@ -135862,7 +135346,6 @@ Z	vyz
 行政区	xkiq
 行政权	xkiq
 行舟	xkiq
-学科知识	xkis
 行至	xkis
 挟制	xkit
 行走	xkiu
@@ -135987,7 +135470,6 @@ Z	vyz
 行政区	xkzq
 行政权	xkzq
 行舟	xkzq
-学科知识	xkzs
 行至	xkzs
 挟制	xkzt
 行走	xkzu
@@ -136093,7 +135575,6 @@ Z	vyz
 心肺	xlfv
 心腹	xlfv
 习非	xlfy
-修理费用	xlfy
 心裂肺炸	xlfz
 贤良方正	xlfz
 禊	xlg
@@ -136670,11 +136151,9 @@ Z	vyz
 宣传	xncj
 学车	xncs
 性成熟	xncs
-性能参数	xncs
 宣称	xnct
 兴城	xncu
 性丑闻	xncw
-性能差异	xncy
 窨茶叶	xncy
 宣	xnd
 宣导	xndb
@@ -136696,7 +136175,6 @@ Z	vyz
 学费	xnfb
 宪法	xnfd
 学府	xnfh
-性能发挥	xnfh
 学分制	xnfi
 兴奋剂	xnfj
 学分	xnfm
@@ -136710,14 +136188,12 @@ Z	vyz
 性格	xngc
 兴工	xngf
 学工	xngf
-性能故障	xngi
 性功能	xngn
 性观念	xngn
 兴国	xngo
 虚拟光驱	xngq
 宣告	xngt
 虚拟光驱	xngu
-性能故障	xngz
 窨	xnh
 学画	xnhd
 小女孩儿	xnhe
@@ -136771,7 +136247,6 @@ Z	vyz
 学刊	xnkg
 吓尿裤子	xnki
 忻口	xnki
-性能可靠	xnkk
 新年快乐	xnkl
 学科	xnkt
 吓尿裤子	xnkz
@@ -136782,7 +136257,6 @@ Z	vyz
 学雷锋	xnlf
 学理	xnlg
 学来	xnlh
-性能良好	xnlh
 学力	xnln
 学龄前	xnlq
 学龄前	xnlu
@@ -136808,7 +136282,6 @@ Z	vyz
 峃	xnoi
 勰	xnol
 学派	xnpd
-性能评估	xnpg
 兴平	xnph
 宣判	xnpm
 忻	xnq
@@ -136882,7 +136355,6 @@ Z	vyz
 宣威	xnwa
 学位办	xnwb
 喜怒无常	xnwc
-性能稳定	xnwd
 学武	xnwg
 兴亡	xnwh
 新年晚会	xnwh
@@ -136907,7 +136379,6 @@ Z	vyz
 学习者	xnxi
 兴修	xnxj
 学习机	xnxj
-性能下降	xnxj
 学习	xnxl
 兴学	xnxn
 性学	xnxn
@@ -137626,16 +137097,11 @@ Z	vyz
 血案	xran
 暇	xrb
 暇	xrbb
-显然不符	xrbf
 血本	xrbf
-写入保护	xrbh
 血便	xrbj
 星巴克	xrbk
 显摆	xrbk
-显然不能	xrbn
 血崩	xrbo
-显然不同	xrbt
-显然不行	xrbx
 向北	xrby
 晰	xrc
 星辰	xrca
@@ -137822,13 +137288,11 @@ Z	vyz
 血肉	xrro
 向日	xrrr
 皛	xrrr
-显然是	xrrs
 显然	xrrv
 显然	xrrw
 血刃	xrrz
 晓	xrs
 晓	xrsa
-显示出	xrsc
 血栓	xrsc
 血水	xrsd
 星散	xrsf
@@ -137984,7 +137448,6 @@ Z	vyz
 心术不正	xsbi
 携手并肩	xsbj
 吓死宝宝了	xsbl
-显示比例	xsbl
 心神不宁	xsbn
 西双版纳	xsbn
 形势逼人	xsbr
@@ -138040,12 +137503,9 @@ Z	vyz
 相似之处	xsic
 享受在后	xsih
 絮状	xsih
-行使职权	xsiq
 行尸走肉	xsir
 辖制	xsit
-行使职权	xsiu
 匣子	xsiv
-夏熟作物	xsiw
 娴	xsj
 形神兼备	xsjb
 娴	xsjc
@@ -138080,7 +137540,6 @@ Z	vyz
 姓名	xsmw
 西萨摩亚	xsmy
 辖	xsn
-显示内存	xsnc
 小试牛刀	xsnd
 辖	xsng
 絮凝	xsnh
@@ -138118,7 +137577,6 @@ Z	vyz
 新生事物	xssw
 姓	xst
 姓	xstd
-学术讨论会	xsth
 肖斯塔科维奇	xstq
 学术团体	xstt
 肖斯塔科维奇	xstu
@@ -138177,12 +137635,9 @@ Z	vyz
 相似之处	xszc
 享受在后	xszh
 絮状	xszh
-行使职权	xszq
 行尸走肉	xszr
 辖制	xszt
-行使职权	xszu
 匣子	xszv
-夏熟作物	xszw
 先	xt
 秀	xt
 选	xt
@@ -138955,7 +138410,6 @@ Z	vyz
 鳛	xwlr
 学位论文	xwlw
 鲜	xwm
-行为目标	xwmb
 鲜蘑	xwme
 鲜	xwmg
 鲜	xwmi
@@ -139166,7 +138620,6 @@ Z	vyz
 巡更	xxgf
 细高	xxgh
 线	xxgk
-信息管理	xxgl
 信息高速公路	xxgl
 形销骨立	xxgl
 谢谢光临	xxgl
@@ -139717,7 +139170,6 @@ Z	vyz
 协助公安	xzga
 下载工具	xzgj
 下载观看	xzgk
-行政管理	xzgl
 西装革履	xzgl
 下载歌曲	xzgq
 行政公署	xzgs
@@ -139733,7 +139185,6 @@ Z	vyz
 行政立法	xzlf
 幸灾乐祸	xzlh
 血债累累	xzll
-限制名额	xzme
 寻踪觅迹	xzmj
 细枝末节	xzmj
 瞎子摸象	xzmx
@@ -139749,7 +139200,6 @@ Z	vyz
 行政区域	xzqy
 闲杂人等	xzrd
 行走如飞	xzrf
-下载软件	xzrj
 心止如水	xzrs
 细致入微	xzrw
 消肿生肌	xzsj
@@ -140431,7 +139881,6 @@ Z	vyz
 一臂之力	ybil
 引证	ybil
 引着	ybim
-一部作品	ybip
 异质	ybiq
 玉不琢不成器	ybiq
 引自	ybir
@@ -140656,7 +140105,6 @@ Z	vyz
 一臂之力	ybzl
 引证	ybzl
 引着	ybzm
-一部作品	ybzp
 异质	ybzq
 玉不琢不成器	ybzq
 引自	ybzr
@@ -140734,7 +140182,6 @@ Z	vyz
 桯	ycig
 一锤子买卖	ycim
 杨振宁	ycin
-原创作品	ycip
 有偿转让	ycir
 倚财仗势	ycis
 样子	yciv
@@ -140874,7 +140321,6 @@ Z	vyz
 一锤子买卖	yczm
 杨振宁	yczn
 楹	yczo
-原创作品	yczp
 有偿转让	yczr
 倚财仗势	yczs
 柚子	yczv
@@ -141166,7 +140612,6 @@ Z	vyz
 一阵	ydiv
 油脂	ydiv
 一周	ydiw
-越冬作物	ydiw
 一组	ydix
 一眨眼	ydiy
 一转眼	ydiy
@@ -142833,7 +142278,6 @@ Z	vyz
 意中人	yhir
 有话直说	yhis
 炎黄子孙	yhis
-用户至上	yhis
 韵致	yhis
 育种	yhit
 意志	yhiu
@@ -142860,7 +142304,6 @@ Z	vyz
 应接	yhjk
 衣襟	yhjl
 饔	yhjl
-用户界面	yhjm
 移花接木	yhjm
 於	yhjn
 赢家	yhjn
@@ -142950,7 +142393,6 @@ Z	vyz
 应聘	yhpf
 应聘者	yhpi
 音品	yhpi
-用户评价	yhpj
 应拍	yhpk
 音频	yhpy
 应聘者	yhpz
@@ -143156,7 +142598,6 @@ Z	vyz
 意中人	yhzr
 有话直说	yhzs
 炎黄子孙	yhzs
-用户至上	yhzs
 韵致	yhzs
 育种	yhzt
 意志	yhzu
@@ -143546,7 +142987,6 @@ Z	vyz
 依附	yjfv
 倻	yjfv
 伊凡	yjfw
-研究范围	yjfw
 一经发现	yjfx
 依附于	yjfy
 愈发	yjfz
@@ -143670,7 +143110,6 @@ Z	vyz
 优劣	yjlp
 伊朗人	yjlr
 余量	yjlr
-悠久历史	yjls
 腰肌劳损	yjls
 阅览室	yjls
 伊犁	yjlt
@@ -144316,7 +143755,6 @@ Z	vyz
 雅鲁藏布江	ylij
 预祝	ylil
 预兆	ylim
-意料之内	ylin
 预置	ylio
 译制片	ylip
 叶落知秋	yliq
@@ -144655,7 +144093,6 @@ Z	vyz
 预祝	ylzl
 又怎么	ylzm
 预兆	ylzm
-意料之内	ylzn
 预置	ylzo
 译制片	ylzp
 叶落知秋	ylzq
@@ -145116,7 +144553,6 @@ Z	vyz
 宜章	ynih
 疑难杂症	ynii
 一念之间	ynij
-业内专家	ynij
 以你之见	ynij
 宜州	ynim
 宇宙	ynin
@@ -145238,7 +144674,6 @@ Z	vyz
 宇宙观	ynzg
 宜章	ynzh
 一念之间	ynzj
-业内专家	ynzj
 宜州	ynzm
 宇宙	ynzn
 英年早逝	ynzs
@@ -145799,7 +145234,6 @@ Z	vyz
 一千零一夜	yqly
 眼前利益	yqly
 舣	yqm
-预期目的	yqmd
 舣	yqmk
 以权谋私	yqms
 与去年相比	yqnb
@@ -146282,7 +145716,6 @@ Z	vyz
 嫣	ysfs
 妖风	ysfw
 牙缝	ysfx
-运输费用	ysfy
 妍	ysg
 雅各布	ysgb
 牙根	ysgc
@@ -146347,7 +145780,6 @@ Z	vyz
 与之	ysil
 元素周期律	ysil
 有生之年	ysin
-影视作品	ysip
 一身正气	ysiq
 牙质	ysiq
 有识之士	ysis
@@ -146664,7 +146096,6 @@ Z	vyz
 与之	yszl
 元素周期律	yszl
 有生之年	yszn
-影视作品	yszp
 一身正气	yszq
 牙质	yszq
 有识之士	yszs
@@ -146961,7 +146392,6 @@ Z	vyz
 盐民	yumb
 袁枚	yumc
 越没	yumd
-预期目的	yumd
 垟	yumg
 越慢	yumn
 以权谋私	yums
@@ -148047,7 +147477,6 @@ Z	vyz
 约在	yxia
 幼稚病	yxib
 幼株	yxic
-有形资产	yxic
 一席之地	yxid
 悠闲自得	yxid
 彝族	yxih
@@ -148058,7 +147487,6 @@ Z	vyz
 验证	yxil
 验证码	yxim
 幼崽	yxio
-优秀作品	yxip
 缘自	yxir
 幼稚	yxit
 幼子	yxiv
@@ -148166,7 +147594,6 @@ Z	vyz
 养血润燥	yxri
 游戏人间	yxrj
 缊	yxro
-游戏人生	yxrs
 鱼香肉丝	yxrs
 幽然	yxrv
 幽然	yxrw
@@ -148266,7 +147693,6 @@ Z	vyz
 约在	yxza
 幼稚病	yxzb
 幼株	yxzc
-有形资产	yxzc
 一席之地	yxzd
 悠闲自得	yxzd
 彝族	yxzh
@@ -148276,7 +147702,6 @@ Z	vyz
 验证	yxzl
 验证码	yxzm
 幼崽	yxzo
-优秀作品	yxzp
 缘自	yxzr
 幼稚	yxzt
 幼子	yxzv
@@ -148525,7 +147950,6 @@ Z	vyz
 龂	yyqi
 应邀前来	yyql
 银钱	yyqy
-应用软件	yyrj
 余音绕梁	yyrl
 与有荣焉	yyry
 铘	yys
@@ -148874,7 +148298,6 @@ Z	vyz
 砖	zag
 逐个	zagj
 左拐	zagk
-治安管理	zagl
 在岗	zago
 殝	zagt
 碡	zagx
@@ -149158,7 +148581,6 @@ Z	vyz
 追本穷源	zbqy
 昼	zbr
 晝	zbrd
-正版软件	zbrj
 属	zbrk
 再比如说	zbrs
 罪不容诛	zbrz
@@ -149252,7 +148674,6 @@ Z	vyz
 柘城	zccu
 榨出	zccv
 再次出现	zccx
-资产重组	zccz
 铸成大错	zcdc
 中程导弹	zcdd
 政出多门	zcdm
@@ -149272,7 +148693,6 @@ Z	vyz
 榰	zcfr
 子承父业	zcfy
 植发	zcfz
-资产负债	zcfz
 栈	zcg
 中层干部	zcgb
 桎梏	zcgc
@@ -149282,7 +148702,6 @@ Z	vyz
 榨干	zcgg
 栈	zcgk
 桩冠	zcgl
-资产管理	zcgl
 椎骨	zcgo
 椎管	zcgt
 榛	zcgt
@@ -149301,7 +148720,6 @@ Z	vyz
 植株	zcic
 株洲	zcid
 榨汁	zcid
-资产总额	zcie
 终成正果	zcig
 在此之后	zcih
 柱状	zcih
@@ -149328,7 +148746,6 @@ Z	vyz
 株距	zcji
 中产阶级	zcjj
 枞	zcjj
-资产阶级	zcjj
 札记	zcjl
 槜	zcjn
 枕巾	zcjo
@@ -149370,8 +148787,6 @@ Z	vyz
 樟脑丸	zcnw
 知错能改善莫大焉	zcny
 职称评定	zcpd
-资产评估	zcpg
-作出评价	zcpj
 植皮	zcpn
 植皮	zcpz
 栀	zcq
@@ -149404,7 +148819,6 @@ Z	vyz
 枝条	zctw
 栴	zctw
 正常体温	zctw
-自成体系	zctx
 咫尺天涯	zcty
 栈桥	zcuc
 榨取	zcuf
@@ -149448,7 +148862,6 @@ Z	vyz
 植株	zczc
 株洲	zczd
 榨汁	zczd
-资产总额	zcze
 终成正果	zczg
 在此之后	zczh
 柱状	zczh
@@ -150576,7 +149989,6 @@ Z	vyz
 珠帘	zgln
 专利权	zglq
 最高领导人	zglr
-中国历史	zgls
 扎格罗斯山	zgls
 专利	zglt
 中国联通	zglt
@@ -150879,7 +150291,6 @@ Z	vyz
 遮光	zhgj
 主观	zhgl
 壮观	zhgl
-综合国力	zhgl
 遮盖	zhgm
 主官	zhgn
 站岗	zhgo
@@ -150938,7 +150349,6 @@ Z	vyz
 装做	zhij
 遮住	zhij
 主抓	zhik
-综合治理	zhil
 站着	zhim
 装着	zhim
 主宰	zhin
@@ -150951,7 +150361,6 @@ Z	vyz
 震中	zhio
 资质	zhiq
 主轴	zhis
-综合指数	zhis
 庄重	zhit
 族长	zhit
 站长	zhit
@@ -151000,7 +150409,6 @@ Z	vyz
 资金	zhjy
 座驾	zhjz
 癥	zhk
-综合考察	zhkc
 这棵	zhkc
 主考	zhkf
 主客观	zhkg
@@ -151034,7 +150442,6 @@ Z	vyz
 资料室	zhls
 站了	zhlv
 主链	zhly
-综合利用	zhly
 主力	zhlz
 粢	zhm
 遮面	zhma
@@ -151066,7 +150473,6 @@ Z	vyz
 衷	zhow
 装配	zhpf
 主仆	zhpj
-综合评价	zhpj
 站排	zhpk
 族谱	zhpl
 站牌	zhpr
@@ -151133,7 +150539,6 @@ Z	vyz
 装饰	zhsw
 姿色	zhsw
 准绳	zhsx
-综合收益	zhsy
 装上	zhsy
 章士钊	zhsz
 装孙子	zhsz
@@ -151268,7 +150673,6 @@ Z	vyz
 站住	zhzj
 站住脚	zhzj
 主抓	zhzk
-综合治理	zhzl
 站着	zhzm
 主宰	zhzn
 装置	zhzo
@@ -151279,7 +150683,6 @@ Z	vyz
 震中	zhzo
 资质	zhzq
 主轴	zhzs
-综合指数	zhzs
 庄重	zhzt
 族长	zhzt
 站长	zhzt
@@ -151720,7 +151123,6 @@ Z	vyz
 住口	zjki
 掌控	zjkk
 坐看	zjkk
-在京开幕	zjkm
 作客	zjkn
 坐困	zjko
 债款	zjku
@@ -151734,13 +151136,10 @@ Z	vyz
 传略	zjlo
 作乱	zjlt
 作乐	zjlw
-资金来源	zjly
 掌力	zjlz
 真假莫辨	zjmb
 做梦	zjmc
 坐满	zjmd
-终极目的	zjmd
-增加名额	zjme
 僔	zjmf
 掌门	zjmj
 闸门	zjmj
@@ -151749,7 +151148,6 @@ Z	vyz
 众目	zjmo
 掌门人	zjmr
 做媒	zjms
-专家门诊	zjmz
 伫	zjn
 真假难辨	zjnb
 伫	zjnd
@@ -151789,7 +151187,6 @@ Z	vyz
 证据确凿	zjqz
 众人	zjrj
 侏儒	zjrj
-增加人口	zjrk
 自即日起	zjrq
 值日	zjrr
 自即日起	zjru
@@ -151857,7 +151254,6 @@ Z	vyz
 众位	zjwj
 掌握	zjwk
 偬	zjwl
-资金外流	zjwl
 铸剑为犁	zjwl
 作为	zjwm
 做完	zjwn
@@ -151886,7 +151282,6 @@ Z	vyz
 做学问	zjxw
 仔细	zjxx
 做些	zjxy
-专家学者	zjxz
 侦	zjy
 作业本	zjyb
 住院处	zjyc
@@ -151940,7 +151335,6 @@ Z	vyz
 坐镇	zjzy
 佐治亚	zjzy
 自给自足	zjzz
-资金周转	zjzz
 指	zk
 摘	zk
 折	zk
@@ -153934,19 +153328,16 @@ Z	vyz
 助战	zozy
 眨眨眼	zozy
 中转站	zozz
-作品点评	zpdp
 招聘会上	zphs
 真皮组织	zpii
 招聘职位	zpiw
 招聘经理	zpjl
 这篇课文	zpkw
-作品评价	zppj
 众叛亲离	zpql
 这篇日记	zprj
 这片热土	zprt
 臧否人物	zprw
 真凭实据	zpsj
-作品题材	zptc
 诈骗团伙	zpth
 众叛亲离	zpul
 这篇文章	zpwz
@@ -153980,7 +153371,6 @@ Z	vyz
 争奇斗艳	zqdy
 质点	zqdy
 政企分开	zqfk
-职权范围	zqfw
 质感	zqga
 真情告白	zqgb
 支气管哮喘	zqgc
@@ -154154,8 +153544,8 @@ Z	vyz
 早稻	zrdt
 最短	zrdt
 最多	zrdw
-早点	zrdy
 自定义	zrdy
+早点	zrdy
 最大值	zrdz
 遮人耳目	zrem
 自然而然	zrer
@@ -154624,10 +154014,8 @@ Z	vyz
 至诚	zscl
 致词	zscl
 装傻充愣	zscl
-知识产权	zscq
 转车	zscs
 致辞	zsct
-知识产权	zscu
 转场	zscu
 轴承	zscv
 至此	zscy
@@ -154667,7 +154055,6 @@ Z	vyz
 走私贩私	zsfs
 转发器	zsfu
 众说纷纭	zsfy
-知识分子	zsfz
 转发	zsfz
 臻	zsg
 坐山观虎斗	zsgd
@@ -154761,7 +154148,6 @@ Z	vyz
 遵守纪律	zsjl
 转寄	zsjn
 轸	zsjq
-知识竞赛	zsjs
 转嫁	zsjs
 转瞬即逝	zsjs
 转矩	zsjt
@@ -154771,7 +154157,6 @@ Z	vyz
 转口	zski
 暂扣	zskk
 再三考虑	zskl
-正式开幕	zskm
 炙手可热	zskr
 正式开通	zskt
 转科	zskt
@@ -154836,7 +154221,6 @@ Z	vyz
 辀	zsqk
 自食其力	zsql
 致歉	zsqm
-知识青年	zsqn
 至情	zsqn
 暂且	zsqo
 仗势欺人	zsqr
@@ -154876,7 +154260,6 @@ Z	vyz
 致死率	zssl
 转数	zssm
 转瞬	zsso
-知识水平	zssp
 至少	zssp
 暂时	zssr
 转身	zssr
@@ -154907,7 +154290,6 @@ Z	vyz
 转俏	zsuj
 自食其力	zsul
 致歉	zsum
-知识青年	zsun
 至情	zsun
 暂且	zsuo
 仗势欺人	zsur
@@ -155031,8 +154413,6 @@ Z	vyz
 珠胎暗结	ztaj
 造爱	ztam
 重案	ztan
-整体安全	ztaq
-整体安全	ztau
 重案组	ztaz
 重磅	ztba
 竹板	ztbc
@@ -155065,7 +154445,6 @@ Z	vyz
 制裁	ztcf
 造次	ztch
 重创	ztcj
-整体出口	ztck
 重挫	ztck
 造词	ztcl
 重彩	ztcm
@@ -155073,7 +154452,6 @@ Z	vyz
 制成品	ztcp
 赞成票	ztcp
 造船	ztcq
-整体出让	ztcr
 租车	ztcs
 制程	ztct
 筑城	ztcu
@@ -155113,10 +154491,8 @@ Z	vyz
 知否	ztfa
 正态分布	ztfb
 制法	ztfd
-整体风格	ztfg
 知府	ztfh
 制伏	ztfj
-整体房价	ztfj
 毡房	ztfl
 租房	ztfl
 造访	ztfl
@@ -155148,7 +154524,6 @@ Z	vyz
 竹竿	ztgt
 租给	ztgx
 债台高筑	ztgz
-专题汇报	zthb
 重活	zthd
 种花	zthe
 智慧	zthg
@@ -155225,7 +154600,6 @@ Z	vyz
 造价	ztjj
 造假	ztjj
 雉鸡	ztjl
-专题节目	ztjm
 知觉	ztjn
 租界	ztjo
 重晶石	ztjs
@@ -155315,7 +154689,6 @@ Z	vyz
 赞	ztoj
 赞	ztok
 制片厂	ztpc
-整体配合	ztph
 制品	ztpi
 赞佩	ztpj
 竹排	ztpk
@@ -155323,7 +154696,6 @@ Z	vyz
 种皮	ztpn
 制片	ztpr
 制片人	ztpr
-整体疲软	ztpr
 长胖	ztpv
 种皮	ztpz
 笊	ztq
@@ -155390,19 +154762,16 @@ Z	vyz
 种上	ztsy
 竹	ztt
 笮	zttd
-整体提高	zttg
 乍听	ztti
 赞叹	ztti
 篆体	zttj
 秩	zttk
 重托	zttk
-专题讨论	zttl
 制糖	zttm
 知天命	zttm
 簉	zttn
 重头	zttn
 赞同	ztto
-整体提升	ztts
 竹筒	zttt
 重头戏	zttx
 制	ztu
@@ -155445,7 +154814,6 @@ Z	vyz
 种系	ztxe
 造型	ztxg
 重型	ztxg
-整体下滑	ztxh
 秩序	ztxh
 长兄	ztxi
 纂修	ztxj
@@ -155472,7 +154840,6 @@ Z	vyz
 知音	ztyh
 箴言	ztyh
 竹叶	ztyi
-专题研究	ztyj
 乍一看	ztyk
 赞扬	ztyk
 在天有灵	ztyl
@@ -155484,7 +154851,6 @@ Z	vyz
 竹叶青	ztyq
 造影	ztyr
 长牙	ztys
-专题研讨	ztyt
 竹叶青	ztyu
 竹盐	ztyu
 怎也	ztyv
@@ -155588,7 +154954,6 @@ Z	vyz
 增发	zufn
 增幅	zufo
 赭	zufr
-职权范围	zufw
 增发	zufz
 真情告白	zugb
 走过场	zugc
@@ -156060,7 +155425,6 @@ Z	vyz
 杂多	zwdw
 周敦颐	zwdy
 争夺战	zwdz
-在我耳边	zweb
 猪耳朵	zwed
 周二	zweg
 周恩来	zwel
@@ -156154,7 +155518,6 @@ Z	vyz
 周口店	zwkd
 周刊	zwkg
 周口	zwki
-在我看来	zwkl
 炙烤	zwkm
 周围空气	zwkq
 周围空气	zwku
@@ -156181,11 +155544,9 @@ Z	vyz
 炙	zwmm
 周密	zwmn
 觯	zwmo
-在我面前	zwmq
 詹姆斯	zwms
 杂毛	zwmt
 皱眉头	zwmt
-在我面前	zwmu
 皱眉	zwmv
 詹姆逊	zwmx
 子午卯酉	zwmy
@@ -156230,7 +155591,6 @@ Z	vyz
 周日	zwrr
 昝	zwrr
 杂耍	zwsa
-在我身边	zwsb
 走为上策	zwsc
 中文输入法	zwsf
 杂事	zwsf
@@ -156469,7 +155829,6 @@ Z	vyz
 组装	zxih
 专心致志	zxii
 驻足	zxii
-专项资金	zxij
 综指	zxik
 驻扎	zxik
 诛心之论	zxil
@@ -156678,7 +156037,6 @@ Z	vyz
 振兴中华	zxzh
 组装	zxzh
 驻足	zxzi
-专项资金	zxzj
 驻扎	zxzk
 诛心之论	zxzl
 缀着	zxzm
@@ -156830,7 +156188,6 @@ Z	vyz
 战争片	zyip
 招摇撞骗	zyip
 针织品	zyip
-专业知识	zyis
 忠于职守	zyis
 止于至善	zyis
 造谣中伤	zyis
@@ -157118,7 +156475,6 @@ Z	vyz
 战争片	zyzp
 招摇撞骗	zyzp
 针织品	zyzp
-专业知识	zyzs
 忠于职守	zyzs
 止于至善	zyzs
 造谣中伤	zyzs
@@ -157208,8 +156564,6 @@ Z	vyz
 召开	zzkg
 召来	zzlh
 壮志凌云	zzly
-最终目标	zzmb
-最终目的	zzmd
 知子莫若父	zzmf
 自找麻烦	zzmf
 再怎么好	zzmh
@@ -157242,7 +156596,6 @@ Z	vyz
 字正腔圆	zzqy
 招灾惹祸	zzrh
 蒸蒸日上	zzrs
-资质认证	zzrz
 祖宗十八代	zzsd
 置之死地	zzsd
 志在四方	zzsf
