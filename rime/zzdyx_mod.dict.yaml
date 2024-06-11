@@ -1083,6 +1083,7 @@ CPU	cpu
 不愧	bakn
 不困	bako
 不愧是	baks
+不堪	baku
 不肯	baky
 碥	bal
 碑林	balc
@@ -5429,8 +5430,8 @@ bilibili	blbl
 不忍离开	brlk
 暴戾	brll
 暴料	brlm
-兵力	brln
 暴力	brln
+兵力	brln
 白蜡	brlo
 卑劣	brlp
 不忍离去	brlq
@@ -9113,8 +9114,8 @@ bilibili	blbl
 床头柜	chtg
 痴	chti
 床头柜	chtj
-冲昏头脑	chtn
 冲突	chtn
+冲昏头脑	chtn
 成何体统	chtt
 充填	chtu
 产权	chuc
@@ -12144,8 +12145,8 @@ bilibili	blbl
 重获	cthe
 辞	cthf
 长恨歌	cthg
-称号	cthi
 称呼	cthi
+称号	cthi
 重合	cthj
 长话	cthl
 长虹	ctho
@@ -12177,8 +12178,8 @@ bilibili	blbl
 重走	ctiu
 掣肘	ctiv
 称之为	ctiw
-辞职信	ctix
 重组	ctix
+辞职信	ctix
 垂直线	ctix
 矬	ctj
 筹建	ctjb
@@ -12443,8 +12444,9 @@ bilibili	blbl
 重走	ctzu
 掣肘	ctzv
 称之为	ctzw
-垂直线	ctzx
 重组	ctzx
+辞职信	ctzx
+垂直线	ctzx
 出庭作证	ctzz
 场	cu
 城	cu
@@ -14955,8 +14957,8 @@ bilibili	blbl
 豆沙	ddsd
 颠倒是非	ddsf
 淡水湖	ddsh
-敌对势力	ddsl
 渎神	ddsl
+敌对势力	ddsl
 大多数人	ddsr
 哆哆嗦嗦	ddss
 打打杀杀	ddss
@@ -20659,8 +20661,8 @@ bilibili	blbl
 二八	egbm
 二百万	egbm
 二把手	egbs
-二倍体	egbt
 二笔	egbt
+二倍体	egbt
 二百万	egbw
 二百五	egbw
 二层	egcb
@@ -23052,9 +23054,9 @@ bilibili	blbl
 翻查	fmcc
 分汊	fmcd
 分寸	fmcf
+翻唱	fmci
 分餐制	fmci
 发明创造	fmci
-翻唱	fmci
 分拆	fmck
 分叉	fmcl
 分岔	fmcm
@@ -26952,6 +26954,7 @@ bilibili	blbl
 各负其责	gfqi
 更全	gfqj
 恭请	gfql
+共情	gfqn
 歌曲	gfqo
 甘泉	gfqr
 过去时	gfqs
@@ -26965,9 +26968,9 @@ bilibili	blbl
 工人党	gfrd
 共荣	gfre
 过日子	gfri
+古人	gfrj
 工人	gfrj
 故人	gfrj
-古人	gfrj
 过人	gfrj
 过热	gfrk
 古人类	gfrl
@@ -27038,6 +27041,7 @@ bilibili	blbl
 各负其责	gfui
 更全	gfuj
 恭请	gful
+共情	gfun
 歌曲	gfuo
 甘泉	gfur
 过去时	gfus
@@ -29310,6 +29314,7 @@ bilibili	blbl
 国富	gofn
 贵妇人	gofr
 贵妃	gofs
+贵妇	gofs
 国防	gofv
 果脯	gofv
 罡风	gofw
@@ -33144,8 +33149,8 @@ GPRS	gprs
 挥毫落纸	hhlz
 毫米波	hhmb
 毫末	hhmg
-后悔莫及	hhmj
 豪门	hhmj
+后悔莫及	hhmj
 和和美美	hhmm
 毫米	hhmm
 豪迈	hhms
@@ -38829,8 +38834,9 @@ GPRS	gprs
 支援	ifyk
 自负盈亏	ifyk
 再议	ifyl
-枝繁叶茂	ifym
 正义	ifym
+真义	ifym
+枝繁叶茂	ifym
 造福于民	ifym
 载誉	ifyn
 遭遇	ifyo
@@ -42055,6 +42061,7 @@ GPRS	gprs
 则不然	iobr
 账簿	iobt
 中巴	iobv
+眨巴	iobv
 贮备	iobw
 置办	iobz
 贮存	ioca
@@ -42281,9 +42288,9 @@ GPRS	gprs
 中美	iomm
 瞩目	iomo
 账目	iomo
+赠	iomr
 嶒	iomr
 罾	iomr
-赠	iomr
 中脉	iomv
 罪名	iomw
 中缅	iomx
@@ -46666,8 +46673,8 @@ GPRS	gprs
 浇铸	jdiy
 涧	jdj
 酒局	jdjb
-涓涓	jdjd
 渐渐	jdjd
+涓涓	jdjd
 激将法	jdjf
 渐进	jdjg
 激进	jdjg
@@ -47224,8 +47231,8 @@ GPRS	gprs
 教法	jffd
 兢	jffi
 棘	jffk
-奖罚分明	jffm
 教父	jffm
+奖罚分明	jffm
 结发夫妻	jffq
 教辅	jffs
 晋封	jffu
@@ -58844,9 +58851,9 @@ GPRS	gprs
 来犯之敌	lfid
 两者	lfif
 老资格	lfig
+聊斋	lfih
 老字号	lfih
 老庄	lfih
-聊斋	lfih
 两只	lfii
 老祖宗	lfii
 联众	lfij
@@ -63700,10 +63707,9 @@ GPRS	gprs
 明查暗访	mcaf
 棉袄	mcal
 棉布	mcba
-木板	mcbc
-木板床	mcbc
-木棒	mcbc
 模板	mcbc
+木棒	mcbc
+木板	mcbc
 木本	mcbf
 木部	mcbh
 棉被	mcbl
@@ -69239,6 +69245,7 @@ GPRS	gprs
 扭摆	nkbk
 拟办	nkbn
 那可不是	nkbs
+拧巴	nkbv
 挪	nkbv
 那可不行	nkbx
 宁可不要	nkby
@@ -112800,9 +112807,9 @@ QQ密码	qqmm
 神情	slqn
 说情	slqn
 神曲	slqo
-死里求生	slqs
 社区	slqs
 神枪手	slqs
+死里求生	slqs
 神气	slqt
 识趣	slqu
 双曲线	slqx
@@ -112908,9 +112915,9 @@ QQ密码	qqmm
 双拳	slum
 神情	slun
 神曲	sluo
-死里求生	slus
 社区	slus
 神枪手	slus
+死里求生	slus
 神气	slut
 圣	sluu
 双曲线	slux
@@ -135858,9 +135865,9 @@ Z	vyz
 学科知识	xkis
 行至	xkis
 挟制	xkit
+行走	xkiu
 行政区	xkiu
 行政权	xkiu
-行走	xkiu
 行政院	xkiy
 行止	xkiy
 踅	xkiy
@@ -135983,9 +135990,9 @@ Z	vyz
 学科知识	xkzs
 行至	xkzs
 挟制	xkzt
+行走	xkzu
 行政区	xkzu
 行政权	xkzu
-行走	xkzu
 行政院	xkzy
 行止	xkzy
 写	xl
@@ -142737,7 +142744,7 @@ Z	vyz
 因祸得福	yhdf
 意动	yhdg
 应当	yhdj
-赢得	yhdk
+应得	yhdk
 亚寒带针叶林	yhdl
 应对	yhdl
 意大利	yhdl
@@ -150387,10 +150394,9 @@ Z	vyz
 支援	zfyk
 自负盈亏	zfyk
 再议	zfyl
-枝繁叶茂	zfym
 正义	zfym
-正欲	zfym
 真义	zfym
+枝繁叶茂	zfym
 造福于民	zfym
 载誉	zfyn
 遭遇	zfyo
@@ -153450,6 +153456,7 @@ Z	vyz
 则不然	zobr
 账簿	zobt
 中巴	zobv
+眨巴	zobv
 贮备	zobw
 置办	zobz
 贮存	zoca
@@ -153697,9 +153704,9 @@ Z	vyz
 中美	zomm
 瞩目	zomo
 账目	zomo
+赠	zomr
 嶒	zomr
 罾	zomr
-赠	zomr
 中脉	zomv
 罪名	zomw
 中缅	zomx
