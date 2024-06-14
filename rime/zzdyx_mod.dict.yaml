@@ -2545,6 +2545,7 @@ CPU	cpu
 班	bgm
 表面	bgma
 表面光	bgmg
+班	bgmg
 表面化	bgmh
 表面积	bgmj
 斑蝥	bgml
@@ -2754,6 +2755,7 @@ CPU	cpu
 冰棍	bhgc
 冰棍儿	bhge
 变更	bhgf
+变故	bhgf
 变革	bhgf
 癍	bhgh
 冰挂	bhgk
@@ -3667,8 +3669,8 @@ CPU	cpu
 抱病	bkbh
 拜别	bkbi
 拜把子	bkbi
-播报	bkbk
 拜拜	bkbk
+播报	bkbk
 抱抱	bkbk
 不可避免	bkbm
 百看不腻	bkbn
@@ -18625,6 +18627,7 @@ bilibili	blbl
 到会者	dshz
 趸	dsi
 定时炸弹	dsid
+东芝	dsie
 滴水之恩	dsie
 到站	dsih
 读书种子	dsii
@@ -18784,6 +18787,7 @@ bilibili	blbl
 都是因为	dsyw
 独树一帜	dsyz
 定时炸弹	dszd
+东芝	dsze
 滴水之恩	dsze
 到站	dszh
 顿足	dszi
@@ -28574,9 +28578,9 @@ bilibili	blbl
 癸酉	glyf
 观音	glyh
 雇员	glyi
-冠亚军	glyj
 雇佣	glyj
 雇佣军	glyj
+冠亚军	glyj
 过来一看	glyk
 冠以	glyl
 观影	glyr
@@ -29395,6 +29399,7 @@ bilibili	blbl
 固然	gorw
 国殇	gosa
 果树	gosc
+国术	gosc
 固沙	gosd
 果蔬	gose
 国事	gosf
@@ -33459,8 +33464,8 @@ GPRS	gprs
 何必	hjbl
 候补	hjbl
 合不拢	hjbl
-伙伴们	hjbm
 合并	hjbm
+伙伴们	hjbm
 合办	hjbn
 缓解病情	hjbq
 会比	hjbs
@@ -38483,6 +38488,7 @@ GPRS	gprs
 真力	iflz
 真	ifm
 正面	ifma
+直面	ifma
 再没	ifmd
 斟满	ifmd
 载满	ifmd
@@ -42451,8 +42457,8 @@ GPRS	gprs
 真情流露	iqll
 质料	iqlm
 舳舻	iqlq
-正气凛然	iqlr
 质量	iqlr
+正气凛然	iqlr
 朝秦暮楚	iqmc
 自取灭亡	iqmw
 质	iqo
@@ -44428,8 +44434,8 @@ GPRS	gprs
 坐卧不宁	iwbn
 争霸赛	iwbs
 战无不胜	iwbs
-周邦彦	iwby
 知无不言	iwby
+周邦彦	iwby
 周边	iwbz
 杂	iwc
 橥	iwcc
@@ -46436,8 +46442,8 @@ GPRS	gprs
 济	jdh
 激活	jdhd
 江湖	jdhd
-江河	jdhd
 江汉	jdhd
+江河	jdhd
 江淮	jdhd
 浇花	jdhe
 酒酣	jdhf
@@ -46586,8 +46592,8 @@ GPRS	gprs
 浇	jdsa
 机电设备	jdsb
 浇树	jdsc
-汲水	jdsd
 浇水	jdsd
+酒水	jdsd
 浸湿	jdsd
 江苏	jdse
 较大数额	jdse
@@ -49806,8 +49812,9 @@ GPRS	gprs
 兼并	jmbm
 烬	jmbn
 精兵	jmbr
-兼备	jmbw
 煎饼	jmbw
+卷饼	jmbw
+兼备	jmbw
 精编	jmbx
 翦伯赞	jmbz
 桊	jmc
@@ -50400,8 +50407,9 @@ GPRS	gprs
 加湿	jnsd
 加沙	jnsd
 袈裟	jnsd
-举世	jnsf
+家世	jnsf
 加速	jnsf
+举世	jnsf
 家塾	jnsh
 寄宿制	jnsi
 驾驶证	jnsi
@@ -51748,8 +51756,8 @@ GPRS	gprs
 积碳	jtta
 简体字	jtti
 简体	jttj
-筋头	jttn
 箭头	jttn
+筋头	jttn
 简图	jtto
 矫	jttr
 箭塔	jttu
@@ -52114,8 +52122,8 @@ GPRS	gprs
 交浅言深	juys
 均与	juys
 境域	juyu
-均匀	juyw
 监狱	juyw
+均匀	juyw
 监狱长	juyz
 嘉	juz
 均在	juza
@@ -53655,6 +53663,7 @@ GPRS	gprs
 金针菜	jyzc
 金针菇	jyzg
 金装	jyzh
+金主	jyzh
 九阴真经	jyzj
 金质奖	jyzj
 键值	jyzj
@@ -54273,8 +54282,8 @@ GPRS	gprs
 渴求	kduf
 揆度奇恒	kduh
 溘	kduo
-宽大为怀	kdwh
 渴望	kdwh
+宽大为怀	kdwh
 空洞无物	kdww
 溃疡病	kdyb
 溃疡	kdyh
@@ -65078,10 +65087,10 @@ GPRS	gprs
 命理	mjlg
 孟加拉国	mjlg
 门廊	mjlh
-仫佬族	mjli
 门路	mjli
-们俩	mjlj
+仫佬族	mjli
 命令	mjlj
+们俩	mjlj
 闷	mjlk
 民间力量	mjll
 门类	mjlm
@@ -70108,6 +70117,7 @@ GPRS	gprs
 你死我活	nswh
 奶味	nswi
 年少无知	nswi
+女娲	nsws
 女娃	nsws
 内圣外王	nsww
 年少无知	nswz
@@ -102362,6 +102372,7 @@ GPRS	gprs
 倾侧	qjcj
 勤俭持家	qjcj
 全车	qjcs
+全称	qjct
 全程	qjct
 全长	qjct
 倾城	qjcu
@@ -108837,7 +108848,6 @@ QQ密码	qqmm
 森然	scrw
 深藏若虚	scrx
 枢	scs
-松松	scsc
 松树	scsc
 树梢	scsc
 三从四德	scsd
@@ -111509,8 +111519,6 @@ QQ密码	qqmm
 杀鸡焉用牛刀	sjyd
 食油	sjyd
 使药	sjye
-侍应	sjyh
-盛京银行	sjyh
 食言	sjyh
 伤员	sjyi
 闪耀	sjyj
@@ -111987,11 +111995,10 @@ QQ密码	qqmm
 生理变化	slbh
 识别	slbi
 说不准	slbi
+社保	slbj
 双倍	slbj
 四两拨千斤	slbj
 始料不及	slbj
-社保	slbj
-诉不尽	slbj
 试播	slbk
 圣保罗	slbl
 说白了	slbl
@@ -116310,8 +116317,8 @@ QQ密码	qqmm
 三心二意	sxey
 书费	sxfb
 书法	sxfd
-绥芬河	sxfh
 缩放	sxfh
+绥芬河	sxfh
 书法展	sxfi
 书法家	sxfj
 书房	sxfl
@@ -116520,8 +116527,8 @@ QQ密码	qqmm
 双向选择	sxxi
 书信	sxxj
 绍兴酒	sxxj
-书写	sxxl
 缩写	sxxl
+书写	sxxl
 绍兴	sxxn
 缫	sxxo
 缩小	sxxp
@@ -124248,6 +124255,7 @@ QQ密码	qqmm
 倾侧	ujcj
 勤俭持家	ujcj
 全车	ujcs
+全称	ujct
 全程	ujct
 全长	ujct
 倾城	ujcu
@@ -142961,9 +142969,8 @@ Z	vyz
 优待	yjdk
 油尽灯枯	yjdk
 阅读课	yjdk
-引颈待戮	yjdl
 阅读	yjdl
-阅读量	yjdl
+引颈待戮	yjdl
 以己度人	yjdr
 优等生	yjds
 优等	yjdt
@@ -143797,8 +143804,8 @@ Z	vyz
 语境	ylju
 褕	yljv
 谕	yljv
-永久	yljw
 以及	yljw
+永久	yljw
 语句	yljw
 永久性	yljx
 预缴	yljx
@@ -143971,8 +143978,6 @@ Z	vyz
 冤屈	ylub
 语气词	yluc
 永清	ylud
-以其	yluf
-以期	yluf
 预期	yluf
 羽球	ylug
 一落千丈	ylui
@@ -147214,10 +147219,10 @@ Z	vyz
 一无所获	ywsh
 一无所知	ywsi
 一问三不知	ywsi
-印刷机	ywsj
+饮食	ywsj
 疑似	ywsj
 饮水机	ywsj
-饮食	ywsj
+印刷机	ywsj
 乐手	ywsk
 于无声处听惊雷	ywsl
 用水量	ywsl
@@ -149584,6 +149589,7 @@ Z	vyz
 真力	zflz
 真	zfm
 正面	zfma
+直面	zfma
 再没	zfmd
 斟满	zfmd
 载满	zfmd
@@ -155394,8 +155400,8 @@ Z	vyz
 坐卧不宁	zwbn
 争霸赛	zwbs
 战无不胜	zwbs
-周邦彦	zwby
 知无不言	zwby
+周邦彦	zwby
 争霸战	zwbz
 周边	zwbz
 杂	zwc
