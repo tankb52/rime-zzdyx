@@ -1,0 +1,33 @@
+patch:
+  "app_options/cmd.exe":
+    ascii_mode: true
+  "app_options/securecrt.exe":
+    ascii_mode: true
+  "app_options/totalcmd.exe":
+    ascii_mode: true
+  "app_options/totalcmd64.exe":
+    ascii_mode: true
+  "app_options/nvim-qt":
+    ascii_mode: true
+  "app_options/vim":
+    ascii_mode: true
+  "app_options/gvim":
+    ascii_mode: true
+  "app_options/freeplane":
+    ascii_mode: false
+  "app_options/java":
+    ascii_mode: false
+  "app_options/Urxvt":
+    ascii_mode: false
+  "app_options/rxvt":
+    ascii_mode: false
+  "app_options/xterm":
+    ascii_mode: true
+  "app_options/alacritty":
+    ascii_mode: true
+  "app_options/scrcpy":
+    ascii_mode: true
+  "app_options/geany":
+    ascii_mode: true
+  "app_options/zim":
+    ascii_mode: true
