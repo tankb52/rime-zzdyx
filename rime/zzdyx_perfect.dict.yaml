@@ -2,7 +2,7 @@
 # encoding:utf-8
 ---
 name: zzdyx_perfect
-version: "20240528"
+version: "20240617"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -6927,6 +6927,7 @@ ATP	atp
 办班	bnbg
 不能保证	bnbi
 办报	bnbk
+𰻝𰻞面	bnbm
 宝宝	bnbn
 不男不女	bnbn
 宝贝	bnbo
@@ -7079,6 +7080,7 @@ ATP	atp
 边	bnn
 办年货	bnnh
 悖逆	bnnm
+𰻝	bnnn
 边	bnnn
 百年难遇	bnny
 宝瓶座	bnpi
@@ -60978,6 +60980,7 @@ GTP	gtp
 赵嘉	iuju
 趑趄	iuju
 志坚	iuju
+增肌	iujv
 证券交易	iujy
 增加	iujz
 增刊	iuk
@@ -66294,6 +66297,7 @@ GTP	gtp
 竞走	jhiu
 疾走	jhiu
 夹子	jhiv
+减脂	jhiv
 疖子	jhiv
 竞争	jhiw
 竞	jhiw
@@ -66812,6 +66816,7 @@ GTP	gtp
 竞走	jhzu
 疾走	jhzu
 夹子	jhzv
+减脂	jhzv
 疖子	jhzv
 竞争	jhzw
 夹杂	jhzw
@@ -75949,6 +75954,7 @@ GTP	gtp
 可信赖	kfxl
 可心	kfxl
 可写	kfxl
+酷炫	kfxm
 开发项目	kfxm
 可惜	kfxn
 考学	kfxn
@@ -112756,6 +112762,7 @@ NFC	nfc
 悩	onnm
 愹	onnm
 辶	onnn
+𰻝	onnn
 逭	onnn
 迱	onnn
 邃	onnn
@@ -133406,6 +133413,7 @@ QQ密码	qqmm
 迁怒	qtns
 千年	qtnt
 气馁	qtnw
+气泡	qtp
 气派	qtpd
 气泡	qtpd
 气体排放	qtpf
@@ -135952,6 +135960,7 @@ QQ密码	qqmm
 热加工	rkjg
 人口结构	rkjg
 入口即化	rkjh
+热季	rkjt
 热结	rkjx
 热键	rkjy
 人口控制	rkki
@@ -136412,6 +136421,7 @@ QQ密码	qqmm
 乳罩	rmio
 入账	rmio
 乳制品	rmip
+燃脂	rmiv
 乳脂	rmiv
 乳猪	rmiw
 入驻	rmix
@@ -136637,6 +136647,7 @@ QQ密码	qqmm
 乳罩	rmzo
 入账	rmzo
 乳制品	rmzp
+燃脂	rmzv
 乳脂	rmzv
 乳猪	rmzw
 入驻	rmzx
@@ -145468,7 +145479,9 @@ QQ密码	qqmm
 守本分	snbf
 塞班	snbg
 神农本草经	snbj
+手拿把掐	snbq
 守兵	snbr
+手拿把掐	snbu
 守备	snbw
 塞北	snby
 宋	snc
@@ -163312,6 +163325,7 @@ sp³杂化	spsh
 迁怒	utns
 千年	utnt
 气馁	utnw
+气泡	utp
 气派	utpd
 气泡	utpd
 气体排放	utpf
@@ -203260,6 +203274,7 @@ Z	vyz
 赵嘉	zuju
 趑趄	zuju
 志坚	zuju
+增肌	zujv
 证券交易	zujy
 增加值	zujz
 增加	zujz

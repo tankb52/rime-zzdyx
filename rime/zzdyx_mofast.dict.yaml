@@ -2,7 +2,7 @@
 # encoding:utf-8
 ---
 name: zzdyx_mofast
-version: "20240528"
+version: "20240617"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -6250,6 +6250,7 @@ ATP	atp
 办班	bnbg
 不能保证	bnbi
 办报	bnbk
+𰻝𰻞面	bnbm
 宝宝	bnbn
 不男不女	bnbn
 宝贝	bnbo
@@ -6393,7 +6394,7 @@ ATP	atp
 边	bnn
 办年货	bnnh
 悖逆	bnnm
-边	bnnn
+𰻝	bnnn
 百年难遇	bnny
 宝瓶座	bnpi
 百年品牌	bnpp
@@ -26835,8 +26836,8 @@ ATP	atp
 封建专制	fjzz
 飞机制造	fjzz
 扶	fk
-抚	fk
 拂	fk
+抚	fk
 抚爱	fkam
 拂	fkb
 扶病	fkbh
@@ -47440,9 +47441,9 @@ GTP	gtp
 只争朝夕	iizx
 只占	iizy
 种族主义	iizy
-作	ij
-债	ij
 做	ij
+债	ij
+作	ij
 佐	ija
 佐	ijaf
 仗	ijak
@@ -52091,6 +52092,7 @@ GTP	gtp
 赵婧	iujs
 证券交易所	iujs
 赵嘉	iuju
+增肌	iujv
 证券交易	iujy
 增加	iujz
 增刊	iuk
@@ -56539,6 +56541,7 @@ GTP	gtp
 夹竹桃	jhit
 净增	jhiu
 夹子	jhiv
+减脂	jhiv
 竞争	jhiw
 竞	jhiw
 交织	jhix
@@ -56920,6 +56923,7 @@ GTP	gtp
 夹竹桃	jhzt
 净增	jhzu
 夹子	jhzv
+减脂	jhzv
 竞争	jhzw
 交织	jhzx
 决战	jhzy
@@ -64501,6 +64505,7 @@ GTP	gtp
 可信	kfxj
 可循	kfxk
 可信赖	kfxl
+酷炫	kfxm
 开发项目	kfxm
 可惜	kfxn
 可向	kfxr
@@ -98798,6 +98803,7 @@ NFC	nfc
 悩	onnm
 愹	onnm
 辶	onnn
+𰻝	onnn
 逭	onnn
 迱	onnn
 邃	onnn
@@ -118356,6 +118362,7 @@ QQ密码	qqmm
 迁怒	qtns
 千年	qtnt
 气馁	qtnw
+气泡	qtp
 气派	qtpd
 气体排放	qtpf
 企图破坏	qtph
@@ -119563,7 +119570,7 @@ QQ密码	qqmm
 热爱人民	rarm
 热爱生活	rash
 热爱祖国	razg
-弱rrb
+弱	rb
 弱	rbb
 弱	rbbh
 弱爆了	rbbl
@@ -120679,6 +120686,7 @@ QQ密码	qqmm
 热加工	rkjg
 人口结构	rkjg
 入口即化	rkjh
+热季	rkjt
 热结	rkjx
 热键	rkjy
 人口控制	rkki
@@ -121095,6 +121103,7 @@ QQ密码	qqmm
 燃着	rmim
 乳罩	rmio
 乳制品	rmip
+燃脂	rmiv
 乳脂	rmiv
 乳猪	rmiw
 入驻	rmix
@@ -121291,6 +121300,7 @@ QQ密码	qqmm
 燃着	rmzm
 乳罩	rmzo
 乳制品	rmzp
+燃脂	rmzv
 乳脂	rmzv
 乳猪	rmzw
 入驻	rmzx
@@ -128531,7 +128541,9 @@ QQ密码	qqmm
 守本分	snbf
 塞班	snbg
 神农本草经	snbj
+手拿把掐	snbq
 守兵	snbr
+手拿把掐	snbu
 守备	snbw
 塞北	snby
 宋	snc
@@ -143715,6 +143727,7 @@ sp³杂化	spsh
 迁怒	utns
 千年	utnt
 气馁	utnw
+气泡	utp
 气派	utpd
 气体排放	utpf
 企图破坏	utph
@@ -145616,8 +145629,8 @@ Z	vyz
 无耻之徒	wczt
 维持秩序	wczx
 无耻之尤	wczy
-汪	wd
 温	wd
+汪	wd
 洧	wda
 洿	wdag
 洧	wdav
@@ -177211,6 +177224,7 @@ Z	vyz
 赵婧	zujs
 证券交易所	zujs
 赵嘉	zuju
+增肌	zujv
 证券交易	zujy
 增加值	zujz
 增刊	zuk
