@@ -6804,8 +6804,8 @@ bilibili	blbl
 北关	bygm
 北国	bygo
 不应该是	bygs
-不以规矩，不成方圆	bygy
 背锅	bygy
+不以规矩，不成方圆	bygy
 镑	byh
 北海岸	byha
 北海	byhd
@@ -22227,6 +22227,7 @@ bilibili	blbl
 放平	fhph
 废品	fhpi
 放跑	fhpi
+疯批	fhpk
 废品率	fhpl
 放炮	fhpm
 放盘	fhpq
@@ -35030,6 +35031,7 @@ GPRS	gprs
 翙	holl
 黑溜溜	holl
 回炉	holm
+黑料	holm
 贿赂	holo
 囫囵	holo
 回笼	holt
@@ -51921,8 +51923,8 @@ GPRS	gprs
 架桥铺路	jupl
 吉普	jupm
 激情澎湃	jupp
-监票人	jupr
 紧迫	jupr
+监票人	jupr
 吉普赛	jups
 紧迫性	jupx
 坚强	juqb
@@ -54296,7 +54298,6 @@ GPRS	gprs
 髡	kfac
 可爱	kfam
 可不	kfba
-可编程	kfbc
 考博	kfbf
 可别	kfbi
 可鄙	kfbi
@@ -54313,20 +54314,15 @@ GPRS	gprs
 勘测	kfcd
 考察队	kfcd
 可耻	kfcf
-可操作	kfci
 可曾	kfcm
 考察	kfcn
-可承受	kfcs
 考察团	kfct
 考场	kfcu
 可持续	kfcx
-可采用	kfcy
-可操作	kfcz
 考订	kfdl
 勘定	kfdn
 可的松	kfds
 克敌	kfdt
-可读性	kfdx
 可待因	kfdy
 考点	kfdy
 狂风恶浪	kfel
@@ -54334,7 +54330,6 @@ GPRS	gprs
 考分	kffm
 克复	kfft
 克服	kffv
-可分为	kffw
 考风	kffw
 克格勃	kfgb
 酷棍	kfgc
@@ -54385,7 +54380,6 @@ GPRS	gprs
 恐惧	kfjn
 考究	kfjn
 可见	kfjo
-可进入	kfjr
 可嘉	kfju
 可及	kfjw
 考级	kfjx
@@ -54406,7 +54400,6 @@ GPRS	gprs
 克林顿	kfld
 恐龙蛋	kfld
 狂蜂浪蝶	kfld
-考虑到	kfld
 克莱	kfle
 酷吏	kflf
 可兰经	kflj
@@ -54418,7 +54411,6 @@ GPRS	gprs
 可怜	kfln
 克里	kflo
 克罗齐	kflq
-可怜人	kflr
 考量	kflr
 克鲁斯	kfls
 克里特	kflt
@@ -54428,13 +54420,11 @@ GPRS	gprs
 可乐	kflw
 考虑	kfly
 勘	kfn
-可能会	kfnh
 狂风怒号	kfnh
 可能	kfnl
 恐难	kfnl
 可逆	kfnm
 勘	kfnn
-可能是	kfns
 可能性	kfnx
 聩	kfo
 聩	kfoo
@@ -54445,7 +54435,6 @@ GPRS	gprs
 考勤	kfqf
 考取	kfqf
 考期	kfqf
-可亲	kfqh
 考前	kfqm
 空乏其身	kfqs
 可气	kfqt
@@ -54466,24 +54455,18 @@ GPRS	gprs
 克死	kfsa
 克斯	kfsf
 可视化	kfsh
-可是这	kfsi
 酷似	kfsj
 戡	kfsk
 考试	kfsl
 可塑	kfsm
-可是那	kfsn
 克山	kfso
 酷暑	kfsr
-可说是	kfss
 考生	kfst
 可塑性	kfsx
 考上	kfsy
-可是这	kfsz
 酷	kft
 克汀	kftd
 勘探队	kftd
-可提供	kftg
-可通过	kftg
 可叹	kfti
 勘探	kftk
 考题	kftr
@@ -54511,23 +54494,18 @@ GPRS	gprs
 可信度	kfxd
 口服心服	kfxf
 酷刑	kfxg
-可选择	kfxi
 可信	kfxj
-可信赖	kfxl
 酷炫	kfxm
 可惜	kfxn
 可笑	kfxt
 可选	kfxt
 可喜	kfxu
-可信性	kfxx
 可行性	kfxx
-可选择	kfxz
 考研	kfya
 可以	kfyl
 可疑	kfyw
 考验	kfyx
 勘验	kfyx
-可用性	kfyx
 康复医学	kfyx
 勘	kfz
 考砸	kfza
@@ -57373,8 +57351,6 @@ GPRS	gprs
 履新	lbxh
 录像	lbxj
 录像机	lbxj
-录相机	lbxj
-录象机	lbxj
 履行	lbxk
 拉不下脸	lbxl
 灵性	lbxn
@@ -64372,6 +64348,7 @@ GPRS	gprs
 摩擦力	mhcl
 麻城	mhcu
 盲肠	mhcv
+盲猜	mhcw
 蛮缠	mhcx
 盲肠炎	mhcy
 幕后操纵	mhcz
@@ -66924,8 +66901,8 @@ GPRS	gprs
 免遭	mwif
 免责	mwig
 名震	mwih
-名	mwii
 名嘴	mwii
+名	mwii
 目无尊长	mwii
 名作	mwij
 漫无止境	mwij
@@ -68553,6 +68530,7 @@ GPRS	gprs
 闹剧	njjb
 念旧	njji
 拿架子	njji
+闹僵	njjj
 念及	njjw
 您几位	njjw
 脑筋急转弯	njjw
@@ -107799,7 +107777,6 @@ QQ密码	qqmm
 饶有趣味	ryuw
 软玉温香	rywx
 日月星辰	ryxc
-任意修改	ryxg
 饶有兴致	ryxi
 日用消费品	ryxp
 饶有兴趣	ryxq
@@ -108137,6 +108114,7 @@ QQ密码	qqmm
 死翘翘	sauu
 死亡	sawh
 奢望	sawh
+爽文	sawh
 少安毋躁	sawi
 稍安勿躁	sawi
 死亡率	sawl
@@ -111660,9 +111638,10 @@ QQ密码	qqmm
 手艺	skye
 誓要	skyf
 擅于	skyg
+誓言	skyh
+授意	skyh
 手痒	skyh
 搔痒	skyh
-誓言	skyh
 摄影展	skyi
 撒丫子	skyi
 撒癔症	skyi
@@ -111916,9 +111895,9 @@ QQ密码	qqmm
 视作	slij
 双周刊	slik
 圣哲	slik
-是骡子是马拉出来遛遛	slil
 神祗	slil
 诉诸	slil
+是骡子是马拉出来遛遛	slil
 神州	slim
 试着	slim
 识字	slin
@@ -119043,6 +119022,7 @@ QQ密码	qqmm
 投中	tkio
 脱裤子放屁	tkip
 提早	tkir
+投资商	tkis
 探长	tkit
 推知	tkit
 抬走	tkiu
@@ -119303,6 +119283,7 @@ QQ密码	qqmm
 投中	tkzo
 脱裤子放屁	tkzp
 提早	tkzr
+投资商	tkzs
 探长	tkzt
 抬走	tkzu
 摊子	tkzv
@@ -119812,6 +119793,7 @@ QQ密码	qqmm
 逃亡者	tmwz
 剃须刀	tmxd
 妥协	tmxf
+唾沫星子	tmxi
 天马行空	tmxk
 誊写	tmxl
 逃学	tmxn
@@ -119820,6 +119802,7 @@ QQ密码	qqmm
 逃向	tmxr
 同名小说	tmxs
 痰迷心窍	tmxu
+唾沫星子	tmxz
 糖原	tmya
 同母异父	tmyf
 糖衣	tmyh
@@ -129879,7 +129862,6 @@ Z	vyz
 五迷三道	wmsd
 为甚	wmsf
 为啥	wmsi
-为使	wmsj
 瓮	wmsk
 为谁	wmsl
 为什么	wmsm
@@ -132437,7 +132419,6 @@ Z	vyz
 相思病	xcsb
 杏树	xcsc
 橡树	xcsc
-现场施工	xcsg
 相商	xcsh
 相似	xcsj
 想说	xcsl
@@ -132454,7 +132435,6 @@ Z	vyz
 心驰神往	xcsw
 相似性	xcsx
 相适应	xcsy
-相同的	xctd
 想听	xcti
 喜从天降	xctj
 相投	xctk
@@ -133505,8 +133485,6 @@ Z	vyz
 鬶	xgdi
 现代	xgdj
 循规蹈矩	xgdj
-修改代码	xgdm
-下岗多年	xgdn
 现代派	xgdp
 现代人	xgdr
 现代史	xgds
@@ -133563,7 +133541,6 @@ Z	vyz
 刑律	xglk
 珝	xgll
 香格里拉	xgll
-修改论文	xglw
 形码	xgma
 现买	xgmc
 刑满	xgmd
@@ -133597,6 +133574,7 @@ Z	vyz
 形如	xgrs
 瑆	xgrt
 刑事案	xgsa
+现世报	xgsb
 刑事	xgsf
 形式化	xgsh
 新官上任三把火	xgsh
@@ -133659,7 +133637,6 @@ Z	vyz
 现已	xgyb
 侠肝义胆	xgyd
 形音	xgyh
-修改意见	xgyj
 现役	xgyk
 现予	xgyl
 形音码	xgym
@@ -134397,7 +134374,6 @@ Z	vyz
 修定	xjdn
 修道士	xjds
 仙丹	xjdw
-先进典型	xjdx
 修道院	xjdy
 心惊胆战	xjdz
 心惊胆颤	xjdz
@@ -134409,7 +134385,6 @@ Z	vyz
 席卷而去	xjeu
 信访办	xjfb
 信奉	xjfg
-先进分子	xjfi
 信佛	xjfj
 信访局	xjfj
 信访	xjfl
@@ -134420,22 +134395,17 @@ Z	vyz
 信封	xjfu
 信服	xjfv
 信风	xjfw
-先进分子	xjfz
 削发	xjfz
 偰	xjga
 修改	xjgb
 斜杠	xjgc
 修过	xjgf
 休耕	xjgg
-修改稿	xjgg
 信鸽	xjgj
 休怪	xjgn
 侠骨	xjgo
-修改器	xjgq
-先进个人	xjgr
 仙姑	xjgs
 心肌梗死	xjgs
-修改器	xjgu
 闲逛	xjgw
 信	xjh
 仙鹤草	xjhc
@@ -134526,11 +134496,9 @@ Z	vyz
 斜拉	xjlk
 翕	xjll
 修炼	xjlm
-先进理念	xjln
 信里	xjlo
 仙灵脾	xjlp
 斜拉桥	xjlq
-现金流入	xjlr
 斜拉桥	xjlu
 信陵	xjlv
 叙利亚	xjly
@@ -134605,7 +134573,6 @@ Z	vyz
 阋	xjrw
 仙人掌	xjrz
 偕	xjs
-先进设备	xjsb
 叙述	xjsc
 休斯敦	xjsd
 休斯顿	xjsd
@@ -134613,15 +134580,12 @@ Z	vyz
 闲散	xjsf
 像素	xjsg
 休市	xjsh
-现金收支	xjsi
 信使	xjsj
-先进事迹	xjsj
 信手	xjsk
 肖申克	xjsk
 斜视	xjsl
 信守	xjsn
 信史	xjso
-先进水平	xjsp
 闲时	xjsr
 闲适	xjst
 修士	xjsu
@@ -134629,7 +134593,6 @@ Z	vyz
 修缮	xjsx
 信上	xjsy
 相距甚远	xjsy
-现金收支	xjsz
 仙桃	xjtc
 消极态度	xjtd
 休庭	xjth
@@ -134688,7 +134651,6 @@ Z	vyz
 献计献策	xjxc
 休闲服	xjxf
 修鞋	xjxf
-现金消费	xjxf
 信息港	xjxg
 信息化	xjxh
 休闲装	xjxi
@@ -134719,7 +134681,6 @@ Z	vyz
 虚惊一场	xjyc
 休渔	xjyd
 信用度	xjyd
-现金余额	xjye
 休要	xjyf
 闲云	xjyg
 闲言	xjyh
@@ -137175,7 +137136,7 @@ Z	vyz
 卸车	xtcs
 香车	xtcs
 选重	xtct
-选场	xtcu
+秀场	xtcu
 香肠	xtcv
 选错	xtcy
 先达	xtda
@@ -137236,7 +137197,6 @@ Z	vyz
 选在	xtia
 悉听尊便	xtib
 稀粥	xtib
-相同之处	xtic
 香泽	xtid
 熏蒸	xtie
 卸载	xtif
@@ -137282,7 +137242,6 @@ Z	vyz
 选辑	xtjs
 筱	xtjt
 选举权	xtju
-相同价位	xtjw
 先进性	xtjx
 香精油	xtjy
 选矿	xtka
@@ -137477,7 +137436,6 @@ Z	vyz
 选在	xtza
 悉听尊便	xtzb
 稀粥	xtzb
-相同之处	xtzc
 香泽	xtzd
 熏蒸	xtze
 卸载	xtzf
