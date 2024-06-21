@@ -1040,6 +1040,9 @@ CPU	cpu
 不安好心	bahx
 不在	baia
 布展	baib
+不知道	baid
+不咋地	baid
+不值得	baid
 殡葬	baie
 不再	baif
 不专	baig
@@ -1265,6 +1268,8 @@ CPU	cpu
 不在	baza
 布展	bazb
 不知道	bazd
+不咋地	bazd
+不值得	bazd
 殡葬	baze
 不再	bazf
 不专	bazg
@@ -7749,11 +7754,12 @@ bilibili	blbl
 寸草春晖	ccch
 查抄	ccck
 参差错落	cccl
-查出来	cccl
+查重率	cccl
 橱窗	cccn
 楂	cccr
 查车	cccs
 楚辞	ccct
+查重	ccct
 查出	cccv
 查处	cccw
 查错	cccy
@@ -23904,6 +23910,7 @@ bilibili	blbl
 飞禽走兽	fqis
 反制	fqit
 风气之先	fqix
+反作用	fqiy
 反间谍	fqjd
 反击	fqjg
 返京	fqjh
@@ -24022,6 +24029,7 @@ bilibili	blbl
 飞禽走兽	fqzs
 反制	fqzt
 风气之先	fqzx
+反作用	fqzy
 奋起直追	fqzz
 阜	fr
 鼢	fr
@@ -27827,13 +27835,12 @@ bilibili	blbl
 故作深沉	gisc
 跟谁	gisl
 个中三昧	gism
-工资水平	gisp
 骨质疏松	giss
 跟随	gisv
 跟上	gisy
 跟头	gitn
 跟帖	gito
-公众投票	gitp
+跪舔	gitt
 狗嘴吐不出象牙	gity
 剐	giu
 跪求	giuf
@@ -27885,7 +27892,6 @@ bilibili	blbl
 光斑	gjbg
 国将不国	gjbg
 光变	gjbh
-国际博览会	gjbh
 个别	gjbi
 光膀子	gjbi
 感激不尽	gjbj
@@ -27893,13 +27899,11 @@ bilibili	blbl
 恭敬不如从命	gjbm
 光膀子	gjbz
 估测	gjcd
-国际采购	gjcg
 冠军称号	gjch
 个唱	gjci
 光储	gjcj
 供词	gjcl
 光彩	gjcm
-国际裁判	gjcp
 古籍出版社	gjcs
 故技重施	gjcs
 供称	gjct
@@ -33578,7 +33582,7 @@ GPRS	gprs
 化妆	hjih
 合资	hjih
 合作	hjij
-化作	hjij
+化妆间	hjij
 会找	hjik
 会诊	hjil
 含着	hjim
@@ -33869,8 +33873,8 @@ GPRS	gprs
 合奏	hjzg
 化妆	hjzh
 合资	hjzh
-化作	hjzj
 合作	hjzj
+化妆间	hjzj
 会找	hjzk
 会诊	hjzl
 含着	hjzm
@@ -37940,6 +37944,7 @@ GPRS	gprs
 滞纳金	idnj
 最大努力	idnl
 渣男	idno
+渣女	idns
 滞纳	idnx
 浊	ido
 浊	idok
@@ -38543,6 +38548,7 @@ GPRS	gprs
 整日	ifrr
 执法如山	ifrs
 正如	ifrs
+真人秀	ifrx
 振奋人心	ifrx
 载	ifs
 直爽	ifsa
@@ -42091,8 +42097,8 @@ GPRS	gprs
 中联部	iolb
 助力车	iolc
 中流	iold
-中立国	iolg
 助理	iolg
+中立国	iolg
 中立	iolh
 崭露	iolh
 中路	ioli
@@ -43856,6 +43862,7 @@ GPRS	gprs
 租用	ityw
 制约	ityx
 重要性	ityx
+肢体语言	ityy
 长在	itza
 制造厂	itzc
 种植	itzc
@@ -47681,7 +47688,7 @@ GPRS	gprs
 就餐	jhcy
 决策者	jhcz
 浆	jhd
-竟达	jhda
+交大	jhda
 竞渡	jhdd
 夹带	jhdf
 交底	jhdh
@@ -58736,15 +58743,15 @@ GPRS	gprs
 老汤	lftd
 老头儿	lfte
 聊天	lftg
-两天	lftg
 老天	lftg
+两天	lftg
 老同志	lfti
 老头子	lfti
 聆听	lfti
 联体	lftj
 联通	lftl
-两头	lftn
 老头	lftn
+两头	lftn
 老太婆	lftp
 聊天室	lfts
 老太太	lftt
@@ -67824,6 +67831,7 @@ GPRS	gprs
 弄不明白	nbmb
 内部矛盾	nbmd
 那么	nbme
+尼玛	nbmg
 那麽	nbmh
 那么	nbmw
 尿尿	nbnb
@@ -67981,6 +67989,7 @@ GPRS	gprs
 浓密	ndmn
 浓墨	ndmo
 浓眉	ndmv
+泥马	ndmx
 泞	ndn
 男盗女娼	ndnc
 泥泞	ndnd
@@ -69451,8 +69460,8 @@ GPRS	gprs
 男主	noih
 男装	noih
 男足	noii
-内债	noij
 男主角	noij
+内债	noij
 内证	noil
 内在美	noim
 内宅	noin
@@ -69619,8 +69628,8 @@ GPRS	gprs
 男主	nozh
 男装	nozh
 男足	nozi
-内债	nozj
 男主角	nozj
+内债	nozj
 内证	nozl
 内在美	nozm
 内宅	nozn
@@ -69732,6 +69741,7 @@ GPRS	gprs
 暖温带	nrwd
 懦弱无能	nrwn
 暖胃	nrwo
+暖心	nrxl
 衄血	nrxr
 耐人寻味	nrxw
 暖意	nryh
@@ -108562,6 +108572,7 @@ QQ密码	qqmm
 树墩	scdu
 四川大学	scdx
 虱	sce
+恃宠而骄	scej
 虱	sceo
 椹	scf
 椹	scfc
@@ -108689,9 +108700,10 @@ QQ密码	qqmm
 松树	scsc
 树梢	scsc
 三从四德	scsd
-山重水复	scsf
 松散	scsf
+山重水复	scsf
 栻	scsf
+恃宠生骄	scsj
 松手	scsk
 山重水复疑无路	scsl
 述说	scsl
@@ -111870,8 +111882,8 @@ QQ密码	qqmm
 顺理成章	slci
 双侧	slcj
 视传	slcj
-诗抄	slck
 说出口	slck
+诗抄	slck
 诗词	slcl
 说出来	slcl
 神采	slcm
@@ -118093,11 +118105,10 @@ QQ密码	qqmm
 天授	tgsk
 天神	tgsl
 天数	tgsm
-天山	tgso
 泰山	tgso
-天时	tgsr
-提高收入	tgsr
+天山	tgso
 替身	tgsr
+天时	tgsr
 泰式	tgss
 天生	tgst
 同归殊途	tgst
@@ -127738,6 +127749,7 @@ Z	vyz
 无耻谰言	wcly
 望尘莫及	wcmj
 未成年人	wcnr
+卧槽泥马	wcnm
 椀	wcnw
 维持平衡	wcph
 无出其右者	wcqi
@@ -128067,12 +128079,12 @@ Z	vyz
 五笔	wfbt
 万分抱歉	wfbu
 五百万	wfbw
-五笔型	wfbx
 五边形	wfbx
 万夫不当之勇	wfby
 吾辈	wfby
 五成	wfca
 五层	wfcb
+卧槽	wfcc
 卧蚕	wfcg
 卧床	wfch
 五常	wfcj
@@ -131568,9 +131580,9 @@ Z	vyz
 外缘	wwyx
 外语系	wwyx
 微微一笑	wwyx
-乌乌泱泱	wwyy
-乌油油	wwyy
 乌泱泱	wwyy
+乌油油	wwyy
+乌乌泱泱	wwyy
 乌鸦嘴	wwyz
 务	wwz
 外在	wwza
@@ -133749,8 +133761,8 @@ Z	vyz
 絜	xgxp
 下个星期	xgxq
 下个星期	xgxu
-形象	xgxw
 现象	xgxw
+形象	xgxw
 现象学	xgxx
 狭管效应	xgxy
 现有	xgya
@@ -145085,6 +145097,7 @@ Z	vyz
 影视	yrsl
 易受	yrsm
 延髓	yrso
+影视圈	yrsq
 一日三秋	yrsq
 以弱胜强	yrsq
 延时	yrsr
@@ -145093,6 +145106,7 @@ Z	vyz
 鼹鼠	yrsr
 引人深思	yrss
 粤	yrss
+影视圈	yrsu
 一日三秋	yrsu
 以弱胜强	yrsu
 哑然失笑	yrsx
@@ -146790,7 +146804,6 @@ Z	vyz
 印刷术	ywss
 印刷体	ywst
 一无所求	ywsu
-怨声	ywsu
 鱼水情	ywsu
 用膳	ywsv
 用色	ywsw
@@ -146806,9 +146819,9 @@ Z	vyz
 犹太	ywta
 鱼汤	ywtd
 猿啼	ywti
+用途	ywtj
 印堂	ywtj
 犹太教	ywtj
-用途	ywtj
 饫	ywtk
 印台	ywtl
 饴糖	ywtm
@@ -148593,6 +148606,7 @@ Z	vyz
 滞纳金	zdnj
 最大努力	zdnl
 渣男	zdno
+渣女	zdns
 滞纳	zdnx
 浊	zdo
 浊	zdok
@@ -149216,6 +149230,7 @@ Z	vyz
 整日	zfrr
 执法如山	zfrs
 正如	zfrs
+真人秀	zfrx
 振奋人心	zfrx
 载	zfs
 整死	zfsa
@@ -152622,8 +152637,8 @@ Z	vyz
 中联部	zolb
 助力车	zolc
 中流	zold
-中立国	zolg
 助理	zolg
+中立国	zolg
 中立	zolh
 崭露	zolh
 中路	zoli
@@ -154395,6 +154410,7 @@ Z	vyz
 租用	ztyw
 制约	ztyx
 重要性	ztyx
+肢体语言	ztyy
 朱元璋	ztyz
 长一智	ztyz
 长在	ztza
