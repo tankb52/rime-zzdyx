@@ -1,0 +1,6 @@
+.
+build/
+pinyin_simp.userdb/
+sync/
+rsync_exclude.txt
+zzdyx_userdict.txt

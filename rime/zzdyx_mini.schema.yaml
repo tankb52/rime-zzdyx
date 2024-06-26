@@ -2,8 +2,8 @@
 # encoding: utf-8
 
 schema:
-  schema_id: zzdyx_mod
-  name: "哲哲豆音形·MOD版"
+  schema_id: zzdyx_mini
+  name: "哲哲豆音形·mini版"
   version: "1.0"
   author:
     - 哲哲豆音形发明人：哲哲豆
@@ -63,8 +63,8 @@ speller:
   #max_code_length: 4  # 四碼頂字上屏
 
 translator:
-  dictionary: zzdyx_mod
-  prism: zzdyx_mod
+  dictionary: zzdyx_mini
+  prism: zzdyx_mini
   enable_charset_filter: false
   enable_encoder: false
   enable_completion: true

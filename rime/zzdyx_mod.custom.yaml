@@ -1,7 +1,7 @@
 ﻿patch:
   switches:
     - name: show_emoji
-      reset: 0
+      reset: 1
       states: [ "😐", "😊" ]
     - name: ascii_mode
       reset: 0
@@ -33,7 +33,6 @@
   engine/filters:                #滤镜，每一项在下面单独设定功能
     - simplifier
     - "simplifier@emoji_cn"
-    #- "lua_filter@emoji_reduce_filter"
     - uniquifier    #去重，需要放在列表最后面，且对emoji无效
 
 #opencc功能：emoji表情
@@ -41,12 +40,6 @@
     opencc_config: emoji.json
     option_name: show_emoji
     tags: abc
-    tag: emoji
-    tips: all
-
-  #emoji_reduce:                       # Emoji 降频到第 idx 个位置
-    #idx: 4
-
 
 #opencc功能：简繁转换
   simplifier:
