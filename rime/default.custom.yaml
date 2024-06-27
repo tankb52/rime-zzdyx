@@ -6,7 +6,7 @@ customization:
   rime_version: 1.8.5
 patch:
   schema_list:
-    - {schema: pinyin_simp}
+    - {schema: xhup}
     - {schema: zzdyx_mod}
     - {schema: zzdyx_mop}
     - {schema: zzdyx_perfect}
