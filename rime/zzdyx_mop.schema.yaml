@@ -2,8 +2,8 @@
 # encoding: utf-8
 
 schema:
-  schema_id: zzdyx_mod
-  name: "哲哲豆音形·mod版"
+  schema_id: zzdyx_mop
+  name: "哲哲豆音形·MOP版"
   version: "1.0"
   author:
     - 哲哲豆音形发明人：哲哲豆
@@ -63,8 +63,8 @@ speller:
   #max_code_length: 4  # 四碼頂字上屏
 
 translator:
-  dictionary: zzdyx_mod
-  prism: zzdyx_mod
+  dictionary: zzdyx_mop
+  prism: zzdyx_mop
   enable_charset_filter: false
   enable_encoder: false
   enable_completion: true
@@ -109,18 +109,7 @@ punctuator:
     "@" : "@"
     "#" : "#"
   half_shape:
-    '@':
-      - '@'
-      - '@foxmail.com'
-      - '@outlook.com'
-      - '@hotmail.com'
-      - '@gmail.com'
-      - '@126.com'
-      - '@qq.com'
-      - '@sina.com'
-      - '@163.com'
-      - '@139.com'
-      - '@sohu.com'
+    "@" : "@"
     "#" : "#"
 
 # 快捷键

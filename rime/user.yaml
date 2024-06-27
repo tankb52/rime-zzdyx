@@ -1,15 +1,6 @@
 var:
-  last_build_time: 1719424318
-  option:
-    ascii_punct: false
-    full_shape: false
-    simplification: false
-  previously_selected_schema: zzdyx_mini
+  last_build_time: 1719461306
+  previously_selected_schema: zzdyx_mod
   schema_access_time:
-    double_pinyin_flypy: 1714512916
-    pinyin_simp: 1714660943
-    zzdyx_mini: 1719424322
-    zzdyx_mod: 1719423618
-    zzdyx_mofast: 1715064968
-    zzdyx_perfect: 1719126223
-    zzdyx_single: 1718965765
+    zzdyx_mod: 1719461309
+    zzdyx_mop: 1719461120

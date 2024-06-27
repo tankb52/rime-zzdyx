@@ -139,6 +139,7 @@ recognizer:
 schema_list:
   - schema: pinyin_simp
   - schema: zzdyx_mod
+  - schema: zzdyx_mop
   - schema: zzdyx_perfect
   - schema: zzdyx_single
 switcher:
