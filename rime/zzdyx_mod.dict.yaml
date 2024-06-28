@@ -11405,8 +11405,8 @@ bilibili	blbl
 财务室	cows
 财物	cowt
 崇文区	cowu
-眵	coww
 财务	coww
+眵	coww
 畅想	coxc
 串巷	coxf
 畅享	coxh
@@ -33835,6 +33835,7 @@ GPRS	gprs
 何用	hjyw
 荒郊野外	hjyw
 化验	hjyx
+合约	hjyx
 化缘	hjyx
 化验员	hjyy
 货运站	hjyz
@@ -42814,6 +42815,7 @@ GPRS	gprs
 阵容强大	irud
 追求	iruf
 早期	iruf
+自取	iruf
 自弃	iruh
 最全	iruj
 自谦	irul
@@ -103458,10 +103460,8 @@ GPRS	gprs
 清清白白	qqbb
 千奇百怪	qqbg
 崎岖不平	qqbp
-前期部署	qqbs
 嘁嘁喳喳	qqcc
 清清楚楚	qqcc
-前期策划	qqch
 妻妾成群	qqcq
 颀长	qqct
 全权代表	qqdb
@@ -104392,7 +104392,6 @@ QQ密码	qqmm
 起爆	qubm
 崎岖不平	qubp
 起兵	qubr
-前期部署	qubs
 却不是	qubs
 却比	qubs
 起笔	qubt
@@ -104404,7 +104403,6 @@ QQ密码	qqmm
 嘁嘁喳喳	qucc
 清清楚楚	qucc
 起草	quce
-前期策划	quch
 起床	quch
 起床号	quch
 去吃	quci
@@ -111888,7 +111886,6 @@ QQ密码	qqmm
 扫落马下	slmx
 神秘园	slmy
 说那	slnb
-手里拿着	slni
 神农氏	slni
 桑拿	slnj
 神农架	slnj
@@ -111898,7 +111895,6 @@ QQ密码	qqmm
 神农氏	slns
 社牛	slnt
 桑拿浴	slny
-手里拿着	slnz
 神农氏	slnz
 神	slo
 视	sloc
@@ -111928,11 +111924,10 @@ QQ密码	qqmm
 衫	slqe
 诉求	slqf
 双亲	slqh
-圣乔治	slqi
 神器	slqi
-双球菌	slqj
-神阙	slqj
+圣乔治	slqi
 身临其境	slqj
+双球菌	slqj
 诉	slqk
 神祇	slql
 双拳	slqm
@@ -111945,16 +111940,16 @@ QQ密码	qqmm
 神气	slqt
 识趣	slqu
 双曲线	slqx
-溯流穷源	slqy
 设卡	slqy
+溯流穷源	slqy
 圣乔治	slqz
 双人床	slrc
 桑葚儿	slre
 设若	slre
+诗人	slrj
+圣人	slrj
 双人	slrj
 双刃剑	slrj
-圣人	slrj
-诗人	slrj
 禅让	slrl
 双乳	slrm
 双刃	slrn
@@ -111968,9 +111963,9 @@ QQ密码	qqmm
 生离死别	slsb
 桑树	slsc
 水落石出	slsc
-三联书店	slsd
-双声道	slsd
 试水	slsd
+双声道	slsd
+三联书店	slsd
 桑葚	slse
 神速	slsf
 诉讼法	slsf
@@ -111979,10 +111974,8 @@ QQ密码	qqmm
 设施	slsh
 说实话	slsh
 说老实话	slsh
-圣僧	slsj
-神伤	slsj
 神似	slsj
-耸了耸肩	slsj
+圣僧	slsj
 视神经	slsj
 双手	slsk
 试试看	slsk
@@ -112038,11 +112031,10 @@ QQ密码	qqmm
 诉求	sluf
 诗	sluf
 双亲	sluh
-圣乔治	slui
 神器	slui
-双球菌	sluj
-神阙	sluj
+圣乔治	slui
 身临其境	sluj
+双球菌	sluj
 神祇	slul
 双拳	slum
 神情	slun
@@ -112059,9 +112051,9 @@ QQ密码	qqmm
 神威	slwa
 神武	slwg
 诗文	slwh
-始料未及	slwj
-设问	slwj
 试问	slwj
+设问	slwj
+始料未及	slwj
 神往	slwk
 设	slwl
 视为	slwm
@@ -112076,13 +112068,8 @@ QQ密码	qqmm
 设想	slxc
 识相	slxc
 试想	slxc
-谁想	slxc
 双薪	slxe
 扇形	slxg
-实力雄厚	slxh
-神效	slxh
-说闲话	slxh
-双响	slxi
 神仙	slxj
 试行	slxk
 试戏	slxl
@@ -125954,7 +125941,6 @@ QQ密码	qqmm
 墙边	uubn
 崎岖不平	uubp
 起兵	uubr
-前期部署	uubs
 却不是	uubs
 却比	uubs
 起笔	uubt
@@ -125966,7 +125952,6 @@ QQ密码	qqmm
 嘁嘁喳喳	uucc
 清清楚楚	uucc
 起草	uuce
-前期策划	uuch
 起床	uuch
 起床号	uuch
 去吃	uuci
@@ -145866,6 +145851,7 @@ Z	vyz
 腰斩	yvis
 月租	yvit
 臆造	yvit
+院长	yvit
 胭脂	yviv
 臃肿	yviv
 月终	yvix
@@ -146113,6 +146099,7 @@ Z	vyz
 腰斩	yvzs
 月租	yvzt
 臆造	yvzt
+院长	yvzt
 胭脂	yvzv
 臃肿	yvzv
 院子	yvzv
@@ -152929,6 +152916,7 @@ Z	vyz
 阵容强大	zrqd
 追求	zrqf
 早期	zrqf
+自取	zrqf
 自弃	zrqh
 最全	zrqj
 自谦	zrql
