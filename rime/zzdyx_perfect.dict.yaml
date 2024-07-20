@@ -2,7 +2,7 @@
 # encoding:utf-8
 ---
 name: zzdyx_perfect
-version: "20240617"
+version: "20240715"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -6637,7 +6637,7 @@ ATP	atp
 焙烤	bmkm
 半空	bmkn
 半颗	bmko
-八块	bmku
+爆款	bmku
 憋	bml
 并拢	bml
 爆裂	bml
@@ -8679,9 +8679,9 @@ ATP	atp
 百闻不如一见	bwbj
 包办	bwbn
 备办	bwbn
-包包	bwbw
 饽饽	bwbw
 不闻不问	bwbw
+包包	bwbw
 包办	bwbz
 备不住	bwbz
 包包子	bwbz
@@ -9266,6 +9266,7 @@ ATP	atp
 北部	bybh
 不愠不火	bybh
 背部	bybh
+钵钵鸡	bybj
 不远不近	bybj
 步兵旅	bybl
 彪炳	bybm
@@ -9312,6 +9313,7 @@ ATP	atp
 背地里	bydl
 毕业典礼	bydl
 背对	bydl
+步道	bydm
 北斗	bydn
 悲悼	bydn
 北道区	bydq
@@ -9402,6 +9404,7 @@ ATP	atp
 不易之论	byil
 背着	byim
 不言自明	byim
+背债人	byir
 毕业证书	byis
 背着手	byis
 北至	byis
@@ -9656,6 +9659,7 @@ ATP	atp
 不易之论	byzl
 背着	byzm
 不言自明	byzm
+背债人	byzr
 毕业证书	byzs
 背着手	byzs
 北至	byzs
@@ -10314,6 +10318,7 @@ ATP	atp
 磁效应	caxy
 成衣	cay
 存有	caya
+成渝	cayd
 厨艺	caye
 成员国	cayg
 成瘾	cayh
@@ -18159,6 +18164,9 @@ ATP	atp
 成效显著	cxxi
 巢穴	cxxn
 持续下去	cxxq
+纯血	cxxr
+从下向上	cxxs
+纯小数	cxxs
 持续下去	cxxu
 成效显著	cxxz
 绰	cxy
@@ -19072,8 +19080,8 @@ ATP	atp
 大块	daku
 大孔	dakv
 磴口县	dakx
-达卡	daky
 大卡	daky
+达卡	daky
 殆	dal
 碉楼	dal
 大路	dal
@@ -19184,6 +19192,7 @@ ATP	atp
 大盘股	dapg
 大排行	daph
 大碰撞	dapi
+大盘鸡	dapj
 大批	dapk
 大排	dapk
 大批量	dapl
@@ -19266,6 +19275,7 @@ ATP	atp
 大三	dasg
 大傻子	dasi
 大使	dasj
+大数据	dasj
 大势	dask
 大手	dask
 大神	dasl
@@ -20467,11 +20477,13 @@ ATP	atp
 顶盖	dfgm
 都怪	dfgn
 带给	dfgx
+都会	dfh
 都还	dfha
 大发横财	dfhc
 戴花	dfhe
 丁亥	dfhh
 洞房花烛	dfhi
+带货	dfhj
 都会	dfhj
 都很	dfhk
 都护	dfhk
@@ -23493,6 +23505,7 @@ ATP	atp
 提溜算卦	dlsg
 订书机	dlsj
 对手	dlsk
+登山扣	dlsk
 独立思考	dlsk
 对视	dlsl
 读诗	dlsl
@@ -31238,9 +31251,11 @@ ATP	atp
 分兵	fmbr
 粉白	fmbr
 锋芒逼人	fmbr
+分包商	fmbs
 粉笔	fmbt
 分布图	fmbt
 分不清	fmbu
+分包	fmbw
 粉饼	fmbw
 父辈	fmby
 翻白眼	fmby
@@ -31548,6 +31563,7 @@ ATP	atp
 分球	fmqg
 父亲	fmqh
 斧	fmqi
+番茄酱	fmqj
 烦请	fmql
 风靡全球	fmqq
 分区	fmqs
@@ -31636,6 +31652,8 @@ ATP	atp
 粪青	fmug
 分球	fmug
 父亲	fmuh
+番茄酱	fmuj
+番茄酱	fmuj
 烦请	fmul
 分区	fmus
 翻墙	fmuu
@@ -32354,6 +32372,7 @@ ATP	atp
 蜂鸣器	fomq
 蜂鸣器	fomu
 蜉	fomv
+赋能	fonl
 蜂鸟	fonw
 赗	foo
 赗	fooo
@@ -38012,6 +38031,7 @@ GDP	gdp
 高新区	ghxu
 裹胁	ghxv
 隔海相望	ghxw
+赓续	ghxx
 恭贺新禧	ghxx
 光辉形象	ghxx
 高血压	ghxy
@@ -43965,8 +43985,8 @@ GTP	gtp
 滑动摩擦	hdmc
 浩渺	hdmd
 浩淼	hdmd
-汉墓	hdme
 鸿蒙	hdme
+汉墓	hdme
 海马回	hdmh
 洪魔	hdmh
 汉民族	hdmi
@@ -46126,6 +46146,7 @@ GTP	gtp
 货柜	hjgc
 化工	hjgf
 何故	hjgf
+合规	hjgg
 何干	hjgg
 环境规划	hjgh
 合格证	hjgi
@@ -46934,6 +46955,7 @@ GTP	gtp
 徽	hkot
 壶口瀑布	hkpb
 徽派	hkpd
+护坡堤	hkpd
 衡平	hkph
 挥拍	hkpk
 很怕	hkpn
@@ -51241,6 +51263,7 @@ GTP	gtp
 张店区	ibd
 张大	ibda
 找不到北	ibdb
+直播带货	ibdh
 粥店	ibdh
 资不抵债	ibdi
 张灯	ibdm
@@ -55878,6 +55901,7 @@ GTP	gtp
 抓好	ikhs
 撞坏	ikhu
 指挥权	ikhu
+指虎	ikhy
 指挥员	ikhy
 召开会议	ikhy
 捉	iki
@@ -56240,6 +56264,7 @@ GTP	gtp
 执行	ikxk
 撰写	ikxl
 扎心	ikxl
+执行力	ikxl
 折现率	ikxl
 征询	ikxl
 摘心	ikxl
@@ -57966,6 +57991,7 @@ GTP	gtp
 中国话	iogh
 中高级	iogj
 中观	iogl
+中国梦	iogm
 赃官	iogn
 中国	iogo
 忠骨	iogo
@@ -60379,6 +60405,7 @@ GTP	gtp
 怎讲	itjl
 专题节目	itjm
 知觉	itjn
+智驾	itjn
 租界	itjo
 乍见	itjo
 重金属	itjs
@@ -60388,12 +60415,15 @@ GTP	gtp
 主体间性	itjx
 租金	itjy
 重金	itjy
+智驾	itjz
 朱	itk
+智库	itk
 重扣	itk
 自讨苦吃	itkc
 怎可	itkf
 整体开发	itkf
 篆刻	itkh
+智库	itkh
 竺可桢	itki
 乍看	itkk
 重扣	itkk
@@ -61910,6 +61940,7 @@ GTP	gtp
 绽出	ixcv
 织出	ixcv
 纸钞	ixcy
+战新产业	ixcy
 真心诚意	ixcy
 驻点	ixd
 终端机	ixd
@@ -62300,7 +62331,7 @@ GTP	gtp
 纸鸢	ixys
 造型艺术	ixys
 纸业	ixyu
-中学语文	ixyw
+战新业务	ixyw
 纵坐标	ixz
 组织者	ixz
 组织胺	ixza
@@ -62917,6 +62948,7 @@ GTP	gtp
 锥形	iyxg
 铸型	iyxg
 针形	iyxg
+战新	iyxh
 自由选择	iyxi
 铸像	iyxj
 钻心	iyxl
@@ -64433,6 +64465,7 @@ GTP	gtp
 酒醉	jdif
 就地正法	jdif
 濈	jdif
+江浙沪	jdih
 结缔组织	jdii
 经典著作	jdii
 基地组织	jdii
@@ -64773,6 +64806,7 @@ GTP	gtp
 监督制度	jdzd
 酒醉	jdzf
 就地正法	jdzf
+江浙沪	jdzh
 泇	jdzi
 家道中落	jdzl
 绝对真理	jdzl
@@ -65532,6 +65566,7 @@ GTP	gtp
 教员	jfyi
 教研组	jfyi
 基因组	jfyi
+聚一聚	jfyj
 教育局	jfyj
 教育界	jfyj
 教育家	jfyj
@@ -66332,6 +66367,7 @@ GTP	gtp
 就叫	jhji
 交集	jhjj
 减价	jhjj
+京津冀	jhjj
 竞价	jhjj
 计划经济	jhjj
 交接	jhjk
@@ -67324,7 +67360,7 @@ GTP	gtp
 今儿	jjew
 见机而作	jjez
 借	jjf
-健腹轮	jjf
+伎	jjf
 解决方案	jjfa
 剑法	jjfd
 经济发达	jjfd
@@ -67333,8 +67369,8 @@ GTP	gtp
 借方	jjfh
 经济发展	jjfi
 积极分子	jjfi
-伎	jjfl
 健腹轮	jjfl
+伎	jjfl
 经济发展战略	jjfl
 假发	jjfn
 借机发难	jjfn
@@ -69582,6 +69618,7 @@ GTP	gtp
 剪下	jmxf
 居民消费	jmxf
 紧密相关	jmxg
+精细化	jmxh
 兼修	jmxj
 精选集	jmxj
 精修	jmxj
@@ -69609,6 +69646,7 @@ GTP	gtp
 救民于水火	jmyh
 兼优	jmyj
 卷扬	jmyk
+精益	jmym
 卷烟	jmym
 精义	jmym
 精密仪器	jmyq
@@ -69871,6 +69909,7 @@ GTP	gtp
 架子	jniv
 举子	jniv
 家子	jniv
+加载项	jnix
 举止	jniy
 蹇	jniy
 家居	jnj
@@ -70303,6 +70342,7 @@ GTP	gtp
 架子	jnzv
 举子	jnzv
 家子	jnzv
+加载项	jnzx
 举止	jnzy
 家长制	jnzz
 见	jo
@@ -72456,6 +72496,7 @@ GTP	gtp
 胶板	jvbc
 脚本	jvbf
 腒	jvbf
+脚脖子	jvbi
 祭拜	jvbk
 腱	jvbl
 脚边	jvbn
@@ -72467,6 +72508,7 @@ GTP	gtp
 脚步	jvby
 脚背	jvby
 脚边	jvbz
+脚脖子	jvbz
 阶层	jvcb
 脚踩	jvci
 脚穿	jvcn
@@ -73996,6 +74038,7 @@ GTP	gtp
 经纬网	jxww
 经纬	jxwx
 经纬线	jxwx
+经纬仪	jxwy
 寄希望于	jxwy
 巨细无遗	jxwy
 锦绣文章	jxwz
@@ -74222,6 +74265,7 @@ GTP	gtp
 金光	jygj
 金冠	jygl
 经营管理	jygl
+精益管理	jygl
 经营规模	jygm
 金刚	jygo
 金果	jygo
@@ -74444,6 +74488,7 @@ GTP	gtp
 金丝雀	jys
 金石	jysa
 金属	jysb
+精益生产	jysc
 钜	jysc
 金沙	jysd
 决一胜负	jysf
@@ -74593,6 +74638,7 @@ GTP	gtp
 锦衣夜行	jyyx
 金阳县	jyyx
 金银	jyyy
+精益运营	jyyy
 龃龉	jyyy
 金	jyyy
 金州区	jyz
@@ -74774,6 +74820,7 @@ GTP	gtp
 驾照	jzir
 加重	jzit
 架子	jziv
+加载项	jzix
 加剧	jzjb
 驾机	jzjc
 加减挡	jzjd
@@ -75016,6 +75063,7 @@ GTP	gtp
 就在这时	jzzs
 加重	jzzt
 架子	jzzv
+加载项	jzzx
 急转直下	jzzx
 君主专制	jzzz
 可	k
@@ -76176,6 +76224,7 @@ GTP	gtp
 开花期	kghq
 开户人	kghr
 开好	kghs
+开合跳	kght
 开花期	kghu
 开化县	kghx
 开	kgi
@@ -83411,6 +83460,7 @@ GTP	gtp
 赁屋	ljwb
 鸰	ljwd
 例文	ljwh
+领悟力	ljwl
 领悟	ljwn
 领舞	ljwt
 例外	ljww
@@ -83795,6 +83845,7 @@ GTP	gtp
 良臣	llcf
 良才	llcf
 论丛	llcj
+裸车	llcs
 良策	llct
 论处	llcw
 礼单	lld
@@ -84973,6 +85024,7 @@ GTP	gtp
 量化	lrhj
 令人害怕	lrhp
 晾	lrhp
+驴肉火烧	lrhs
 令人回味	lrhw
 令人怀疑	lrhy
 量在	lria
@@ -86338,6 +86390,7 @@ GTP	gtp
 鳓	lwfz
 留发	lwfz
 乐果	lwg
+乐高	lwgh
 留个	lwgj
 螺纹钢筋	lwgj
 乐观	lwgl
@@ -90734,6 +90787,7 @@ GTP	gtp
 寞	mner
 母女二人	mner
 密封圈	mnf
+密封件	mnfj
 蜜蜂	mnfo
 卖弄风情	mnfq
 密封圈	mnfq
@@ -92371,8 +92425,8 @@ GTP	gtp
 名门	mwmj
 没完没了	mwml
 名目	mwmo
-猛犸	mwmw
 馍馍	mwmw
+猛犸	mwmw
 名马	mwmx
 勉	mwn
 勉	mwnn
@@ -139591,6 +139645,7 @@ QQ密码	qqmm
 水平上	sdps
 沙坡头	sdpt
 水平线	sdpx
+水平仪	sdpy
 水瓶座	sdpz
 水汽	sdq
 水气	sdq
@@ -142965,6 +143020,7 @@ QQ密码	qqmm
 掸邦	skbg
 手部	skbh
 深刻变化	skbh
+手脖子	skbi
 手把件	skbj
 搜捕	skbk
 扫把	skbk
@@ -142979,6 +143035,7 @@ QQ密码	qqmm
 时刻不忘	skbw
 手背	skby
 手边	skbz
+手脖子	skbz
 手持	skc
 手抄	skc
 手戳	skc
@@ -143065,6 +143122,7 @@ QQ密码	qqmm
 手工	skgf
 拭干	skgg
 撒狗粮	skgl
+手擀面	skgm
 手骨	skgo
 手稿	skgt
 摔跟头	skgt
@@ -143304,6 +143362,7 @@ QQ密码	qqmm
 手术	sksc
 摄氏度	sksd
 手术刀	sksd
+双卡双待	sksd
 逝水	sksd
 搜索	sksf
 逝世	sksf
@@ -143637,6 +143696,7 @@ QQ密码	qqmm
 圣餐	slcy
 试错	slcy
 顺理成章	slcz
+双打	sld
 视点	sld
 诵读	sld
 圣诞夜	sld
@@ -144851,6 +144911,7 @@ QQ密码	qqmm
 烧砖	smia
 首张	smib
 数张	smib
+杀猪刀	smid
 生命在于运动	smid
 送葬	smie
 善哉	smif
@@ -145416,6 +145477,7 @@ QQ密码	qqmm
 烧砖	smza
 首张	smzb
 数张	smzb
+杀猪刀	smzd
 生命在于运动	smzd
 送葬	smze
 善哉	smzf
@@ -156005,6 +156067,7 @@ sp³杂化	spsh
 体弱多病	trdb
 躺倒	trdj
 躺到	trds
+躺地	trdu
 同日而语	trey
 昙	trg
 题干	trgg
@@ -167954,6 +168017,7 @@ Z	vyz
 微积分	wkjf
 挖井	wkjg
 微距	wkji
+挖掘机	wkjj
 挖掘	wkjk
 微机课	wkjk
 微机室	wkjs
@@ -168549,7 +168613,7 @@ Z	vyz
 王码五笔	wmwb
 鹟	wmwd
 为王	wmwg
-为文	wmwh
+煨弯	wmwh
 为伍	wmwj
 无门无派	wmwp
 完美无缺	wmwq
@@ -169010,6 +169074,7 @@ Z	vyz
 蚊蝇	woy
 网友	woya
 网页	woya
+网约车	woyc
 蛙泳	woyd
 网游	woyd
 胃液	woyd
@@ -169570,6 +169635,7 @@ Z	vyz
 万万	wsw
 万维网	wsw
 瓦屋	wswb
+娃娃菜	wswc
 无始无终	wswi
 无所畏惧	wswj
 万寿无疆	wswj
@@ -173941,6 +174007,7 @@ Z	vyz
 新德里	xhdl
 辛德勒	xhdl
 雪道	xhdm
+新动能	xhdn
 销魂夺魄	xhdp
 霰弹枪	xhdq
 新的	xhdr
@@ -175014,6 +175081,7 @@ Z	vyz
 闲	xjcc
 休	xjcc
 仙草	xjce
+信创	xjcj
 修持	xjck
 闲扯	xjck
 斜刺里	xjcl
@@ -176064,6 +176132,7 @@ Z	vyz
 写就	xljh
 心旌	xljh
 心间	xljj
+询价	xljj
 戏剧家	xljj
 心焦	xljj
 心理健康	xljk
@@ -177986,6 +178055,7 @@ Z	vyz
 舷	xqh
 舷号	xqhi
 性情豪爽	xqhs
+新签合同	xqht
 舷	xqhx
 须在	xqia
 需求状况	xqik
@@ -179234,6 +179304,7 @@ Z	vyz
 选修	xtxj
 先行	xtxk
 选修课	xtxk
+选项卡	xtxk
 先写	xtxl
 小偷小摸	xtxm
 选学	xtxn
@@ -179385,6 +179456,7 @@ Z	vyz
 幸好	xuhs
 喜好	xuhs
 性情豪爽	xuhs
+新签合同	xuht
 喜	xui
 埙	xui
 贤者	xuif
@@ -180191,8 +180263,9 @@ Z	vyz
 修行在个人	xxir
 细致	xxis
 线装书	xxis
-乡长	xxit
+续租	xxit
 惺惺作态	xxit
+乡长	xxit
 相形之下	xxix
 信息中心	xxix
 乡镇	xxiy
@@ -180530,8 +180603,9 @@ Z	vyz
 修行在个人	xxzr
 细致	xxzs
 线装书	xxzs
-乡长	xxzt
+续租	xxzt
 惺惺作态	xxzt
+乡长	xxzt
 相形之下	xxzx
 信息中心	xxzx
 乡镇	xxzy
@@ -181226,6 +181300,7 @@ Z	vyz
 厌倦	yajj
 硬件	yajj
 原价	yajj
+原件	yajj
 页	yajj
 有据	yajk
 右街	yajk
@@ -184003,7 +184078,7 @@ Z	vyz
 药疗	yelh
 英伦	yelj
 苡	yelj
-蓣	yelj
+么	yell
 营垒	yell
 药力	yeln
 英里	yelo
@@ -185470,6 +185545,7 @@ Z	vyz
 应在	yhia
 优惠政策	yhic
 壅滞	yhid
+鹰嘴豆	yhid
 瘀滞	yhid
 雍正	yhif
 嬴政	yhif
@@ -185951,6 +186027,7 @@ Z	vyz
 应在	yhza
 优惠政策	yhzc
 壅滞	yhzd
+鹰嘴豆	yhzd
 瘀滞	yhzd
 疡	yhze
 雍正	yhzf
@@ -187746,9 +187823,11 @@ Z	vyz
 预热	ylrk
 谀	ylrk
 又热	ylrk
+压力容器	ylrq
 翌日	ylrr
 又如	ylrs
 引狼入室	ylrs
+压力容器	ylru
 讶然	ylrv
 讶然	ylrw
 谒	ylrw
@@ -188081,6 +188160,7 @@ Z	vyz
 刈草	ymce
 圆满成功	ymcg
 养蚕	ymcg
+羊肠子	ymci
 益虫	ymco
 烟尘	ymcp
 烟囱	ymcr
@@ -188095,6 +188175,8 @@ Z	vyz
 义齿	ymcy
 烟草业	ymcy
 一名成员	ymcy
+羊肠子	ymcz
+羊肠子	ymcz
 养大	ymda
 夜幕低垂	ymdc
 欲滴	ymdd
@@ -192102,6 +192184,7 @@ Z	vyz
 印加	ywjz
 咬文嚼字	ywjz
 乐	ywk
+么	ywkk
 乐	ywkk
 依我看来	ywkl
 迎客	ywkn
@@ -193784,6 +193867,7 @@ Z	vyz
 张店区	zbd
 张大	zbda
 找不到北	zbdb
+直播带货	zbdh
 粥店	zbdh
 张灯	zbdm
 周边地区	zbdq
@@ -198171,6 +198255,7 @@ Z	vyz
 抓好	zkhs
 撞坏	zkhu
 指挥权	zkhu
+指虎	zkhy
 指挥员	zkhy
 召开会议	zkhy
 捉	zki
@@ -198531,6 +198616,8 @@ Z	vyz
 征信	zkxj
 执行	zkxk
 撰写	zkxl
+扎心	zkxl
+执行力	zkxl
 折现率	zkxl
 征询	zkxl
 摘心	zkxl
@@ -200260,6 +200347,7 @@ Z	vyz
 中国话	zogh
 中高级	zogj
 中观	zogl
+中国梦	zogm
 赃官	zogn
 中国	zogo
 忠骨	zogo
@@ -202674,6 +202762,7 @@ Z	vyz
 怎讲	ztjl
 专题节目	ztjm
 知觉	ztjn
+智驾	ztjn
 租界	ztjo
 乍见	ztjo
 重金属	ztjs
@@ -202683,12 +202772,15 @@ Z	vyz
 主体间性	ztjx
 租金	ztjy
 重金	ztjy
+智驾	ztjz
 朱	ztk
+智库	ztk
 重扣	ztk
 自讨苦吃	ztkc
 怎可	ztkf
 整体开发	ztkf
 篆刻	ztkh
+智库	ztkh
 竺可桢	ztki
 乍看	ztkk
 重扣	ztkk
@@ -204204,6 +204296,7 @@ Z	vyz
 绽出	zxcv
 织出	zxcv
 纸钞	zxcy
+战新产业	zxcy
 真心诚意	zxcy
 驻点	zxd
 终端机	zxd
@@ -204592,7 +204685,7 @@ Z	vyz
 纸鸢	zxys
 造型艺术	zxys
 纸业	zxyu
-中学语文	zxyw
+战新业务	zxyw
 纵坐标	zxz
 组织者	zxz
 组织部	zxz
@@ -205208,6 +205301,7 @@ Z	vyz
 锥形	zyxg
 铸型	zyxg
 针形	zyxg
+战新	zyxh
 铸像	zyxj
 钻心	zyxl
 锥心	zyxl
