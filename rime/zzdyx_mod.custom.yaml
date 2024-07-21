@@ -47,6 +47,9 @@
   #emoji_reduce:                       # Emoji 降频到第 idx 个位置
     #idx: 4
 
+  #20240722-尝试用动态调频来修正词库。
+  translator/enable_user_dict: true
+  translator/db_class: plain_userdb
 
 #opencc功能：简繁转换
   simplifier:

@@ -1,0 +1,7 @@
+# Rime user dictionary
+#@/db_name	zzdyx_mod
+#@/db_type	userdb
+#@/rime_version	1.11.2
+#@/tick	2
+#@/user_id	51f52ce6-8ac7-40dc-9ee8-cd3eec19048d
+tlpy 	调频	c=2 d=1.99501 t=2
