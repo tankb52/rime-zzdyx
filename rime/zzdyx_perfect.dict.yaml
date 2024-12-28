@@ -2,7 +2,7 @@
 # encoding:utf-8
 ---
 name: zzdyx_perfect
-version: "20241017"
+version: "20241007"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -734,8 +734,6 @@ ADP	adp
 爱思考	amsk
 爱神	amsl
 阿姆斯特朗	amsl
-爱谁谁	amss
-爱啥啥	amss
 爱书	amsx
 爱上	amsy
 阿弥陀佛	amtf
@@ -1292,7 +1290,6 @@ ADP	adp
 傲视群雄	asqx
 媪	asr
 媪	asro
-爱啥啥吧	assb
 唉声叹气	astq
 唉声叹气	astu
 昂首挺胸	astx
@@ -2706,7 +2703,6 @@ ATP	atp
 柏叶	bcyi
 标语	bcyl
 柏油路	bcyl
-板岩	bcyo
 榜眼	bcyo
 不齿于人	bcyr
 板牙	bcys
@@ -3363,7 +3359,6 @@ ATP	atp
 不分皂白	bfib
 本职	bfif
 本真	bfif
-博主	bfih
 本站	bfih
 北伐战争	bfii
 百分之九十九	bfij
@@ -3613,7 +3608,6 @@ ATP	atp
 不分皂白	bfzb
 本职	bfzf
 本真	bfzf
-博主	bfzh
 本站	bfzh
 百分之九十九	bfzj
 本作	bfzj
@@ -4967,7 +4961,6 @@ ATP	atp
 保护法	bjhf
 保护费	bjhf
 闭环	bjhg
-不计后果	bjhg
 白金汉宫	bjhg
 傍	bjhh
 保驾护航	bjhh
@@ -7069,7 +7062,6 @@ ATP	atp
 边境	bnju
 边际	bnjv
 边角	bnjw
-办结	bnjx
 边境线	bnjx
 边界线	bnjx
 办教育	bnjy
@@ -9821,7 +9813,6 @@ ATP	atp
 避重就轻	bzju
 边际	bzjv
 边角	bzjw
-办结	bzjx
 边境线	bzjx
 边界线	bzjx
 办教育	bzjy
@@ -14872,7 +14863,6 @@ ATP	atp
 炊事班	cmsb
 驰名商标	cmsb
 采石场	cmsc
-焯水	cmsd
 差事	cmsf
 炊事	cmsf
 曾说过	cmsg
@@ -16779,7 +16769,6 @@ ATP	atp
 策应	ctyh
 长夜	ctyh
 长吟	ctyi
-重阳节	ctyj
 程咬金	ctyj
 簇拥	ctyk
 乘以	ctyl
@@ -25997,7 +25986,6 @@ ATP	atp
 答数	dtsm
 笃实	dtsn
 第四	dtso
-短视频	dtsp
 短时	dtsr
 等身	dtsr
 等式	dtss
@@ -32331,9 +32319,8 @@ ATP	atp
 飞絮	fnxs
 发笑	fnxt
 飞行器	fnxu
-飞蟹	fnxw
-飞行物	fnxw
 发饷	fnxw
+飞行物	fnxw
 飞行员	fnxy
 发现者	fnxz
 悱	fny
@@ -45017,7 +45004,6 @@ GTP	gtp
 黄瓜籽	hfgi
 韩	hfgi
 胡搞	hfgk
-黄岗梁	hfgl
 韩国	hfgo
 黄冈	hfgo
 黄果	hfgo
@@ -46602,7 +46588,6 @@ GTP	gtp
 合山市	hjss
 合适	hjst
 合算	hjst
-含税	hjst
 化生	hjst
 黄金时期	hjsu
 货色	hjsw
@@ -55961,7 +55946,6 @@ GTP	gtp
 指法	ikf
 征服者	ikf
 振奋	ikfa
-执法办	ikfb
 执法	ikfd
 指法	ikfd
 征	ikfd
@@ -92620,7 +92604,6 @@ GTP	gtp
 名理	mwlg
 免礼	mwll
 猛料	mwlm
-猫粮	mwlm
 勉力	mwln
 猛力	mwln
 名利	mwlt
@@ -94751,7 +94734,6 @@ NFC	nfc
 拿不准	njbz
 闹出	njc
 念成	njca
-你瞅瞅	njcc
 你才	njcf
 佞臣	njcf
 弄假成真	njci
@@ -94875,7 +94857,6 @@ NFC	nfc
 您可	njkf
 拿开	njkg
 你看	njkk
-你看看	njkk
 拿	njkk
 那就可能	njkn
 念	njl
@@ -94925,7 +94906,6 @@ NFC	nfc
 拿枪	njqc
 拿取	njqf
 拿球	njqg
-你瞧瞧	njqq
 年纪轻轻	njqq
 拿起	njqu
 拿去	njqu
@@ -94966,7 +94946,6 @@ NFC	nfc
 拿取	njuf
 拿球	njug
 拿起	njuu
-你瞧瞧	njuu
 年纪轻轻	njuu
 拿去	njuu
 你去	njuu
@@ -149819,7 +149798,6 @@ sp³杂化	spsh
 收音	svyh
 随员	svyi
 孙燕姿	svyi
-收阅	svyj
 收音机	svyj
 收押	svyk
 收益率	svyl
@@ -151041,7 +151019,6 @@ sp³杂化	spsh
 时隐时现	sysx
 上思县	sysx
 叔叔	sysy
-石英砂岩	sysy
 上锁	sysy
 锁上	sysy
 上上	sysy
@@ -154656,7 +154633,6 @@ sp³杂化	spsh
 托克维尔	tkwe
 痛苦万分	tkwf
 探望	tkwh
-投喂	tkwi
 提问	tkwj
 摊位	tkwj
 探问	tkwj
@@ -179691,7 +179667,6 @@ Z	vyz
 选育	xtyh
 笑意	xtyh
 笑言	xtyh
-香叶	xtyi
 选优	xtyj
 先予	xtyl
 先验论	xtyl
@@ -182232,7 +182207,6 @@ Z	vyz
 已把	ybbk
 已被	ybbl
 引爆	ybbm
-已办	ybbn
 欲罢不能	ybbn
 一病不起	ybbq
 引兵	ybbr
@@ -182243,7 +182217,6 @@ Z	vyz
 已备	ybbw
 以备不时之需	ybbx
 异步	ybby
-已办	ybbz
 已	ybc
 已成	ybca
 尉迟	ybcb
@@ -198561,7 +198534,6 @@ Z	vyz
 指法	zkf
 征服者	zkf
 振奋	zkfa
-执法办	zkfb
 执法	zkfd
 指法	zkfd
 征	zkfd
