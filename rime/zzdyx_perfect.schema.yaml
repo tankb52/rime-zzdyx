@@ -67,7 +67,7 @@ translator:
   prism: zzdyx_perfect
   enable_charset_filter: false
   enable_encoder: false
-  enable_completion: true
+  enable_completion: true       #编码提示
   enable_sentence: false
   encode_commit_history: true
   enable_user_dict: false
