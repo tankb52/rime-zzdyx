@@ -1,4 +1,4 @@
-#patch:
+patch:
 #  "app_options/cmd.exe":
 #    ascii_mode: true
 #  "app_options/securecrt.exe":
@@ -11,16 +11,16 @@
 #    ascii_mode: true
 #  "app_options/vim":
 #    ascii_mode: true
-#  "app_options/gvim":
-#    ascii_mode: true
+  "app_options/gvim":
+    ascii_mode: false
 #  "app_options/freeplane":
 #    ascii_mode: false
 #  "app_options/java":
 #    ascii_mode: false
-#  "app_options/Urxvt":
-#    ascii_mode: false
-#  "app_options/rxvt":
-#    ascii_mode: false
+  "app_options/Urxvt":
+    ascii_mode: false
+  "app_options/rxvt":
+    ascii_mode: false
 #  "app_options/xterm":
 #    ascii_mode: true
 #  "app_options/alacritty":

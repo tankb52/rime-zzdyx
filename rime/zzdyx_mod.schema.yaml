@@ -67,7 +67,7 @@ translator:
   prism: zzdyx_mod
   enable_charset_filter: false
   enable_encoder: false
-  enable_completion: true
+  enable_completion: true     # 编码提示
   enable_sentence: false
   encode_commit_history: true
   enable_user_dict: false
@@ -75,8 +75,8 @@ translator:
 
 #拼音混输
 abc_segmentor:
-  extra_tags:
-    - pinyin_lookup 
+  #extra_tags:
+    #- pinyin_lookup 
 
 #配置反查
 #拼音反查：输入Up开始拼音反查
