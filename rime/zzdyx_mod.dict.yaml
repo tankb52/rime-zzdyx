@@ -216,6 +216,7 @@ CPU	cpu
 嗷	aig
 嗷	aigt
 啊哈	aihi
+唉	ail
 唉	ailt
 嗳	aim
 嗳	aima
@@ -3545,6 +3546,7 @@ CPU	cpu
 播出	bkcv
 摒除	bkcv
 彼此	bkcy
+报错	bkcy
 报导	bkdb
 彼得堡	bkdb
 摆渡车	bkdc
@@ -14777,6 +14779,7 @@ bilibili	blbl
 道法自然	dfir
 带至	dfis
 带走	dfiu
+鞑子	dfiv
 带子	dfiv
 顶针	dfiy
 大放厥词	dfjc
@@ -19397,7 +19400,6 @@ bilibili	blbl
 担心害怕	dxhp
 等闲之辈	dxib
 缔造出	dxic
-到现在为止	dxii
 缔造者	dxii
 缔造	dxit
 缎子	dxiv
@@ -26182,6 +26184,7 @@ bilibili	blbl
 工作服	gfif
 工字钢	gfig
 工资	gfih
+古装	gfih
 聒噪	gfii
 耇	gfii
 革	gfii
@@ -26537,6 +26540,7 @@ bilibili	blbl
 工作服	gfzf
 工字钢	gfzg
 工资	gfzh
+古装	gfzh
 聒噪	gfzi
 工作	gfzj
 工作间	gfzj
@@ -33568,6 +33572,7 @@ GPRS	gprs
 换手率	hksl
 海枯石烂	hksl
 护送	hksm
+行数	hksm
 衡山	hkso
 很少	hksp
 挥师	hksp
@@ -47173,6 +47178,7 @@ GPRS	gprs
 夹子	jhiv
 减脂	jhiv
 竞争	jhiw
+夹杂	jhiw
 竞	jhiw
 交织	jhix
 决战	jhiy
@@ -47505,6 +47511,7 @@ GPRS	gprs
 夹子	jhzv
 减脂	jhzv
 竞争	jhzw
+夹杂	jhzw
 交织	jhzx
 决战	jhzy
 叫	ji
@@ -56398,6 +56405,7 @@ GPRS	gprs
 历史剧	lasj
 历史课	lask
 历数	lasm
+列数	lasm
 奁	lasm
 烈士墓	lasm
 历史	laso
@@ -61519,6 +61527,7 @@ GPRS	gprs
 绿党	lxdj
 练得	lxdk
 绿灯	lxdm
+绿道	lxdm
 骊	lxdo
 绿的	lxdr
 练到	lxds
@@ -109596,8 +109605,8 @@ QQ密码	qqmm
 圣杯	slbc
 祀	slbc
 说不出	slbc
-四六不懂	slbd
 说不定	slbd
+四六不懂	slbd
 双鬓	slbf
 圣伯夫	slbf
 生理变化	slbh
@@ -116926,8 +116935,8 @@ QQ密码	qqmm
 探亲假	tkqj
 提请	tkql
 提前	tkqm
-抬起头	tkqt
 提气	tkqt
+抬起头	tkqt
 抬起	tkqu
 提起	tkqu
 拖欠	tkqw
@@ -116999,8 +117008,8 @@ QQ密码	qqmm
 探亲假	tkuj
 提请	tkul
 提前	tkum
-抬起头	tkut
 提气	tkut
+抬起头	tkut
 提起	tkuu
 抬起	tkuu
 拖欠	tkuw
@@ -117247,7 +117256,6 @@ QQ密码	qqmm
 台驾	tljz
 通假字	tljz
 铁路口岸	tlka
-脱离困境	tlkj
 调侃	tlkj
 调控	tlkk
 叹了口气	tlkq
@@ -117257,8 +117265,8 @@ QQ密码	qqmm
 通灵	tllb
 通栏	tllc
 台联	tllf
-讨论稿	tllg
 调理	tllg
+讨论稿	tllg
 袒露	tllh
 讨论会	tllh
 通路	tlli
@@ -127292,6 +127300,7 @@ Z	vyz
 亡命之徒	wmit
 无冕之王	wmiw
 闻名中外	wmiw
+为止	wmiy
 烷基	wmjf
 物美价廉	wmjl
 为	wmk
@@ -127350,6 +127359,7 @@ Z	vyz
 亡命之徒	wmzt
 无冕之王	wmzw
 闻名中外	wmzw
+为止	wmzy
 完	wn
 悟	wn
 瓦努阿图	wnat
@@ -128606,6 +128616,7 @@ Z	vyz
 危重	wwit
 丸子	wwiv
 外周	wwiw
+唯物主义	wwiy
 外交部	wwjb
 外经部	wwjb
 危机	wwjc
@@ -128862,6 +128873,7 @@ Z	vyz
 危重	wwzt
 丸子	wwzv
 外周	wwzw
+唯物主义	wwzy
 完完整整	wwzz
 无妄之灾	wwzz
 纬	wx
