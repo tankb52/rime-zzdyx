@@ -11,21 +11,35 @@ columns:
 ...
 #下面这行后的“井号符号”就不是注释了
 # no comment
+A.B.C.D.	abcd
+AB型血	abxx
+A型血	axx
+B型血	bxx
+O型血	oxx
 app	app
 ATP	atp
+ATM	atm
+ATM机	atmj
+BP机	bpj
+CEO	ceo
+CPU	cpu
 ChatGPT	chat
+DNA	dna
+ETC	etc
 hello！	hell
 http://	http
+p图	pto
+RNA	rna
+T恤	txn
+T恤衫	txns
 UP主	upi
 UP主	upig
 UP主	upz
 UP主	upzg
-p图	pto
-T恤	txn
-A.B.C.D.	abcd
-CEO	ceo
-ETC	etc
-CPU	cpu
+VS	vs
+WiFi	wifi
+Wi-Fi	wifi
+x光	xgj
 以	a
 以前	a
 以后	a
@@ -5086,6 +5100,7 @@ bilibili	blbl
 髀肉复生	brfs
 兵符	brft
 暴风	brfw
+白饭	brfw
 暴风雪	brfx
 暴风雨	brfy
 暴发	brfz
@@ -8623,6 +8638,7 @@ bilibili	blbl
 冲模	chmc
 充满	chmd
 瘥	chmf
+次幂	chml
 疢	chmm
 痴迷	chmm
 冲脉	chmv
@@ -12066,7 +12082,6 @@ bilibili	blbl
 超短波	cudb
 赤豆	cudd
 超跌股	cudg
-从前到后	cudh
 超度	cudh
 超跌	cudi
 超低	cudj
@@ -15653,6 +15668,7 @@ bilibili	blbl
 斗转星移	dixy
 吊运	diyg
 吊唁	diyi
+电子邮件	diyj
 动之以情，晓之以理	diyl
 动之以情	diyq
 独自一人	diyr
@@ -17346,6 +17362,7 @@ bilibili	blbl
 刀	dn
 窦	dn
 惰	dna
+脱氧核糖核酸	dna
 宕	dnai
 定案	dnan
 惰	dnav
@@ -19862,6 +19879,7 @@ bilibili	blbl
 东张西望	dzxw
 对症下药	dzxy
 斗转星移	dzxy
+电子邮件	dzyj
 动之以情，晓之以理	dzyl
 动之以情	dzyq
 独自一人	dzyr
@@ -20419,6 +20437,7 @@ bilibili	blbl
 讹	el
 谔	el
 二律背反	elbf
+讹变	elbh
 恶了巴心	elbx
 鄂伦春族	elci
 讹传	elcj
@@ -25934,6 +25953,7 @@ bilibili	blbl
 滚烫	gdtd
 港台剧	gdtj
 沟通	gdtl
+港台	gdtl
 港台腔	gdtq
 滚筒	gdtt
 港台腔	gdtu
@@ -31136,6 +31156,7 @@ GPRS	gprs
 祸从天降	hctj
 桓台	hctl
 核糖	hctm
+核突	hctn
 核桃楸	hctq
 核桃仁	hctr
 核糖体	hctt
@@ -36911,8 +36932,8 @@ GPRS	gprs
 张张	ibib
 找不着北	ibib
 追奔逐北	ibib
-张之洞	ibid
 知不知道	ibid
+张之洞	ibid
 重磅炸弹	ibid
 张嘴	ibii
 找不自在	ibii
@@ -37024,9 +37045,9 @@ GPRS	gprs
 张张	ibzb
 找不着北	ibzb
 追奔逐北	ibzb
-张之洞	ibzd
 知不知道	ibzd
 重磅炸弹	ibzd
+张之洞	ibzd
 张嘴	ibzi
 找不自在	ibzi
 张仲景	ibzj
@@ -37379,6 +37400,8 @@ GPRS	gprs
 注解	idjw
 中等教育	idjy
 浙	idk
+ID	id
+ID卡	idky
 泽库	idkh
 浙	idkq
 泽	idl
@@ -45498,6 +45521,7 @@ GPRS	gprs
 机中	jcio
 极致	jcis
 机智	jcit
+机长	jcit
 桔子	jciv
 橘子	jciv
 机组	jcix
@@ -45721,6 +45745,7 @@ GPRS	gprs
 机中	jczo
 极致	jczs
 机智	jczt
+机长	jczt
 桔子	jczv
 橘子	jczv
 机组	jczx
@@ -46801,6 +46826,7 @@ GPRS	gprs
 静海	jghd
 进化	jghj
 进货	jghj
+井号键	jghj
 进化论	jghl
 举国欢庆	jghq
 击毁	jghr
@@ -47183,9 +47209,9 @@ GPRS	gprs
 交换台	jhht
 交换器	jhhu
 瘠	jhhv
-京哈线	jhhx
-京沪线	jhhx
 减缓	jhhx
+京沪线	jhhx
+京哈线	jhhx
 京	jhi
 将在	jhia
 净资产	jhic
@@ -47407,6 +47433,7 @@ GPRS	gprs
 减退	jhtb
 襟怀坦白	jhtb
 襟怀坦荡	jhtd
+交通灯	jhtd
 交替	jhtg
 竞投	jhtk
 麇	jhtk
@@ -49566,6 +49593,7 @@ GPRS	gprs
 加封	jnfu
 家风	jnfw
 举凡	jnfw
+加分项	jnfx
 寄发	jnfz
 举	jng
 缉拿归案	jnga
@@ -52458,8 +52486,8 @@ GPRS	gprs
 绝收	jxsv
 绝色	jxsw
 谨小慎微	jxsw
-纪实性	jxsx
 缰绳	jxsx
+经书	jxsx
 结束语	jxsy
 经受住	jxsz
 给事中	jxsz
@@ -52487,6 +52515,7 @@ GPRS	gprs
 经纬度	jxwd
 绝无	jxwg
 绝望	jxwh
+经文	jxwh
 驹	jxwi
 继位	jxwj
 继往	jxwk
@@ -57999,6 +58028,7 @@ GPRS	gprs
 老样子	lfyi
 老爷子	lfyi
 两亿	lfyj
+两仪	lfyj
 赖以	lfyl
 两翼	lfyl
 老爷	lfym
@@ -68867,6 +68897,7 @@ GPRS	gprs
 鸟嘴	nwii
 逆我者亡	nwiw
 鲶	nwj
+鸟居	nwjb
 内外夹攻	nwjg
 鸟叫	nwji
 内外夹击	nwjj
@@ -95611,6 +95642,7 @@ GPRS	gprs
 泡茶	pdce
 泡菜	pdce
 派出所	pdcs
+泊车	pdcs
 浦城	pdcu
 派出	pdcv
 漂荡	pdde
@@ -104902,6 +104934,7 @@ QQ密码	qqmm
 熔铸	rmzy
 容	rn
 忍	rn
+核糖核酸	rna
 忍不住	rnbi
 忍不住	rnbz
 容错码	rncm
@@ -108459,17 +108492,21 @@ QQ密码	qqmm
 鹴	shwd
 衰萎	shwe
 衰亡	shwh
+生化物资	shwi
 四海为家	shwj
 衰微	shwk
 施为	shwm
 飒	shwm
 水火无情	shwq
+生化武器	shwq
 衰旺	shwr
 市委	shwt
 商委	shwt
 水火无情	shwu
+生化武器	shwu
 商务	shww
 上海外国语大学	shwx
+生化物资	shwz
 率	shx
 衰朽	shxc
 上呼吸道	shxd
@@ -112763,6 +112800,7 @@ QQ密码	qqmm
 升华	sthj
 稍候	sthj
 私货	sthj
+生化	sthj
 失衡	sthk
 伤天害理	sthl
 失火	sthm
@@ -116537,8 +116575,8 @@ QQ密码	qqmm
 停机	tjjc
 倘	tjji
 团结紧张	tjji
-停机库	tjjk
 途径	tjjk
+停机库	tjjk
 偷家	tjjn
 倘	tjjo
 停机坪	tjjp
@@ -117384,8 +117422,8 @@ QQ密码	qqmm
 调皮	tlpn
 通盘	tlpq
 通篇	tlpt
-讨便宜	tlpy
 调频	tlpy
+讨便宜	tlpy
 调皮	tlpz
 谈判桌	tlpz
 通勤车	tlqc
@@ -119107,6 +119145,7 @@ QQ密码	qqmm
 兔毛	twmt
 鸵	twn
 饧	twne
+兔女郎	twnl
 逖	twnn
 兔年	twnt
 鸵鸟	twnw
@@ -119461,6 +119500,7 @@ QQ密码	qqmm
 糖衣炮弹	typd
 铁皮	typn
 铁片	typr
+铜牌	typr
 铁皮	typz
 徒有其表	tyqb
 陶冶情操	tyqc
@@ -128155,6 +128195,7 @@ Z	vyz
 无所适从	wssc
 无事生非	wssf
 万事	wssf
+万世	wssf
 瓦斯	wssf
 万寿	wssg
 为时尚早	wssi
@@ -131886,6 +131927,7 @@ Z	vyz
 傒	xjmx
 细嚼慢咽	xjmy
 斜	xjn
+仙女棒	xjnb
 斜	xjnf
 仙女座	xjni
 信念	xjnj
@@ -137736,6 +137778,7 @@ Z	vyz
 莺	ye
 蔚	yeb
 英磅	yeba
+英标	yebc
 引而不发	yebf
 荫庇	yebh
 议而不决	yebj
@@ -138922,6 +138965,7 @@ Z	vyz
 意见书	yhjs
 瘀积	yhjt
 意境	yhju
+韵脚	yhjv
 音阶	yhjv
 应急	yhjw
 意见箱	yhjx
@@ -144991,9 +145035,9 @@ Z	vyz
 张张	zbib
 找不着北	zbib
 追奔逐北	zbib
-张之洞	zbid
 知不知道	zbid
 重磅炸弹	zbid
+张之洞	zbid
 张嘴	zbii
 找不自在	zbii
 张仲景	zbij
@@ -145108,9 +145152,9 @@ Z	vyz
 张张	zbzb
 找不着北	zbzb
 追奔逐北	zbzb
-张之洞	zbzd
 知不知道	zbzd
 重磅炸弹	zbzd
+张之洞	zbzd
 张嘴	zbzi
 张仲景	zbzj
 知彼知己	zbzj

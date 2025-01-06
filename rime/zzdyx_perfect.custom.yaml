@@ -45,6 +45,8 @@
     opencc_config: emoji.json
     option_name: show_emoji
     tags: abc
+    tag: emoji
+    tips: all
 
 #opencc功能：简繁转换
   simplifier:

@@ -1,6 +1,7 @@
 .
 build/
 pinyin_simp.userdb/
+pinyin_simp.userdb.txt
 sync/
 rsync_exclude.txt
 zzdyx_userdict.txt
