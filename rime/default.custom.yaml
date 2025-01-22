@@ -15,7 +15,6 @@ patch:
     caption: "【设置菜单】"
     fold_options: true
     hotkeys:
-      - "Control+grave"
       - "Control+Shift+grave"
       - "F4"
   menu:
