@@ -2,7 +2,7 @@
 # encoding:utf-8
 ---
 name: zzdyx_mod
-version: "20240702"
+version: "20250126"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -2974,6 +2974,7 @@ x光	xgj
 蹦出	bicv
 啵	bid
 别动队	bidd
+别动	bidg
 表彰大会	bidh
 蹦跶	bidi
 吡啶	bidi
@@ -6148,8 +6149,8 @@ bilibili	blbl
 博闻强识	bwuz
 鲃	bwvc
 饱	bww
-飑	bwwb
 鲍	bwwb
+飑	bwwb
 鸨	bwwd
 鲍威尔	bwwe
 备忘	bwwh
@@ -9555,8 +9556,8 @@ bilibili	blbl
 创意	cjyh
 传言	cjyh
 常言	cjyh
-从业者	cjyi
 常用字	cjyi
+从业者	cjyi
 创业者	cjyi
 传阅	cjyj
 传扬	cjyk
@@ -9573,6 +9574,7 @@ bilibili	blbl
 常用	cjyw
 辞旧迎新	cjyx
 常用字	cjyz
+从业者	cjyz
 创业者	cjyz
 常在	cjza
 传家之宝	cjzb
@@ -9651,13 +9653,13 @@ bilibili	blbl
 撑大	ckda
 拆弹	ckdb
 扯淡	ckdd
-持肯定态度	ckdd
 抽动	ckdg
 彻底	ckdh
-抄底	ckdh
 插科打诨	ckdh
+抄底	ckdh
 撑得住	ckdi
 拆掉	ckdk
+撺掇	ckdk
 撤掉	ckdk
 擦掉	ckdk
 抽调	ckdl
@@ -12043,9 +12045,9 @@ bilibili	blbl
 城	cua
 城	cuak
 墀	cub
-乘其不备	cubb
 赤壁	cubb
 趁其不备	cubb
+乘其不备	cubb
 超标	cubc
 墀	cubd
 超薄	cube
@@ -15753,6 +15755,7 @@ bilibili	blbl
 低处	djcw
 倒饬	djcw
 代偿性	djcx
+代餐	djcy
 当此	djcy
 低档	djdc
 大奸大恶	djde
@@ -16347,6 +16350,7 @@ bilibili	blbl
 掉转	dkis
 抵制	dkit
 打造	dkit
+得知	dkit
 德智体	dkit
 打砸抢	dkiu
 担子	dkiv
@@ -16645,9 +16649,10 @@ bilibili	blbl
 得早	dkzr
 得罪人	dkzr
 掉转	dkzs
-德智体	dkzt
-打造	dkzt
 抵制	dkzt
+打造	dkzt
+得知	dkzt
+德智体	dkzt
 得志	dkzu
 打砸抢	dkzu
 担子	dkzv
@@ -26122,6 +26127,7 @@ bilibili	blbl
 工程师	gfcs
 过程	gfct
 工程	gfct
+过场	gfcu
 古城	gfcu
 革除	gfcv
 共处	gfcw
@@ -28214,9 +28220,9 @@ bilibili	blbl
 关岛	gmdw
 关岛	gmdw
 公德心	gmdx
-功莫大焉	gmdy
-沽名钓誉	gmdy
 糕点	gmdy
+沽名钓誉	gmdy
+功莫大焉	gmdy
 爟	gmei
 哥们儿义气	gmeq
 哥们儿义气	gmeu
@@ -43687,6 +43693,7 @@ ID卡	idky
 子弹壳	ivdk
 阻挡	ivdk
 子弟	ivdm
+阻断	ivdm
 子弹壳	ivdq
 子弹头	ivdt
 子弹壳	ivdu
@@ -52052,9 +52059,9 @@ ID卡	idky
 角色	jwsw
 几丝	jwsx
 及时性	jwsx
-解说员	jwsy
-及时雨	jwsy
 解锁	jwsy
+及时雨	jwsy
+解说员	jwsy
 据我所知	jwsz
 节外生枝	jwsz
 解套	jwta
@@ -96250,6 +96257,7 @@ ID卡	idky
 平陆	phlv
 霹雳舞	phlw
 烹	phm
+平面	phma
 剖面	phma
 平民	phmb
 平面波	phmb
@@ -108464,6 +108472,7 @@ QQ密码	qqmm
 神乎其神	shqs
 疝气	shqt
 瘦	shr
+瘦弱	shrb
 衰弱	shrb
 麝	shrf
 熟人	shrj
@@ -108494,9 +108503,7 @@ QQ密码	qqmm
 实话实说	shss
 说话算数	shss
 衰色	shsw
-上海师范大学	shsx
 岁寒三友	shsy
-税后收益	shsy
 施	sht
 衰退	shtb
 霜天	shtg
@@ -111463,8 +111470,8 @@ QQ密码	qqmm
 蛇	son
 史努比	sonb
 山南	sonf
-四年级	sonj
 思念	sonj
+四年级	sonj
 四逆	sonm
 睢宁	sonn
 四年	sont
@@ -113799,6 +113806,7 @@ QQ密码	qqmm
 三维空间	swkj
 勺	swkk
 生无可恋	swkl
+色卡	swky
 殳	swl
 鲹	swla
 狩猎场	swlc
@@ -117452,9 +117460,9 @@ QQ密码	qqmm
 台南	tlnf
 通	tlnn
 天理难容	tlnr
+通配符	tlpf
 调配	tlpf
 通票	tlpf
-通配符	tlpf
 讨平	tlph
 谈判桌	tlpi
 谈判	tlpm
@@ -117499,6 +117507,7 @@ QQ密码	qqmm
 通式	tlss
 调适	tlst
 谭嗣同	tlst
+调色	tlsw
 褪色	tlsw
 通缩	tlsx
 谈生意	tlsy
@@ -121441,8 +121450,8 @@ QQ密码	qqmm
 凄婉	uhws
 齐物	uhwt
 亲兄弟	uhxd
-恰好相反	uhxf
 旗下	uhxf
+恰好相反	uhxf
 前后相属	uhxi
 敲响	uhxi
 亲信	uhxj
@@ -135044,6 +135053,7 @@ Z	vyz
 限号	xvhi
 险乎	xvhm
 胸怀	xvhn
+陷害	xvhn
 陷在	xvia
 胸椎	xvic
 险遭	xvif
@@ -136386,6 +136396,7 @@ Z	vyz
 硬生生	yass
 原生	yast
 压岁钱	yasu
+原声	yasu
 尤胜	yasv
 原色	yasw
 压缩	yasx
@@ -137124,6 +137135,7 @@ Z	vyz
 沿边	ydbn
 一般	ydbq
 一把手	ydbs
+一把梭	ydbs
 演播室	ydbs
 言多必失	ydbs
 有得必有失	ydbs
@@ -144039,9 +144051,9 @@ Z	vyz
 约翰	yxhf
 幽魂	yxhg
 英雄好汉	yxhh
-幽会	yxhj
 约会	yxhj
 验货	yxhj
+幽会	yxhj
 英雄豪杰	yxhj
 烟熏火燎	yxhl
 月下花前	yxhq
@@ -144084,8 +144096,8 @@ Z	vyz
 以下几个	yxjg
 幽静	yxjg
 言行举止	yxji
-元宵佳节	yxjj
 雨雪交加	yxjj
+元宵佳节	yxjj
 幽径	yxjk
 元宵节快乐	yxjl
 约计	yxjl
@@ -151698,6 +151710,7 @@ Z	vyz
 子弹壳	zvdk
 阻挡	zvdk
 子弟	zvdm
+阻断	zvdm
 子弹壳	zvdq
 子弹头	zvdt
 子弹壳	zvdu
